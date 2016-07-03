@@ -27,6 +27,7 @@
   
   <xsl:template name="user.head.content">
     <xsl:copy-of select="document('analytics.js', /)"/>
+    <!--xsl:copy-of select="document('mathjax_config.js', /)"/-->
     <xsl:copy-of select="document('mathjax.js', /)"/>
   </xsl:template>
   <xsl:template name="user.footer.navigation">

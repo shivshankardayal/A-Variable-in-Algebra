@@ -17,10 +17,20 @@
     vs 7 balls or 12 shoes vs 8 shoes.
   </d:para>
   <d:para>
-    A ratio beween two qualtities Q1 and Q2 is written as Q1:Q2 most of the
-    time. Q1 or the first term is called the <d:emphasis
-    role="bold">antecedent</d:emphasis> and the Q2 or the second term is called
-    the <d:emphasis role="bold">consequent</d:emphasis>.
+    A ratio between two quantities <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Q</mi><mn>1</mn></mrow></math>
+    and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Q</mi><mn>2</mn></mrow></math>
+    is written as <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Q</mi><mn>1</mn><mo>:</mo><mi>Q</mi><mn>2</mn></mrow></math>
+    most of the
+    time. <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Q</mi><mn>1</mn></mrow></math>
+    or the first term is called the <d:emphasis
+    role="bold">antecedent</d:emphasis> and the <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Q</mi><mn>2</mn></mrow></math>
+    or the second term is called the <d:emphasis
+    role="bold">consequent</d:emphasis>.
   </d:para>
   <d:para>
     To measure the ratio between two quantities typically we use fractions. A
@@ -48,13 +58,19 @@
     <d:para>
       To compare two ratios we need to make their denominator same the we can
       deduce if they are equal or unequal. For example consider two ratios
-      r1:r2 and r3:r4. Then, we can have
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>r</mi><mn>1</mn><mo>:</mo><mi>r</mi><mn>2</mn></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>r</mi><mn>3</mn><mo>:</mo><mi>r</mi><mn>4</mn></mrow></math>. Then,
+      we can have
       <d:informalequation>
         <math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="0em" rowspacing="3pt" columnalign="right left"><mtr><mtd><mfrac><mrow><mi>r</mi><mn>1</mn></mrow><mrow><mi>r</mi><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>r</mi><mn>1</mn><mi>r</mi><mn>4</mn></mrow><mrow><mi>r</mi><mn>2</mn><mi>r</mi><mn>4</mn></mrow></mfrac><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mi mathvariant="normal">&amp;</mi><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mfrac><mrow><mi>r</mi><mn>3</mn></mrow><mrow><mi>r</mi><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>r</mi><mn>3</mn><mi>r</mi><mn>2</mn></mrow><mrow><mi>r</mi><mn>2</mn><mi>r</mi><mn>4</mn></mrow></mfrac></mtd></mtr></mtable></math>
         </d:informalequation>
         Now since consequent is same for both the ratios we can determine which
-        ratio is bigger or equal or smaller by determining if r1r4 is bigger or
-        equal or smaller as compared to r2r3.
+        ratio is bigger or equal or smaller by determining if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>r</mi><mn>1</mn><mo></mo><mi>r</mi><mn>4</mn></mrow></math>
+        is bigger or equal or smaller as compared to <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>r</mi><mn>2</mn><mo></mo><mi>r</mi><mn>3</mn></mrow></math>.
     </d:para>
   </d:sect1>
   <d:sect1>
@@ -62,8 +78,11 @@
     <d:para>
       Clearly, a ratio can be represented by a fraction of two integers. Now
       let us try to see what happens to ratio of two ratios.Consider two
-      ratios: a:b and math:c:d. Thus we can write ratio of these two raios as
-      fraction
+      ratios: <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>:</mo><mi>b</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi><mo>:</mo><mi>d</mi></mrow></math>. Thus
+      we can write ratio of these two ratios as fraction
       <d:informalequation>
         <math
             xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfrac><mi>a</mi><mi>b</mi></mfrac><mfrac><mi>c</mi><mi>d</mi></mfrac></mfrac><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mi>o</mi><mi>r</mi><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mfrac><mrow><mi>a</mi><mi>d</mi></mrow><mrow><mi>b</mi><mi>c</mi></mrow></mfrac></math>
@@ -92,8 +111,12 @@
       consequents.
     </d:para>
     <d:para>
-      For example, consider some ratios: a:b, c:d and e:f. The compounded ratio
-      is abc:def.
+      For example, consider some ratios: <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>:</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>:</mo><mi>d</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>e</mi><mo>:</mo><mi>f</mi></mrow></math>. The
+      compounded ratio is <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>abc</mi><mo>:</mo><mi>def</mi></mrow></math>.
     </d:para>
   </d:sect1>
   <d:sect1>
@@ -299,6 +322,351 @@
       <math
           xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>a</mi><mn>3</mn></msub><mi>x</mi><mo>+</mo><msub><mi>b</mi><mn>3</mn></msub><mi>y</mi><mo>+</mo><msub><mi>c</mi><mn>3</mn></msub><mi>z</mi><mo>=</mo><mn>0</mn></math>
     </d:equation>
-    
+    So by our previous rule of cross-multiplication between equation (2.1),
+    (2.2) and (2.4) we have,
+    <d:informalequation>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"
+            display="block"><mfrac><mi>x</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>b</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>b</mi><mn>2</mn></msub><msub><mi>c</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac><mo>,</mo><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mfrac><mi>y</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>c</mi><mn>1</mn></msub><msub><mi>a</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>c</mi><mn>2</mn></msub><msub><mi>a</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac></math>
+    </d:informalequation>
+    Now if we take these ratios to be equal to k then multiplying and
+    substituting in equation (2.4) we have,
+    <d:informalequation>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>a</mi><mn>3</mn></msub><mo>(</mo><msub><mi>b</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub><mo>-</mo><msub><mi>b</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub><mo>)</mo><mo>+</mo><msub><mi>b</mi><mn>3</mn></msub><mo>(</mo><msub><mi>c</mi><mn>1</mn></msub><msub><mi>a</mi><mn>2</mn></msub><mo>-</mo><msub><mi>c</mi><mn>2</mn></msub><msub><mi>a</mi><mn>1</mn></msub><mo>)</mo><mo>+</mo><msub><mi>c</mi><mn>3</mn></msub><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><mn>0</mn></math>
+    </d:informalequation>
+    <d:para>
+      This particular relation is known as the <d:emphasis
+      role="bold">eliminant</d:emphasis> of the given equations.
+    </d:para>
+  </d:sect1>
+  <d:sect1>
+    <d:title>Problems</d:title>
+    <d:orderedlist>
+      <d:listitem>
+        Find the ratio of ratios
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>4</mn><mo>:</mo><mn>7</mn></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>11</mn><mo>:</mo><mn>5</mn></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        Find the ratio of ratios
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>13</mn><mo>:</mo><mn>24</mn></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>34</mn><mo>:</mo><mn>23</mn></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        Find out that among the following pair of ratios which one is greater
+        in the pair:
+        <d:orderedlist>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>4</mn><mo>:</mo><mn>5</mn></mrow></math>
+            and <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>5</mn><mo>:</mo><mn>6</mn></mrow></math>,
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>34</mn><mo>:</mo><mn>33</mn></mrow></math>
+            and <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>68</mn><mo>:</mo><mn>67</mn></mrow></math>
+            and
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>124</mn><mo>:</mo><mn>63</mn></mrow></math>
+            and <math 
+            xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>233</mn><mo>:</mo><mn>120</mn></mrow></math>.
+          </d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        Find the duplicate, triplicate and subduplicate of following ratios:
+        <d:orderedlist>
+          <d:listitem>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mrow><mo form="prefix">(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo form="postfix">)</mo></mrow><mo>:</mo><mi>y</mi><mo>-</mo><mn>5</mn></mrow></math>
+          </d:listitem>
+          <d:listitem>
+            <d:informalequation><math
+                                    xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>:</mo><msup><mi>a</mi><mn>3</mn></msup><mo>-</mo><msup><mi>b</mi><mn>3</mn></msup></math></d:informalequation>
+          </d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mo>:</mo><mn>3</mn><mrow><mo
+        form="prefix">(</mo><mi>x</mi><mo>+</mo><mn>7</mn><mo
+        form="postfix">)</mo></mrow></mrow></math> has a ratio of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>7</mn><mo>:</mo><mn>9</mn></mrow></math>
+        then find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        Find two numbers in the ratio of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>11</mn><mo>:</mo><mn>17</mn></mrow></math>
+        where one exceeds other by <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>126</mn></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        What number must be added to each of the terms of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>5</mn><mo>:</mo><mn>13</mn></mrow></math>
+        to make it equal to <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>5</mn><mo>:</mo><mn>7</mn></mrow></math>?
+      </d:listitem>
+      <d:listitem>
+        What number must be subtracted from each of the terms of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>33</mn><mo>:</mo><mn>37</mn></mrow></math>
+        to make it equal to <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>7</mn><mo>:</mo><mn>9</mn></mrow></math>?
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mo>:</mo><mi>y</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>3</mn><mo>:</mo><mn>5</mn></mrow></math>,
+        find the ratio of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>9</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>:</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mfrac><mi>e</mi><mi>f</mi></mfrac><mo>,</mo></math>
+        </d:inlineequation>
+        prove that
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>7</mn><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><msup><mi>e</mi><mn>4</mn></msup><mi>f</mi></mrow><mrow><mn>7</mn><msup><mi>b</mi><mn>6</mn></msup><mo>+</mo><mn>8</mn><msup><mi>b</mi><mn>2</mn></msup><msup><mi>f</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><msup><mi>e</mi><mn>5</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mn>4</mn></msup></mfrac><mo>.</mo></math>
+        </d:inlineequation>
+      </d:listitem>
+      <d:listitem>
+                If
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mfrac><mi>e</mi><mi>f</mi></mfrac><mo>,</mo></math>
+        prove that <d:inlineequation><math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>a</mi><mi>d</mi></mfrac></math></d:inlineequation>
+        is equal to
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mfrac><mrow><msup><mi>a</mi><mn>5</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><msup><mi>a</mi><mn>3</mn></msup><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mn>4</mn></msup><mi>c</mi><mo>+</mo><msup><mi>d</mi><mn>4</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mi>c</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac></msqrt><mo>.</mo></math>
+        </d:inlineequation>
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>x</mi><mrow><mi>q</mi><mo>+</mo><mi>r</mi><mo>-</mo><mi>p</mi></mrow></mfrac><mo>=</mo><mfrac><mi>y</mi><mrow><mi>r</mi><mo>+</mo><mi>p</mi><mo>-</mo><mi>q</mi></mrow></mfrac><mo>=</mo><mfrac><mi>z</mi><mrow><mi>p</mi><mo>=</mo><mi>q</mi><mo>-</mo><mi>r</mi></mrow></mfrac></math>
+        </d:inlineequation>
+          prove that <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mrow><mo
+          form="prefix">(</mo><mi>q</mi><mo>-</mo><mi>r</mi><mo
+          form="postfix">)</mo></mrow><mi>x</mi><mo>+</mo><mrow><mo
+          form="prefix">(</mo><mi>r</mi><mo>-</mo><mi>p</mi><mo
+          form="postfix">)</mo></mrow><mi>y</mi><mo>+</mo><mrow><mo
+          form="prefix">(</mo><mi>p</mi><mo>-</mo><mi>q</mi><mo
+          form="postfix">)</mo></mrow><mi>z</mi><mo>=</mo><mn>0</mn></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow><mrow><mi>p</mi><mi>b</mi><mo>+</mo><mi>q</mi><mi>c</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>z</mi><mo>+</mo><mi>x</mi></mrow><mrow><mi>p</mi><mi>c</mi><mo>+</mo><mi>q</mi><mi>a</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mrow><mi>p</mi><mi>a</mi><mo>+</mo><mi>q</mi><mi>b</mi></mrow></mfrac><mo>,</mo></math>
+        </d:inlineequation>
+        prove that
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>2</mn><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>)</mo></mrow><mrow><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>)</mo><mi>x</mi><mo>+</mo><mo>(</mo><mi>c</mi><mo>+</mo><mi>a</mi><mo>)</mo><mi>y</mi><mo>+</mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><mi>z</mi></mrow><mrow><mi>a</mi><mi>b</mi><mo>+</mo><mi>b</mi><mi>c</mi><mo>+</mo><mi>c</mi><mi>a</mi></mrow></mfrac><mo>.</mo></math>
+        </d:inlineequation>
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>x</mi><mi>x</mi></mfrac><mo>=</mo><mfrac><mi>y</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>z</mi><mi>c</mi></mfrac><mo>,</mo></math>
+        </d:inlineequation>
+        prove that
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msup><mi>a</mi><mn>3</mn></msup></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>a</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>b</mi><mn>3</mn></msup></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>z</mi><mn>3</mn></msup><mo>+</mo><msup><mi>c</mi><mn>3</mn></msup></mrow><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><msup><mo>)</mo><mn>3</mn></msup></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><msup><mo>)</mo><mn>2</mn></msup></mrow></mfrac><mo>.</mo></math>
+        </d:inlineequation>
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>2</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>-</mo><mi>x</mi></mrow><mi>a</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>z</mi><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi></mrow><mi>b</mi></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>-</mo><mi>z</mi></mrow><mi>c</mi></mfrac><mo>,</mo></math>
+        </d:inlineequation>
+        prove that
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>x</mi><mrow><mn>2</mn><mi>b</mi><mo>+</mo><mn>2</mn><mi>c</mi><mo>-</mo><mi>a</mi></mrow></mfrac><mo>=</mo><mfrac><mi>y</mi><mrow><mn>2</mn><mi>c</mi><mo>+</mo><mn>2</mn><mi>a</mi><mo>-</mo><mi>b</mi></mrow></mfrac><mo>=</mo><mfrac><mi>z</mi><mrow><mi>q</mi><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>-</mo><mi>c</mi></mrow></mfrac><mo>.</mo></math>
+        </d:inlineequation>
+      </d:listitem>
+      <d:listitem>
+        If
+        <d:inlineequation>
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mo>(</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><msup><mo>)</mo><mn>2</mn></msup></math>
+        </d:inlineequation>
+        show that x:a = y:b = z:c.
+      </d:listitem>
+      <d:listitem>
+        If
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mo>-</mo><mi>b</mi></mrow><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow></mfrac><mo>,</mo><mo>&#xA0;</mo><mi>y</mi><mo>=</mo><mfrac><mrow><mi>b</mi><mo>-</mo><mi>c</mi></mrow><mrow><mi>b</mi><mo>+</mo><mi>c</mi></mrow></mfrac><mo>,</mo><mo>&#xA0;</mo><mi>z</mi><mo>=</mo><mfrac><mrow><mi>c</mi><mo>-</mo><mi>a</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>a</mi></mrow></mfrac></math>
+        prove that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>+</mo><mi>x</mi><mo
+        form="postfix">)</mo></mrow><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>+</mo><mi>y</mi><mo
+        form="postfix">)</mo></mrow><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>+</mo><mi>z</mi><mo
+        form="postfix">)</mo></mrow><mo>=</mo><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>-</mo><mi>x</mi><mo
+        form="postfix">)</mo></mrow><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>-</mo><mi>y</mi><mo
+        form="postfix">)</mo></mrow><mrow><mo
+        form="prefix">(</mo><mn>1</mn><mo>-</mo><mi>z</mi><mo
+        form="postfix">)</mo></mrow></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>l</mi><mrow><mo
+        form="prefix">(</mo><mi>m</mi><mi>y</mi><mo>+</mo><mi>n</mi><mi>z</mi><mo>-</mo><mi>l</mi><mi>x</mi><mo
+        form="postfix">)</mo></mrow><mo>=</mo><mi>m</mi><mrow><mo
+        form="prefix">(</mo><mi>n</mi><mi>z</mi><mo>+</mo><mi>l</mi><mi>x</mi><mo>-</mo><mi>m</mi><mi>y</mi><mo
+        form="postfix">)</mo></mrow><mo>=</mo><mi>n</mi><mrow><mo
+        form="prefix">(</mo><mi>l</mi><mi>x</mi><mo>+</mo><mi>m</mi><mi>y</mi><mo>-</mo><mi>n</mi><mi>z</mi><mo
+        form="postfix">)</mo></mrow></mrow></math>, prove that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac
+        linethickness="1"><mrow><mi>y</mi><mo>+</mo><mi>z</mi><mo>-</mo><mi>x</mi></mrow><mi>l</mi></mfrac><mo>=</mo><mfrac
+        linethickness="1"><mrow><mi>z</mi><mo>+</mo><mi>x</mi><mo>-</mo><mi>y</mi></mrow><mi>m</mi></mfrac><mo>=</mo><mfrac
+        linethickness="1"><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>-</mo><mi>z</mi></mrow><mi>n</mi></mfrac></mrow></math>
+      </d:listitem>
+      <d:listitem>
+        Show that the eliminant of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>c</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>a</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>a</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn></mrow></math>,
+        is <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><msup><mi>c</mi><mn>3</mn></msup><mo>-</mo><mn>3</mn><mi>a</mi><mi>b</mi><mi>c</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        Eliminate <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi></mrow></math>
+        from the equations <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mi>x</mi><mo>+</mo><mi>h</mi><mi>y</mi><mo>+</mo><mi>g</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>h</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>f</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>g</mi><mi>x</mi><mo>+</mo><mi>f</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>=</mo><mi>c</mi><mi>y</mi><mo>+</mo><mi>b</mi><mi>z</mi><mo>,</mo><mi>y</mi><mo>=</mo><mi>a</mi><mi>z</mi><mo>+</mo><mi>c</mi><mi>x</mi><mo>,</mo><mi>z</mi><mo>=</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>a</mi><mi>y</mi></mrow></math>,
+        prove that <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>a</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>z</mi><mn>2</mn></msup><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>c</mi><mn>2</mn></msup></mrow></mfrac></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo
+        stretchy="false">(</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>x</mi><mo>,</mo><mi>b</mi><mo
+        stretchy="false">(</mo><mi>z</mi><mo>+</mo><mi>x</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>y</mi><mo>,</mo><mi>c</mi><mo
+        stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>z</mi></math>, prove that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mi>c</mi><mo>+</mo><mi>c</mi><mi>a</mi><mo>+</mo><mi>a</mi><mi>b</mi><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mi>c</mi><mo>=</mo><mn>1</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        Solve the following equations:
+        <d:orderedlist>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn><mi>x</mi><mo>&#x2212;<!-- − --></mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>2</mn><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>z</mi><mn>3</mn></msup><mo>=</mo><mn>18</mn></math>
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>+</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>3</mn><mi>x</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>17</mn><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><msup><mi>z</mi><mn>3</mn></msup><mo>=</mo><mn>167</mn></math>
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mi>x</mi><mi>y</mi><mo>&#x2212;<!-- − --></mo><mn>7</mn><mi>y</mi><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>3</mn><mi>z</mi><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>4</mn><mi>x</mi><mi>y</mi><mo>&#x2212;<!-- − --></mo><mn>21</mn><mi>y</mi><mi>z</mi><mo>+</mo><mn>3</mn><mi>z</mi><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>19</mn></math>
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>2</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>z</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>,</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>15</mn><msup><mi>z</mi><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>,</mo><mn>5</mn><mi>x</mi><mo>&#x2212;<!-- − --></mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>0</mn></math>
+          </d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        If <d:informalequation><math xmlns="http://www.w3.org/1998/Math/MathML"
+        display="block"><mtable
+        columnalign="right left right left right left right left right left
+        right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em
+        2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable
+        columnalign="right left right left right left right left right left
+        right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em
+        2em 0em 2em 0em"
+        displaystyle="true"><mtr><mtd><mfrac><mi>l</mi><mrow><msqrt><mi>a</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>b</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>m</mi><mrow><msqrt><mi>b</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>c</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>n</mi><mrow><msqrt><mi>c</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>a</mi></msqrt></mrow></mfrac><mo>=</mo><mn>0</mn><mo>,</mo></mtd></mtr><mtr><mtd><mfrac><mi>l</mi><mrow><msqrt><mi>a</mi></msqrt><mo>+</mo><msqrt><mi>b</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>m</mi><mrow><msqrt><mi>b</mi></msqrt><mo>+</mo><msqrt><mi>c</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>n</mi><mrow><msqrt><mi>c</mi></msqrt><mo>+</mo><msqrt><mi>a</mi></msqrt></mrow></mfrac><mo>=</mo><mn>0</mn><mo>,</mo></mtd></mtr></mtable></mtd></mtr></mtable></math>
+        </d:informalequation>, show that
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mfrac><mi>l</mi><mrow><mo
+              stretchy="false">(</mo><mi>a</mi><mo>&#x2212;<!-- −
+              --></mo><mi>b</mi><mo stretchy="false">)</mo><mo
+              stretchy="false">(</mo><mi>c</mi><mo>&#x2212;<!-- −
+              --></mo><msqrt><mi>a</mi><mi>b</mi></msqrt><mo
+              stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mi>m</mi><mrow><mo
+              stretchy="false">(</mo><mi>b</mi><mo>&#x2212;<!-- −
+              --></mo><mi>c</mi><mo stretchy="false">)</mo><mo
+              stretchy="false">(</mo><mi>a</mi><mo>&#x2212;<!-- −
+              --></mo><msqrt><mi>b</mi><mi>c</mi></msqrt><mo
+              stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mi>n</mi><mrow><mo
+              stretchy="false">(</mo><mi>c</mi><mo>&#x2212;<!-- −
+              --></mo><mi>a</mi><mo stretchy="false">)</mo><mo
+              stretchy="false">(</mo><mi>b</mi><mo>&#x2212;<!-- −
+              --></mo><msqrt><mi>a</mi><mi>c</mi></msqrt><mo
+              stretchy="false">)</mo></mrow></mfrac></math>.
+      </d:listitem>
+      <d:listitem>
+        Solve the following equations:
+        <d:orderedlist>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>b</mi><mi>c</mi><mi>x</mi><mo>+</mo><mi>c</mi><mi>a</mi><mi>y</mi><mo>+</mo><mi>a</mi><mi>b</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>x</mi><mi>y</mi><mi>z</mi><mo>+</mo><mi>a</mi><mi>b</mi><mi>c</mi><mo
+                stretchy="false">(</mo><msup><mi>a</mi><mn>3</mn></msup><mi>x</mi><mo>+</mo><msup><mi>b</mi><mn>3</mn></msup><mi>y</mi><mo>+</mo><msup><mi>c</mi><mn>3</mn></msup><mi>z</mi><mo
+                stretchy="false">)</mo><mo>=</mo><mn>0</mn></math>
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mi>y</mi><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>+</mo><mo
+                stretchy="false">(</mo><mi>a</mi><mo>&#x2212;<!-- −
+                --></mo><mi>b</mi><mo stretchy="false">)</mo><mo
+                stretchy="false">(</mo><mi>b</mi><mo>&#x2212;<!-- −
+                --></mo><mi>c</mi><mo stretchy="false">)</mo><mo
+                stretchy="false">(</mo><mi>c</mi><mo>&#x2212;<!-- −
+                --></mo><mi>a</mi><mo
+                stretchy="false">)</mo><mo>=</mo><mn>0</mn></math>
+          </d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        If <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo
+        stretchy="false">(</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>x</mi><mo>,</mo><mi>b</mi><mo
+        stretchy="false">(</mo><mi>z</mi><mo>+</mo><mi>x</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>y</mi><mo>,</mo><mi>c</mi><mo
+        stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo
+        stretchy="false">)</mo><mo>=</mo><mi>z</mi></math>, prove that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"
+        display="block"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>a</mi><mo
+        stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- −
+        --></mo><mi>b</mi><mi>c</mi><mo
+        stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mi>b</mi><mo
+        stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- −
+        --></mo><mi>c</mi><mi>a</mi><mo
+        stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><msup><mi>z</mi><mn>2</mn></msup><mrow><mi>c</mi><mo
+        stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- −
+        --></mo><mi>a</mi><mi>b</mi><mo
+        stretchy="false">)</mo></mrow></mfrac><mo>.</mo></math>
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>x</mi><mo>+</mo><mi>h</mi><mi>y</mi><mo>+</mo><mi>g</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>h</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>f</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>g</mi><mi>x</mi><mo>+</mo><mi>f</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn></math>,
+        prove that <math xmlns="http://www.w3.org/1998/Math/MathML"
+        display="block"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>z</mi><mn>2</mn></msup><mrow><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup></mrow></mfrac><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>and</mtext></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>g</mi><mi>h</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>f</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>f</mi><mi>g</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><mi>h</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>h</mi><mi>f</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>g</mi><mo stretchy="false">)</mo></math>.
+      </d:listitem>
+    </d:orderedlist>
   </d:sect1>
 </d:chapter>

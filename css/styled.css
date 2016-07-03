@@ -16,6 +16,10 @@ span.inlinemediaobject {
     text-align: center;
 }
 
+main_p {
+    width: 80%;
+}
+
 div.figure {
     text-align: center;
 }
