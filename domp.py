@@ -23,7 +23,7 @@ def setup(files):
     jobs = []
     for i in range(len(files)):
         p = multiprocessing.Process(target=process, args=(files[i],))
-        #jobs.append(p)
+        jobs.append(p)
 
         p.start()
 
@@ -31,7 +31,7 @@ def process(filepath):
     #print "in process"
     print filepath
     with open(filepath) as f:
-            #print "opened " + filepath
+            print "opened " + filepath
             l = filepath.split('/')
             name = ''
             if(l[len(l) -2]) == 'build':

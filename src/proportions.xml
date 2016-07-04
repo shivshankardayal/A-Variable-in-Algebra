@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:chapter version="5.0" xmlns:d="http://docbook.org/ns/docbook"
+           xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <?xml-stylesheet href="../css/style.css" type="text/css"?>
+  <?dbhtml filename="proportions/index.html" ?>
+  <d:title>Proportions</d:title>
+  <d:para>
+    There are many times when two ratios are equal. Then the four quantities
+    involved in these two ratios are said to be <d:emphasis role="bold">in
+    proportion</d:emphasis> or <d:emphasis
+    role="bold">proportionals</d:emphasis>. Thus if, <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>:</mo><mi>b</mi><mo>=</mo><mi>c</mi><mo>:</mo><mi>d</mi></math>
+    then <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></math>
+    <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi></math>
+    are proportionals or are in proportion. It is also written as <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>:</mo><mi>b</mi><mo>:</mo><mo>:</mo><mi>c</mi><mo>:</mo><mi>d</mi><mo>.</mo></mrow></math>
+    The terms <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi></math> are called the
+    <d:emphasis role="italic">extremes</d:emphasis> and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math> and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math> are the
+    <d:emphasis role="italic">means</d:emphasis>. Clearly,
+    as you can see that if there is such a proportion then product of extremes is
+    equal to the product of means i.e. <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>d</mi><mo>=</mo><mi>b</mi><mi>c</mi></math>.
+  </d:para>
+  <d:sect1>
+    <d:title>Continued Proportions</d:title>
+    <d:para>
+      Quantities are said to be in <d:emphasis role="bold">continued
+      proportion</d:emphasis> when first is to second is equal to second is to
+      third, third is to fourth is equal to first two; and so on. Therefore, if
+      <math xmlns="http://www.w3.org/1998/Math/MathML"
+            display="block"><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>b</mi><mi>c</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>
+      are in contunued proportion.
+    </d:para>
+    <d:para>
+      If three quantities <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> are in proportion then,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable
+                                                                           columnalign="right
+                                                                                        left
+                                                                                        right
+                                                                                        left
+                                                                                        right
+                                                                                        left
+                                                                                        right
+                                                                                        left
+                                                                                        right
+                                                                                        left
+                                                                                        right
+                                                                                        left"
+                                                                           rowspacing="3pt"
+                                                                           columnspacing="0em
+                                                                                          2em
+                                                                                          0em
+                                                                                          2em
+                                                                                          0em
+                                                                                          2em
+                                                                                          0em
+                                                                                          2em
+                                                                                          0em
+                                                                                          2em
+                                                                                          0em"
+                                                                           displaystyle="true"><mtr><mtd><mtable
+                                                                                                             columnalign="right
+                                                                                                                          left
+                                                                                                                          right
+                                                                                                                          left
+                                                                                                                          right
+                                                                                                                          left
+                                                                                                                          right
+                                                                                                                          left
+                                                                                                                          right
+                                                                                                                          left
+                                                                                                                          right
+                                                                                                                          left"
+                                                                                                             rowspacing="3pt"
+                                                                                                             columnspacing="0em
+                                                                                                                            2em
+                                                                                                                            0em
+                                                                                                                            2em
+                                                                                                                            0em
+                                                                                                                            2em
+                                                                                                                            0em
+                                                                                                                            2em
+                                                                                                                            0em
+                                                                                                                            2em
+                                                                                                                            0em"
+                                                                                                             displaystyle="true"><mtr><mtd><mi>a</mi><mo>:</mo><mi>b</mi><mo>=</mo><mi>b</mi><mo>:</mo><mi>c</mi><mo>;</mo></mtd></mtr><mtr><mtd><mo>&#x2234;<!-- ∴ --></mo><mi>a</mi><mi>c</mi><mo>=</mo><msup><mi>b</mi><mn>2</mn></msup></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      Here, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math> is called
+      <d:emphasis role="italic">mean proportional</d:emphasis> between <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math> and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math> is called
+      <d:emphasis role="italic">third proportional</d:emphasis> between <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math>.
+    </d:para>
+  </d:sect1>
+</d:chapter>

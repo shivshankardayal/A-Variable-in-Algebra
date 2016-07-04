@@ -4,7 +4,7 @@ html: src/*.xml html.xsl Makefile
 	find . -name "*.html" | xargs perl -pi -e "s/<html>/<!DOCTYPE html>/g;"
 	find . -name "*.html" | xargs perl -pi -e "s/<meta/<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta/g;"
 	cp -r images build/
-	./domp.py
+	./domp_single.py
 	cp -r build/* /var/www/algebra/
 
 
