@@ -98,9 +98,9 @@ def process(filepath):
 #            for i in soup.find_all("pre", "MakefileLexer"):
 #                   code = BeautifulSoup(highlight(i.string, MakefileLexer(), HtmlFormatter()), "lxml")
 #                   i.string.replace_with(code)
-#            with open(filepath, "w") as f:
-#                   #print "Hello"
-#                   f.write(soup.encode(formatter='html'))
+            with open(filepath, "w") as f:
+                   #print "Hello"
+                   f.write(soup.encode(formatter='html'))
 
 findReplace("build/", "mml:", "", "index.html")
 findReplace("build/", "mml:", "", "ix01.html")
