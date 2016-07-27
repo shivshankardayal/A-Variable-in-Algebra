@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:chapter version="5.0" xmlns:d="http://docbook.org/ns/docbook"
+           xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <?xml-stylesheet href="../css/style.css" type="text/css"?>
+  <?dbhtml filename="prop_sol/index.html" ?>
+  <d:title>Solutions for Proportions</d:title>
+  <d:orderedlist>
+    <d:listitem>
+      <d:orderedlist>
+        <d:listitem>
+          Let the number is <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>. Then,
+          we have,
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>9</mn><mi>x</mi></mfrac><mtext>&#xA0;</mtext><mo
+                  stretchy="false">&#x21D2;<!-- ⇒
+                  --></mo><mtext>&#xA0;</mtext><mi>x</mi><mo>=</mo><mn>12</mn></math>
+          </d:informalequation>
+        </d:listitem>
+      </d:orderedlist>
+      Second and third part are left as exercise to the reader.
+    </d:listitem>
+    <d:listitem>
+      <d:orderedlist>
+        <d:listitem>
+          Let mean proportional be <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+          so we have,
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mi>a</mi><mi>b</mi><mtext>&#xA0;</mtext><mo
+                  stretchy="false">&#x21D2;<!-- ⇒
+                  --></mo><mtext>&#xA0;</mtext><mi>x</mi><mo>=</mo><msqrt><mi>a</mi><mi>b</mi></msqrt></math>
+          </d:informalequation>
+        </d:listitem>
+      </d:orderedlist>
+      Second part is left as an exercise.
+    </d:listitem>
+    <d:listitem>
+      <d:orderedlist>
+        <d:listitem>
+          Let third proportional be <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>. Then,
+          we have,
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><msup><mn>9</mn><mn>2</mn></msup><mo>=</mo><mn>7</mn><mi>x</mi><mtext>&#xA0;</mtext><mo
+                  stretchy="false">&#x21D2;<!-- ⇒
+                  --></mo><mtext>&#xA0;</mtext><mi>x</mi><mo>=</mo><mfrac><mn>81</mn><mn>7</mn></mfrac></math>
+          </d:informalequation>
+        </d:listitem>
+      </d:orderedlist>
+      Second part is left as an exercise.
+    </d:listitem>
+    <d:listitem>
+      <d:orderedlist>
+        <d:listitem>
+          Let us equate the given proportion's ratios to <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>.
+          <math xmlns="http://www.w3.org/1998/Math/MathML"
+                display="block"><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mtext>&#xA0;</mtext><mo
+                stretchy="false">&#x21D2;<!-- ⇒
+                --></mo><mtext>&#xA0;</mtext><mi>a</mi><mo>=</mo><mi>b</mi><mi>k</mi><mo>,</mo><mtext>&#xA0;</mtext><mi>c</mi><mo>=</mo><mi>d</mi><mi>k</mi></math>
+          Now let us evaluate L.H.S. by substituing above value for <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+          and <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>.
+          <math xmlns="http://www.w3.org/1998/Math/MathML"
+                display="block"><mfrac><mrow><msup><mi>a</mi><mi>c</mi></msup><mo>+</mo><mi>a</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mi>d</mi></msup><mo>+</mo><mi>b</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>b</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mi>d</mi><mi>k</mi><mo>+</mo><mi>b</mi><mi>k</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mi>d</mi></msup><mo>+</mo><mi>d</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>k</mi><mn>3</mn></msup></math>
+          Now let us evaluate R.H.S. by substituing above value for <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+          and <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>.
+          <math xmlns="http://www.w3.org/1998/Math/MathML"
+                display="block"><mfrac><mrow><mo
+                                                 stretchy="false">(</mo><mi>b</mi><mi>k</mi><mo>+</mo><mi>d</mi><mi>k</mi><msup><mo
+                                                 stretchy="false">)</mo><mn>3</mn></msup></mrow><mrow><mo
+                                                 stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>d</mi><msup><mo
+                                                 stretchy="false">)</mo><mn>3</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>k</mi><mn>3</mn></msup></math>
+          Hence,L.H.S.=R.H.S.
+        </d:listitem>
+        <d:listitem>
+          Proceeding the same way as previous problem we have L.H.S. as
+          <math xmlns="http://www.w3.org/1998/Math/MathML"
+                display="block"><mfrac><mrow><mi>p</mi><msup><mi>b</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><msup><mi>p</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi></mrow><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi></mrow></mfrac></math>
+          and R.H.S. as
+          <math xmlns="http://www.w3.org/1998/Math/MathML"
+                display="block"><mfrac><mrow><mi>p</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi><msup><mi>d</mi><mn>2</mn></msup></mrow><mrow><mi>p</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi></mrow><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi></mrow></mfrac></math>
+          Hence,L.H.S.=R.H.S.
+        </d:listitem>
+      </d:orderedlist>
+    </d:listitem>
+  </d:orderedlist>
+</d:chapter>

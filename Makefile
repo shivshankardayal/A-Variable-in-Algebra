@@ -15,7 +15,9 @@ pdf: src/*.xml dblatex.xsl Makefile
 	dblatex -bxetex -T db2latex -p dblatex.xsl -P preface.tocdepth="1" pdf/algebra.xml
 
 latex:
-	dblatex -bxetex -T db2latex -p dblatex.xsl -P preface.tocdepth="1" -t tex src/c.xml
+	rm -rf pdf
+	cp -r src pdf	
+	dblatex -bxetex -T db2latex -p dblatex.xsl -P preface.tocdepth="1" -t tex src/algebra.xml
 	cd src && perl -pi -e "s/\.png/\.pdf/g;" c.tex
 
 fop:

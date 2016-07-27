@@ -31,7 +31,7 @@ def process(filepath):
     #print "in process"
     print filepath
     with open(filepath) as f:
-            print "opened " + filepath
+            # print "opened " + filepath
             l = filepath.split('/')
             name = ''
             if(l[len(l) -2]) == 'build':
