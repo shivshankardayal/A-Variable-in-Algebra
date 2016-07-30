@@ -107,5 +107,116 @@
       which also varies as <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>.
     </d:listitem>
+    <d:listitem>
+      Since <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math>
+      varies as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>bc</mi></math> can write
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>=</mo><mi>b</mi><mi>c</mi><mi>k</mi></mrow></math>. This
+      means <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mfrac><mi>a</mi><mrow><mi>c</mi><mi>k</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mi>k</mi><mn>1</mn></mrow><mi>c</mi></mfrac></math>,
+      where, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>1</mn><mo>=</mo><mfrac><mn>1</mn><mi>k</mi></mfrac></math>. And
+      since, and since <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math> is constant
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>1</mn></math>
+      will also be constant. The above we can also write as
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mi>k</mi><mn>1</mn><mo>/</mo><mo>(</mo><mi>c</mi><mo>/</mo><mi>a</mi><mo>)</mo></math>
+      so we can say <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math> varies
+      inversely as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>/</mo><mi>a</mi></math>.
+    </d:listitem>
+    <d:listitem>
+      From problem statement
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mtable columnalign="right left right left right
+                                                   left right left right left
+                                                   right left" rowspacing="3pt"
+                                      columnspacing="0em 2em 0em 2em 0em 2em
+                                                     0em 2em 0em 2em 0em"
+                                      displaystyle="true"><mtr><mtd><mtable
+                                                                        columnalign="right
+                                                                                     left
+                                                                                     right
+                                                                                     left
+                                                                                     right
+                                                                                     left
+                                                                                     right
+                                                                                     left
+                                                                                     right
+                                                                                     left
+                                                                                     right
+                                                                                     left"
+                                                                        rowspacing="3pt"
+                                                                        columnspacing="0em
+                                                                                       2em
+                                                                                       0em
+                                                                                       2em
+                                                                                       0em
+                                                                                       2em
+                                                                                       0em
+                                                                                       2em
+                                                                                       0em
+                                                                                       2em
+                                                                                       0em"
+                                                                        displaystyle="true"><mtr><mtd><mi>a</mi><mo>=</mo><mfrac><mrow><mi>b</mi><mi>k</mi></mrow><mi>c</mi></mfrac><mtext>&#xA0;</mtext><mo
+                                                                        stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><mi>k</mi><mo>=</mo><mfrac><mrow><mi>c</mi><mi>a</mi></mrow><mi>b</mi></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><mi>k</mi><mo>=</mo><mfrac><mn>9</mn><mn>14</mn></mfrac><mo>&#x2217;<!-- ∗ --></mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>&#x2217;<!-- ∗ --></mo><mfrac><mn>7</mn><mn>3</mn></mfrac><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd><mo>&#x2234;<!-- ∴ --></mo><mtext>&#xA0;</mtext><mi>b</mi><mo>=</mo><mi>c</mi><mi>a</mi><mo>=</mo><msqrt><mn>48</mn><mo>&#x2217;<!-- ∗ --></mo><mn>75</mn></msqrt><mo>=</mo><mn>60</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+       Since <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>
+       varies as <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>, <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>&#xA0;</mo><mo>=</mo><mi>y</mi><mi>k</mi></math>. Clearly,
+       <math
+           xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup><mo
+           stretchy="false">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo
+           stretchy="false">)</mo></math> and <math
+           xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup><mo stretchy="false">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo stretchy="false">)</mo></math>.
+       Now, <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></math>
+       and <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn></math> are constants since <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>
+       is a constant. Therefore, <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></math>
+       varies as <math
+       xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup></math>.
+    </d:listitem>
+    <d:listitem>
+      Let, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>z</mi><mn>1</mn><mo>+</mo><mi>z</mi><mn>2</mn></math>
+      now given that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mn>1</mn><mo>=</mo><mi>x</mi><mi>k</mi><mn>1</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mn>2</mn><mo>=</mo><mi>x</mi><mo>/</mo><mi>k</mi><mn>2</mn></math>,
+      where <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>1</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>2</mn></math>
+      are some constants. When <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>6</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>4</mn></math>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mn>6</mn><mo>=</mo><mn>4</mn><mi>k</mi><mn>1</mn><mo>+</mo><mfrac><mn>4</mn><mrow><mi>k</mi><mn>2</mn></mrow></mfrac></math>
+      </d:informalequation>
+      Also, when <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>10</mn><mo>/</mo><mn>3</mn></math>
+      then <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>. Thus,
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mfrac><mn>10</mn><mn>3</mn></mfrac><mo>=</mo><mn>3</mn><mi>k</mi><mn>1</mn><mo>+</mo><mfrac><mn>3</mn><mrow><mi>k</mi><mn>2</mn></mrow></mfrac></math>
+      </d:informalequation>
+      These equations can be easily solved and desired result can be obtained.
+    </d:listitem>
   </d:orderedlist>
+  <d:para>
+    Rest of the exercises are left for the reader.
+  </d:para>
 </d:chapter>

@@ -1,0 +1,26 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}[scale=1.6]%
+   \draw[->] (-.5,0) -- (3,0);
+   \draw[->] (0,-.5) -- (0,3);
+   \draw (0, 3.5) node {$Y$};
+   \draw (3.5, 0) node {$X$};
+   \draw (2.5,0) -- (2.5,2.5);
+   \draw (0,0) -- (2.5, 2.5);
+   \draw (.5,0) arc(0:45:.5);
+   \draw (.7,.3) node{$\theta$};
+   \draw (1.5, 0.2) node {$x$};
+   \draw (2.7, 1.5) node {$y$};
+   \draw (3.4, 1.1) node {$OP=|z|$};
+   \draw (3.5, 0.7) node {$arg(z)=\theta$};
+   \draw (2.5, 2.7) node{$P=x+iy$};
+\end{tikzpicture}%
+\end{document}
+
