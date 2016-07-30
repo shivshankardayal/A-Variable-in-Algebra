@@ -68,7 +68,7 @@
           and <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>.
           <math xmlns="http://www.w3.org/1998/Math/MathML"
-                display="block"><mfrac><mrow><msup><mi>a</mi><mi>c</mi></msup><mo>+</mo><mi>a</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mi>d</mi></msup><mo>+</mo><mi>b</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>b</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mi>d</mi><mi>k</mi><mo>+</mo><mi>b</mi><mi>k</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mi>d</mi></msup><mo>+</mo><mi>d</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>k</mi><mn>3</mn></msup></math>
+                display="block"><mfrac><mrow><msup><mi>a</mi><mi>c</mi></msup><mo>+</mo><mi>a</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mi>d</mi><mo>+</mo><mi>b</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>b</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mi>d</mi><mi>k</mi><mo>+</mo><mi>b</mi><mi>k</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup></mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mi>d</mi><mo>+</mo><mi>d</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>k</mi><mn>3</mn></msup></math>
           Now let us evaluate R.H.S. by substituing above value for <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
           and <math
@@ -79,7 +79,7 @@
                                                  stretchy="false">)</mo><mn>3</mn></msup></mrow><mrow><mo
                                                  stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>d</mi><msup><mo
                                                  stretchy="false">)</mo><mn>3</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>k</mi><mn>3</mn></msup></math>
-          Hence,L.H.S.=R.H.S.
+          Hence, L.H.S.=R.H.S.
         </d:listitem>
         <d:listitem>
           Proceeding the same way as previous problem we have L.H.S. as
@@ -88,9 +88,65 @@
           and R.H.S. as
           <math xmlns="http://www.w3.org/1998/Math/MathML"
                 display="block"><mfrac><mrow><mi>p</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi><msup><mi>d</mi><mn>2</mn></msup></mrow><mrow><mi>p</mi><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>q</mi></mrow><mrow><mi>p</mi><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>q</mi></mrow></mfrac></math>
-          Hence,L.H.S.=R.H.S.
+          Hence, L.H.S.=R.H.S.
+        </d:listitem>
+        <d:listitem>
+          Proceeding similarly L.H.S. is
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><mrow><mi>b</mi><mi>k</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi><mi>k</mi></mrow><mrow><mi>b</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi></mrow></mfrac><mo>=</mo><mi>k</mi></math>
+          </d:informalequation>
+          and R.H.S. is
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><msqrt><msup><mi>b</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup></msqrt><msqrt><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></msqrt></mfrac><mo>=</mo><mi>k</mi></math>
+          </d:informalequation>
+          Hence, L.H.S.=R.H.S.
+        </d:listitem>
+        <d:listitem>
+          We have computed R.H.S. to be <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>
+          in last problem's R.H.S. So let us try to calculate R.H.S.
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><msqrt><mi>b</mi><mi>d</mi><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mfrac><mrow><msup><mi>d</mi><mn>3</mn></msup><msup><mi>k</mi><mn>3</mn></msup></mrow><mrow><mi>b</mi><mi>k</mi></mrow></mfrac></msqrt><msqrt><mi>b</mi><mi>d</mi><mo>+</mo><mfrac><msup><mi>d</mi><mn>3</mn></msup><mi>b</mi></mfrac></msqrt></mfrac><mo>=</mo><mi>k</mi></math>
+          </d:informalequation>
         </d:listitem>
       </d:orderedlist>
+    </d:listitem>
+    <d:listitem>
+      <d:orderedlist>
+        <d:listitem>
+          Since <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></mrow></math>
+          and <math 
+          xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>d</mi></mrow></math>
+          are in continued proportion we can write them as
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>b</mi><mi>c</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mi>k</mi></math>
+          </d:informalequation>
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mo stretchy="false">&#x21D2;<!-- ⇒
+                  --></mo><mtext>&#xA0;</mtext><mi>a</mi><mo>=</mo><mi>d</mi><msup><mi>k</mi><mn>3</mn></msup><mo>,</mo><mi>b</mi><mo>=</mo><mi>d</mi><msup><mi>k</mi><mn>2</mn></msup><mo>,</mo><mtext>&#xA0;</mtext><mtext>and</mtext><mtext>&#xA0;</mtext><mi>c</mi><mo>=</mo><mi>d</mi><mi>k</mi></math>
+          </d:informalequation>
+          First we do L.H.S
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><mi>a</mi><mrow><mi>b</mi><mo>+</mo><mi>d</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>d</mi><msup><mi>k</mi><mn>3</mn></msup></mrow><mrow><mi>d</mi><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mi>d</mi></mrow></mfrac><mo>=</mo><mfrac><msup><mi>k</mi><mn>3</mn></msup><mrow><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></math>
+          </d:informalequation>
+          and now we do R.H.S.
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"
+                  display="block"><mfrac><msup><mi>c</mi><mn>3</mn></msup><mrow><msup><mi>c</mi><mn>2</mn></msup><mi>d</mi><mo>+</mo><msup><mi>d</mi><mn>3</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mi>d</mi><mn>3</mn></msup><msup><mi>k</mi><mn>3</mn></msup></mrow><mrow><msup><mi>d</mi><mn>2</mn></msup><msup><mi>k</mi><mn>2</mn></msup><mi>d</mi><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>k</mi><mn>3</mn></msup><mrow><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>.</mo></math>
+          </d:informalequation>
+          Next two problems are left as exercises to the reader.
+        </d:listitem>
+      </d:orderedlist>
+    </d:listitem>
+    <d:listitem>
+      
     </d:listitem>
   </d:orderedlist>
 </d:chapter>

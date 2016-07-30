@@ -1,0 +1,31 @@
+.MathJax_Display {
+    text-align: left !important;
+    margin-left: 20px;
+}
+
+div.math img{
+    display: inline;
+    font-size: 12px;
+}
+
+.dropdown-menu{
+    max-height: 500px;
+    overflow: auto;
+}
+
+ul.globaltoc {
+    max-height: 400px;
+    overflow: auto;
+}
+
+ul.example-selector {
+    padding-bottom: 40px;
+}
+
+pre {
+    background-color: #fff;
+}
+
+body {
+    font-size: 13px;
+}
