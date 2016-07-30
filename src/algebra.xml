@@ -38,6 +38,7 @@ the section entitled &#8220;GNU Free Documentation License&#8221;.
   <xi:include href="ratio_sol.xml"/>
   <xi:include href="proportions.xml"/>
   <xi:include href="prop_sol.xml"/>
+  <xi:include href="variations.xml"/>
   <d:index>
     <d:title>Index</d:title>
   </d:index>

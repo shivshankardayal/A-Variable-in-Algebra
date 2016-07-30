@@ -146,7 +146,96 @@
       </d:orderedlist>
     </d:listitem>
     <d:listitem>
-      
+      Since <math 
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+      is mean proportional between <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+      we can write <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mi>a</mi><mi>c</mi></mrow></math>. Now
+      let us evaluate the expression.
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>L</mi><mo>.</mo><mi>H</mi><mo>.</mo><mi>S</mi><mo>.</mo><mo>=</mo><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>c</mi><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><mfrac><mn>1</mn><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>&#x2212;<!-- − --></mo><mfrac><mn>1</mn><mrow><mi>a</mi><mi>c</mi></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><msup><mi>c</mi><mn>2</mn></msup></mfrac></mrow></mfrac></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo
+                                                                             stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><mfrac><mrow><mo stretchy="false">(</mo><msup><mi>a</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>c</mi><mn>2</mn></msup><mo stretchy="false">)</mo><msup><mi>a</mi><mn>2</mn></msup><msup><mi>c</mi><mn>2</mn></msup></mrow><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>c</mi><mo>+</mo><msup><mi>a</mi><mn>2</mn></msup></mrow></mfrac></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo
+                                                                             stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><msup><mi>a</mi><mn>2</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><msup><mi>b</mi><mn>4</mn></msup></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Equating first set of ratio to <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>
+      and second set to <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>l</mi></mrow></math>
+      we have following:
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>a</mi><mo>=</mo><mi>b</mi><mi>k</mi><mtext>&#xA0;and&#xA0;</mtext><mi>c</mi><mo>=</mo><mi>d</mi><mi>k</mi><mo>;</mo><mtext>&#xA0;</mtext><mi>e</mi><mo>=</mo><mi>f</mi><mi>l</mi><mtext>&#xA0;and&#xA0;</mtext><mi>g</mi><mo>=</mo><mi>h</mi><mi>l</mi></math>
+      </d:informalequation>
+      Substituing these value for <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>e</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>g</mi></mrow></math>
+      we get both left hand side and right hand side equal to
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mfrac><mrow><mi>k</mi><mi>l</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>k</mi><mi>l</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow></mfrac></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Proceeding similarly as prvious problems we can say that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>=</mo><mi>b</mi><mi>k</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi><mo>=</mo><mi>d</mi><mi>k</mi></mrow></math>. Now
+      substituting for <math 
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math> and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+      we get L.H.S. as
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>L</mi><mo>.</mo><mi>H</mi><mo>.</mo><mi>S</mi><mo>.</mo><mo>=</mo><mo
+              fence="false"
+              stretchy="false">{</mo><mi>b</mi><mi>k</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>d</mi><mi>k</mi><mo>+</mo><mi>d</mi><mo
+              fence="false" stretchy="false">}</mo><mo fence="false"
+              stretchy="false">{</mo><mi>b</mi><mi>k</mi><mo>&#x2212;<!-- −
+              --></mo><mi>b</mi><mo>&#x2212;<!-- −
+              --></mo><mi>d</mi><mi>k</mi><mo>+</mo><mi>d</mi><mo fence="false"
+              stretchy="false">}</mo><mo>=</mo><mo fence="false"
+              stretchy="false">{</mo><mo
+              stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>d</mi><mo
+              stretchy="false">)</mo><mo
+              stretchy="false">(</mo><mi>k</mi><mo>+</mo><mn>1</mn><mo
+              stretchy="false">)</mo><mo fence="false"
+              stretchy="false">}</mo><mo fence="false"
+              stretchy="false">{</mo><mo
+              stretchy="false">(</mo><mi>b</mi><mo>&#x2212;<!-- −
+              --></mo><mi>d</mi><mo stretchy="false">)</mo><mo
+              stretchy="false">(</mo><mi>k</mi><mo>&#x2212;<!-- −
+              --></mo><mn>1</mn><mo stretchy="false">)</mo><mo fence="false"
+              stretchy="false">}</mo></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo
+                                                                             stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><mo stretchy="false">(</mo><msup><mi>b</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>d</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo stretchy="false">)</mo></math>
+      </d:informalequation>
+      Similarly for R.H.S. we have,
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>R</mi><mo>.</mo><mi>H</mi><mo>.</mo><mi>S</mi><mo>.</mo><mo>=</mo><mo
+              fence="false"
+              stretchy="false">{</mo><mi>b</mi><mi>k</mi><mo>&#x2212;<!-- −
+              --></mo><mi>b</mi><mo>+</mo><mi>d</mi><mi>k</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi><mo fence="false" stretchy="false">}</mo><mo fence="false" stretchy="false">{</mo><mi>b</mi><mi>k</mi><mo>+</mo><mi>b</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi><mi>k</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi><mo fence="false" stretchy="false">}</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mo stretchy="false">(</mo><mi>b</mi><mo>&#x2212;<!-- − --></mo><mi>d</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>k</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo fence="false" stretchy="false">}</mo><mo fence="false" stretchy="false">{</mo><mo stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>d</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>k</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo fence="false" stretchy="false">}</mo></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo
+                                                                             stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>&#xA0;</mtext><mo stretchy="false">(</mo><msup><mi>b</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>d</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo stretchy="false">)</mo><mo>.</mo></math>
+      </d:informalequation>
+      Remaining problems are left as exercises to the reader.
     </d:listitem>
   </d:orderedlist>
 </d:chapter>
