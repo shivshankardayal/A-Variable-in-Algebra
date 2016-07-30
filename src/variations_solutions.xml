@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:chapter version="5.0" xmlns:d="http://docbook.org/ns/docbook"
+           xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <?xml-stylesheet href="../css/style.css" type="text/css"?>
+  <?dbhtml filename="variations_solutions/index.html" ?>
+  <d:title>Variations Solutions</d:title>
+  <d:orderedlist>
+    <d:listitem>
+      Since <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+      varies as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+      we can write <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>=</mo><mi>y</mi><mi>k</mi></mrow></math>
+      where <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>
+      is proportionality constant which means <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>=</mo><mfrac><mn>8</mn><mn>15</mn></mfrac><mo>.</mo></math>. Now,
+      when <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>10</mn><mo>;</mo><mo>&#xA0;</mo><mi>x</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>10</mn><mo>*</mo><mfrac><mn>8</mn><mn>15</mn></mfrac></math>
+      i.e. <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mfrac><mn>16</mn><mn>3</mn></mfrac><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Since <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+      varies inversely as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+      we have <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mi>y</mi><mo>=</mo><mi>k</mi></math>
+      i.e. <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>=</mo><mn>21</mn></math>,
+      since,
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>7</mn></math>. Clearly,
+      when <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>7</mn></math>;
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>. 
+    </d:listitem>
+    <d:listitem>
+      Given, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mi>k</mi><msup><mi>y</mi><mn>3</mn></msup></math>
+      and when <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>3</mn><mo>,</mo><mo>&#xA0;</mo><mi>y</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>4</mn></math>,
+      which implies, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>=</mo><mfrac><mn>9</mn><mn>64</mn></mfrac></math>. So
+      our problem is:
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#x2217;<!-- ∗ --></mo><mn>64</mn></mrow><mrow><mn>3</mn><mo>&#x2217;<!-- ∗ --></mo><mn>9</mn></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>.</mo></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Since <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+      varies as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>
+      jointly we have <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi><mo>=</mo><mi>y</mi><mi>z</mi><mi>k</mi></mrow></math>. From
+      given values of <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>,
+      <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>
+      let us compute <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>.
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>k</mi><mo>=</mo><mfrac><mi>x</mi><mrow><mi>y</mi><mi>z</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mo>&#x2217;<!-- ∗ --></mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>&#x2217;<!-- ∗ --></mo><mfrac><mn>27</mn><mn>10</mn></mfrac><mo>=</mo><mn>9</mn></math>
+      </d:informalequation>
+      Now we need to compute <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>,
+      when <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>54</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"
+              display="block"><mi>z</mi><mo>=</mo><mfrac><mi>x</mi><mrow><mi>k</mi><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mn>54</mn><mrow><mn>3</mn><mo>&#x2217;<!-- ∗ --></mo><mn>9</mn></mrow></mfrac><mo>=</mo><mn>2.</mn></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Given, <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mi>c</mi><mi>k</mi><mn>1</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mi>c</mi><mi>k</mi><mn>2</mn></math>
+      where <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>1</mn></math>
+      and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mn>2</mn></math>
+      are proportionality constants. <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&#x00B1;<!-- ±
+      --></mo><mi>b</mi></math> implies <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo
+      stretchy="false">(</mo><mi>k</mi><mn>1</mn><mo>&#x00B1;<!-- ±
+      --></mo><mi>k</mi><mn>2</mn><mo stretchy="false">)</mo></math> therefore
+      it varies as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>. Similarly,
+      <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>a</mi><mi>b</mi></msqrt></math>
+      implies <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><msqrt><mi>k</mi><mn>1</mn><mi>k</mi><mn>2</mn></msqrt></math>
+      which also varies as <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>.
+    </d:listitem>
+  </d:orderedlist>
+</d:chapter>

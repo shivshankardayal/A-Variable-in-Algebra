@@ -18,7 +18,7 @@ latex:
 	rm -rf pdf
 	cp -r src pdf	
 	dblatex -bxetex -T db2latex -p dblatex.xsl -P preface.tocdepth="1" -t tex src/algebra.xml
-	cd src && perl -pi -e "s/\.png/\.pdf/g;" c.tex
+	cd src && perl -pi -e "s/\.png/\.pdf/g;" algebra.tex
 
 fop:
 #	cd src && xmllint --xinclude c.xml>resolvedc.xml

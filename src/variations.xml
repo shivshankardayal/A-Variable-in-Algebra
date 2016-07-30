@@ -5,4 +5,341 @@
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
   <?dbhtml filename="variations/index.html" ?>
   <d:title>Variations</d:title>
+  <d:para>
+    Two quantities are said to be vary as with each other if the ratio between
+    them is constant. For example, if <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mi>k</mi><mi>b</mi></math>,
+    where <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    are variables and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>k</mi></mrow></math>
+    is a constant which is also known as <d:emphasis
+    role="italic">proportionality constant</d:emphasis>. Most of the time it is
+    said that <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    is directly proportional to <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    or <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    varies directly as <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b </mi></mrow></math>.
+  </d:para>
+  <d:para>
+    The symbol <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x221D;<!-- ∝
+    --></mo></math> is used to denote variation; so that <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&#x221D;<!-- ∝
+    --></mo><mi>b</mi></math> is read as <d:quote><math 
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    varies as <math 
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math></d:quote>.
+  </d:para>
+  <d:para>
+    For example, if a person drink 5 litres of water in one day then in 10 days
+    he will drink 50 litres and in 20 days he will drink 100 litres.
+  </d:para>
+  <d:para>
+    One qyanity <math 
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    is said to vary inversely as another <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    or <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    is inversely proportional to <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    if product of these two is constant.
+  </d:para>
+  <d:para>
+    Therefore, <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>b</mi><mo>=</mo><mi>k</mi></math>
+    or <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><mi>k</mi><mi>b</mi></mfrac></math>.
+  </d:para>
+  <d:para>
+    For example, if <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math> persons do a work in <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    days then 1 person will do it in <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>b</mi><mi>a</mi></mfrac></math>
+    days. So our proportionality constant is <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>b</mi><mi>a</mi></mfrac></math>.
+  </d:para>
+  <d:para>
+    One quantity is said to vary <d:emphasis role="italic">jointly</d:emphasis>
+    as a number of others, when it varies directly as their product. Thus,
+    <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+    varies jointly as <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+    and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>,
+    when <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>=</mo><mi>k</mi><mi>b</mi><mi>c</mi></mrow></math>. For
+    example, second law of Newton says force is equal to mass multiplied by
+    acceleration or <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></mrow></math>.
+  </d:para>
+  <d:sect1>
+    <d:title>
+      Problems
+    </d:title>
+    <d:orderedlist>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>,
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>8</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>15</mn></math>,
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>10</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        varies inversely as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>,
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>7</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>,
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>7</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        If the square of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        varies as the cube of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>,
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>4</mn></math>
+        find the value of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac></math>.
+      </d:listitem>
+      <d:listitem>
+        <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>
+        jointly; if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>2</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mfrac><mn>10</mn><mn>27</mn></mfrac></math>
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>54</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+        then <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&#x00B1;<!-- ±
+        --></mo><mi>b</mi></math> and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>a</mi><mi>b</mi></msqrt></math>
+        will each vary as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>bc</mi></mrow></math>,
+        then <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        varies inversely as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>c</mi><mi>a</mi></mfrac></math>.
+      </d:listitem>
+      <d:listitem>
+        <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies directly as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        and inversely as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>;
+        also <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mfrac><mn>3</mn><mn>7</mn></mfrac></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>=</mo><mfrac><mn>9</mn><mn>14</mn></mfrac></math>;
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><msqrt><mn>48</mn></msqrt></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>=</mo><msqrt><mn>75</mn></msqrt></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>,
+        prove that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        varies as the sum of two quantities, one of which varies directly as
+        <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        and the other inversely as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>;
+        and if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>6</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>4</mn></math>,
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mfrac><mn>10</mn><mn>3</mn></mfrac></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>;
+        find the equation between <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        is equal to the sum of two quantities, one of which varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        directly, and the other as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup></math>
+        inversely; and if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>19</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>2</mn></math>
+        or <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn></math>;
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        in terms of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies directly as the square root of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        and inversely as the cube of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>,
+        and if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mn>3</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mn>256</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>=</mo><mn>2</mn></math>
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><mn>24</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>.
+      </d:listitem>
+      <d:listitem>
+        Given that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>+</mo><mi>y</mi></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>+</mo><mfrac><mn>1</mn><mi>z</mi></mfrac></math>,
+        and that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>&#x2212;<!-- −
+        --></mo><mfrac><mn>1</mn><mi>z</mi></mfrac></math>, find the relation
+        between <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>z</mi></mrow></math>,
+        provided that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mn>2</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>1</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+        jointly, while <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>d</mi><mn>2</mn></msup></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
+        varies inversely as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>,
+        show that <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
+        varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>d</mi></mrow></math>.
+      </d:listitem>
+      <d:listitem>
+        If <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        varies as the sum of three quantities of which the first is constant,
+        the second varies as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>x</mi></mrow></math>,
+        and the third as<math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup></math>;
+        and if <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>0</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mi>y</mi><mo>=</mo><mn>1</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>2</mn></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>4</mn></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>3</mn></math>;
+        find <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>y</mi></mrow></math>
+        when <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>7</mn></math>.
+      </d:listitem>
+      <d:listitem>
+        When a body falls from rest its distance from the resting point varies
+        as the square of the time it has been falling: if a body falls though
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mn>402</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></math>
+        feet in 5 seconds, how far does it fall in 10 seconds? Also how far
+        does it fall in the 10th second?
+      </d:listitem>
+      <d:listitem>
+        Given that the volume of a sphere varies as the cube of its radius and
+        that when the radius is <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></math>
+        feet the volume is <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>179</mn><mfrac><mn>2</mn><mn>3</mn></mfrac></math>
+        cubic feet, find the volume when the radius is 1 foot 9 inches.
+      </d:listitem>
+    </d:orderedlist>
+  </d:sect1>
 </d:chapter>
