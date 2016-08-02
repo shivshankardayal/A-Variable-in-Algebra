@@ -1,0 +1,24 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+      \draw[<->, >=stealth] (-3, 0) -- (3, 0);
+      \draw[<->, >=stealth] (0, -3) -- (0, 3);
+      \draw[->, >=stealth] (-2, -1) --(1.8, 2.8);
+      \filldraw (-2, -1) circle(1pt) (1, 2) circle(1pt);
+      \draw (-2, -1) node[anchor=north] {$z_0$};
+      \draw (0, 0) node[anchor=north east] {$O$};
+      \draw (3, 0) node[anchor=north] {$X$};
+      \draw (0, 3) node[anchor=east] {$Y$};
+      \draw (1, 2) node[anchor=north west] {$z$};
+      \draw (-0.7, 0) arc(0:45:3mm);
+      \draw (-0.5, .2) node {$\alpha$};
+\end{tikzpicture}%
+\end{document}
+

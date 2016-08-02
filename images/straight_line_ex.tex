@@ -1,0 +1,18 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+          \draw[dashed] (-1, 0) -- (1, 0);
+          \draw[->, >= stealth] (-1, 0) -- (-2, 0);
+          \draw[->, >= stealth] (1, 0) -- (2, 0);
+          \draw (-1, 0) node[anchor=north] {$A(z_1)$} (1, 0) node[anchor=north]
+          {$B(z_2)$};
+\end{tikzpicture}%
+\end{document}
+

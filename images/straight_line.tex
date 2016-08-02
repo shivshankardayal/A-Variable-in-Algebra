@@ -1,0 +1,17 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+            \draw (-1, 0) -- (1, 0);
+            \draw (-1, 0) node[anchor=north] {$A(z_1)$} (1, 0) node[anchor=north]
+            {$B(z_2)$};
+            \draw (-1, 0) circle(1pt) (1, 0) circle(1pt);
+\end{tikzpicture}%
+\end{document}
+

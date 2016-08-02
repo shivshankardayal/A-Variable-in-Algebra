@@ -1,0 +1,20 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+    \draw (0, 0) -- (3, 0) -- (3, 2) -- (0, 2) -- cycle;
+    \draw (0, 0) -- (3, 2);
+    \draw (3, 0) -- (0, 2);
+    \draw (0, 0) node[anchor=north east] {$A(z_1)$};
+    \draw (3, 0) node[anchor=north west] {$B(z_2)$};
+    \draw (3, 2) node[anchor=south west] {$C(z_3)$};
+    \draw (0, 2) node[anchor=south east] {$D(z_4)$};
+\end{tikzpicture}%
+\end{document}
+

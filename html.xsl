@@ -29,6 +29,7 @@
     <xsl:copy-of select="document('analytics.js', /)"/>
     <!--xsl:copy-of select="document('mathjax_config.js', /)"/-->
     <xsl:copy-of select="document('mathjax.js', /)"/>
+
   </xsl:template>
   <xsl:template name="user.footer.navigation">
     <br/>
@@ -277,7 +278,7 @@
 <xsl:param name="generate.toc">
  appendix  nop
  article   toc,title
- book      toc,title,figure,table
+ book      toc,title
  chapter   toc
  part      nop
  preface   nop

@@ -1,0 +1,21 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+            \draw (0, 0) circle(2);
+            \draw (-1.414, -1.414) -- (1.414, -1.414);
+            \draw (-1.414, -1.414) -- (1.414, 1.414) (1.414, -1.414) -- (1.414,
+            1.414);
+            \draw (1.414, 1.114) arc(270:225:.3);
+            \draw (-1.414, -1.414) node[anchor=north east] {$A(z_1)$} (1.414,
+            -1.414) node[anchor=north west] {$B(z_2)$};
+            \draw (1.214, 1.114) node[anchor=north] {$\alpha$};
+\end{tikzpicture}%
+\end{document}
+

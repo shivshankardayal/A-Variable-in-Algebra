@@ -1,0 +1,21 @@
+\documentclass{article}
+% translate with >> pdflatex -shell-escape <file>
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\pagestyle{empty}
+
+\begin{document}
+\begin{tikzpicture}%
+       \draw (-1, 0) -- (1, 0) -- (0, 2.5) -- cycle;
+       \draw (0, -0.2) -- (0, 2.7);
+       \draw (-1, 0) node[anchor=north] {$A(z_1)$} (1, 0) node[anchor=north]
+       {$B(z_2)$} (0, 2.5) node[anchor=south west] {$z$};
+       \draw (-1, 0) .. controls (-1,0) and (0, 2.5) .. node[sloped, above]
+       {$|z - z_1|$} (0, 2.5);
+       \draw (1, 0) .. controls (1,0) and (0, 2.5) .. node[sloped, above]
+       {$|z - z_2|$} (0, 2.5);
+\end{tikzpicture}%
+\end{document}
+
