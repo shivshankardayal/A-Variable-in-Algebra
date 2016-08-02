@@ -24,7 +24,7 @@
   <xsl:param name="xref.with.number.and.title" select="1"/>
 
   <!-- Blue - EVERYWHERE! -->
-  <xsl:param name="latex.hyperparam">colorlinks,linkcolor=blue,anchorcolor=blue,urlcolor=blue</xsl:param>
+  <xsl:param name="latex.hyperparam">colorlinks,linkcolor=cyan,anchorcolor=cyan,urlcolor=cyan</xsl:param>
   <!-- Black - Test print version -->
   <!--xsl:param name="latex.hyperparam">colorlinks,linkcolor=black,anchorcolor=black,urlcolor=black</xsl:param-->
 

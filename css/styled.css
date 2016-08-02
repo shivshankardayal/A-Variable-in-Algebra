@@ -1,3 +1,7 @@
+.main_p {
+    width: 80%
+}
+
 code.code,
 pre {
     background-color: #fff
@@ -14,7 +18,7 @@ span.italic {
 }
 body {
     padding: 0;
-    margin: 40px auto 80px;
+    margin: 0px auto 0px;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.5;
@@ -47,6 +51,7 @@ a,
 a:hover {
     color: #08c
 }
+
 img {
     vertical-align: middle;
     text-align: center;
@@ -216,6 +221,7 @@ div#footer a:hover {
 .kn,
 .kr,
 .nc,
+.nd,
 .ne,
 .ni,
 .nl,
@@ -328,7 +334,6 @@ div.footnote {
 }
 .nd {
     color: #555;
-    font-weight: 700
 }
 .ni {
     color: #d55537
@@ -397,24 +402,26 @@ div.footnote {
 .il {
     color: #40a070
 }
-@media (min-width: 1200px) {
+@media (min-width:320px) {
     body {
-        width: 800px;
+        width: 70%;
         padding-top: 60px;
         padding-bottom: 42px
     }
 }
-@media (min-width: 768px) and (max-width: 979px) {
+
+@media (min-width:320px) and (max-width:979px) {
     body {
         width: 600px;
         padding-top: 60px;
         padding-bottom: 42px
     }
     img {
-        width: 100%
+        width: 70%
     }
 }
-@media (max-width: 767px) {
+
+@media (max-width:767px) {
     body,
     img {
         width: 100%
@@ -427,7 +434,8 @@ div.footnote {
         max-width: 100%
     }
 }
-@media (max-width: 480px) {
+
+@media (max-width:480px) {
     body,
     img {
         width: 100%
@@ -440,9 +448,8 @@ div.footnote {
         max-width: 100%
     }
 }
-dt {
-    font-weight: 300
-}
+
 .toc {
     font-weight: normal
 }
+

@@ -29,7 +29,7 @@ def setup(files):
 
 def process(filepath):
     #print "in process"
-    print filepath
+    print(filepath)
     with open(filepath) as f:
             # print "opened " + filepath
             l = filepath.split('/')

@@ -326,7 +326,7 @@
     (2.2) and (2.4) we have,
     <d:informalequation>
       <math xmlns="http://www.w3.org/1998/Math/MathML"
-            display="block"><mfrac><mi>x</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>b</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>b</mi><mn>2</mn></msub><msub><mi>c</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac><mo>,</mo><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mfrac><mi>y</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>c</mi><mn>1</mn></msub><msub><mi>a</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>c</mi><mn>2</mn></msub><msub><mi>a</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac></math>
+            ><mfrac><mi>x</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>b</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>b</mi><mn>2</mn></msub><msub><mi>c</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac><mo>,</mo><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mfrac><mi>y</mi><mi>z</mi></mfrac><mo>=</mo><mfrac><mrow><msub><mi>c</mi><mn>1</mn></msub><msub><mi>a</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>c</mi><mn>2</mn></msub><msub><mi>a</mi><mn>1</mn></msub></mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>a</mi><mn>2</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></mfrac></math>
     </d:informalequation>
     Now if we take these ratios to be equal to k then multiplying and
     substituting in equation (2.4) we have,
@@ -592,7 +592,7 @@
       </d:listitem>
       <d:listitem>
         If <d:informalequation><math xmlns="http://www.w3.org/1998/Math/MathML"
-        display="block"><mtable
+        ><mtable
         columnalign="right left right left right left right left right left
         right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em
         2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable
@@ -600,9 +600,9 @@
         right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em
         2em 0em 2em 0em"
         displaystyle="true"><mtr><mtd><mfrac><mi>l</mi><mrow><msqrt><mi>a</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>b</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>m</mi><mrow><msqrt><mi>b</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>c</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>n</mi><mrow><msqrt><mi>c</mi></msqrt><mo>&#x2212;<!-- − --></mo><msqrt><mi>a</mi></msqrt></mrow></mfrac><mo>=</mo><mn>0</mn><mo>,</mo></mtd></mtr><mtr><mtd><mfrac><mi>l</mi><mrow><msqrt><mi>a</mi></msqrt><mo>+</mo><msqrt><mi>b</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>m</mi><mrow><msqrt><mi>b</mi></msqrt><mo>+</mo><msqrt><mi>c</mi></msqrt></mrow></mfrac><mo>+</mo><mfrac><mi>n</mi><mrow><msqrt><mi>c</mi></msqrt><mo>+</mo><msqrt><mi>a</mi></msqrt></mrow></mfrac><mo>=</mo><mn>0</mn><mo>,</mo></mtd></mtr></mtable></mtd></mtr></mtable></math>
-        </d:informalequation>, show that
+        </d:informalequation>show that
         <math xmlns="http://www.w3.org/1998/Math/MathML"
-              display="block"><mfrac><mi>l</mi><mrow><mo
+              ><mfrac><mi>l</mi><mrow><mo
               stretchy="false">(</mo><mi>a</mi><mo>&#x2212;<!-- −
               --></mo><mi>b</mi><mo stretchy="false">)</mo><mo
               stretchy="false">(</mo><mi>c</mi><mo>&#x2212;<!-- −
@@ -650,7 +650,7 @@
         stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo
         stretchy="false">)</mo><mo>=</mo><mi>z</mi></math>, prove that <math
         xmlns="http://www.w3.org/1998/Math/MathML"
-        display="block"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>a</mi><mo
+        ><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>a</mi><mo
         stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- −
         --></mo><mi>b</mi><mi>c</mi><mo
         stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mi>b</mi><mo
@@ -665,7 +665,7 @@
         If <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>x</mi><mo>+</mo><mi>h</mi><mi>y</mi><mo>+</mo><mi>g</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>h</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>+</mo><mi>f</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo>,</mo><mi>g</mi><mi>x</mi><mo>+</mo><mi>f</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>z</mi><mo>=</mo><mn>0</mn></math>,
         prove that <math xmlns="http://www.w3.org/1998/Math/MathML"
-        display="block"><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>z</mi><mn>2</mn></msup><mrow><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup></mrow></mfrac><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>and</mtext></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>g</mi><mi>h</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>f</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>f</mi><mi>g</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><mi>h</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>h</mi><mi>f</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>g</mi><mo stretchy="false">)</mo></math>.
+        ><mfrac><msup><mi>x</mi><mn>2</mn></msup><mrow><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><mrow><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><msup><mi>z</mi><mn>2</mn></msup><mrow><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup></mrow></mfrac><mtext>&#xA0;</mtext><mtext>&#xA0;</mtext><mtext>and</mtext></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>b</mi><mi>c</mi><mo>&#x2212;<!-- − --></mo><msup><mi>f</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mi>a</mi><mo>&#x2212;<!-- − --></mo><msup><mi>g</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>a</mi><mi>b</mi><mo>&#x2212;<!-- − --></mo><msup><mi>h</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>g</mi><mi>h</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><mi>f</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>f</mi><mi>g</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><mi>h</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>h</mi><mi>f</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>g</mi><mo stretchy="false">)</mo></math>.
       </d:listitem>
     </d:orderedlist>
   </d:sect1>
