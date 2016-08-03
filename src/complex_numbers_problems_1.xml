@@ -32,14 +32,370 @@
     <d:listitem>
       Find the square root of
       <d:informalequation>
-        <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.2em"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>i</mi></mrow></mfrac><mrow><mo>(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>+</mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>)</mo></mrow><mo>+</mo><mfrac><mn>31</mn><mn>16</mn></mfrac></math>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>2</mn><mi>i</mi></mrow></mfrac><mrow><mo>(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>+</mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>)</mo></mrow><mo>+</mo><mfrac><mn>31</mn><mn>16</mn></mfrac></math>
       </d:informalequation>
     </d:listitem>
     <d:listitem>
       Find the square root of
       <d:informalequation>
-        <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.2em"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>&#x2212;<!-- − --></mo><mfrac><mn>1</mn><mi>i</mi></mfrac><mrow><mo>(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>&#x2212;<!-- − --></mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>)</mo></mrow><mo>&#x2212;<!-- − --></mo><mfrac><mn>9</mn><mn>4</mn></mfrac></math>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>&#x2212;<!-- − --></mo><mfrac><mn>1</mn><mi>i</mi></mfrac><mrow><mo>(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>&#x2212;<!-- − --></mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>)</mo></mrow><mo>&#x2212;<!-- − --></mo><mfrac><mn>9</mn><mn>4</mn></mfrac></math>
       </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Find the square root of
+      <d:informalequation>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn
+            mathsize="1.1em">1</mn><msup><mi mathsize="1.1em">x</mi><mn
+            mathsize="1.1em">2</mn></msup></mfrac><mo
+            mathsize="1.1em">+</mo><mn>4</mn><mi>i</mi><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mn
+            mathsize="1.1em">1</mn><mi mathsize="1.1em">x</mi></mfrac></mrow></mfenced><mo>-</mo><mn>6</mn></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Find <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>2</mn><mo>+</mo><mn>3</mn><msqrt><mo>-</mo><mn>5</mn></msqrt></msqrt><mo>+</mo><msqrt><mn>2</mn><mo>-</mo><mn>3</mn><msqrt><mo>-</mo><mn>5</mn></msqrt></msqrt></math>
+    </d:listitem>
+    <d:listitem>
+      Find <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>i</mi></msqrt><msqrt><mo>-</mo><mi>i</mi></msqrt></math>
+    </d:listitem>
+  </d:orderedlist>
+  <d:para>
+    Simplify the following form of <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>+</mo><mi>i</mi><mi>B</mi></math>
+  </d:para>
+  <d:orderedlist continuation="continues">
+    <d:listitem>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>i</mi><mrow><mi
+          mathsize="1.1em">n</mi><mo mathsize="1.1em">+</mo><mn
+          mathsize="1.1em">80</mn></mrow></msup><mo>+</mo><msup><mi>i</mi><mrow><mi
+          mathsize="1.1em">n</mi><mo mathsize="1.1em">+</mo><mn
+          mathsize="1.1em">50</mn></mrow></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msup><mfenced><mrow><msup><mi>i</mi><mn>17</mn></msup><mo>+</mo><mfrac><mn
+          mathsize="1.1em">1</mn><msup><mi mathsize="1.1em">i</mi><mn
+          mathsize="1.1em">15</mn></msup></mfrac></mrow></mfenced><mn
+          mathsize="1.1em">3</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>i</mi><msup><mo>)</mo><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfenced><mrow><mfrac><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>i</mi></mrow></mfrac></mrow></mfenced><mfrac><mrow><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi></mrow><mrow><mn>7</mn><mo>-</mo><mn>8</mn><mi>i</mi></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>i</mi><msup><mo>)</mo><mrow><mn>4</mn><mi>n</mi><mo>+</mo><mn>7</mn></mrow></msup></mrow><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>i</mi><msup><mo>)</mo><mrow><mn>4</mn><mi>n</mi><mo>-</mo><mn>1</mn></mrow></msup></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x3B8;</mi></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mrow><mo>(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mo>)</mo><mo>(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>y</mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>c</mi><mi>o</mi><mi>t</mi><mi>u</mi><mo>+</mo><mi>i</mi><mo>)</mo><mo>(</mo><mi>i</mi><mo>+</mo><mi>t</mi><mi>a</mi><mi>n</mi><mi>v</mi><mo>)</mo></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      Find the complex number <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math> such that
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mfenced
+          open="|" close="|"><mi>z</mi></mfenced><mo>=</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      Show that for <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>&#x2208;</mo><mi>C</mi><mo>,</mo><mo>|</mo><mi>z</mi><mo>|</mo><mo>=</mo><mn>0</mn></math>
+      if and only if <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      are <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>-</mo><mi>i</mi></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mo>+</mo><mn>7</mn><mi>i</mi></math>
+      find <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>I</mi><mi>m</mi><mfenced><mfrac><mrow><msub><mi
+      mathsize="1.1em">z</mi><mn mathsize="1.1em">1</mn></msub><msub><mi mathsize="1.1em">z</mi><mn>2</mn></msub></mrow><mover><msub><mi mathsize="1.1em">z</mi><mn mathsize="1.1em">1</mn></msub><mo mathsize="1.1em">&#xAF;</mo></mover></mfrac></mfenced></math>
+    </d:listitem>
+  </d:orderedlist>
+  <d:para>
+    Find <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> and  <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math> if
+  </d:para>
+  <d:orderedlist continuation="continues">
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mi>x</mi><mo>+</mo><mn>5</mn><mi>i</mi><mo>)</mo><mo>-</mo><mo>(</mo><mn>3</mn><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>=</mo><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"
+            mathsize="1.1em"><mfrac><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>i</mi><mo>)</mo><mi>x</mi><mo>-</mo><mn>2</mn><mi>i</mi></mrow><mrow><mn>3</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mo>(</mo><mn>2</mn><mo>-</mo><mn>3</mn><mi>i</mi><mo>)</mo><mi>y</mi><mo>+</mo><mi>i</mi></mrow><mrow><mn>3</mn><mo>-</mo><mi>i</mi></mrow></mfrac><mo
+            mathsize="1.1em">=</mo><mi mathsize="1.1em">i</mi></math>
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><mi>z</mi></mfenced><mo>=</mo><mn>1</mn></math> then prove that
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mrow><mi>z</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>z</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math>
+      is purely imaginary.
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><mrow><mi>z</mi><mo>-</mo><mi>i</mi></mrow></mfenced><mo>&lt;</mo><mn>1</mn></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mo>|</mo><mi>z</mi><mo>+</mo><mn>12</mn><mo>-</mo><mn>6</mn><mi>i</mi><mo>|</mo><mo>&lt;</mo><mn>14</mn></math>.
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><mrow><mi>z</mi><mo>+</mo><mn>6</mn></mrow></mfenced><mo>=</mo><mfenced
+      open="|"
+      close="|"><mrow><mn>2</mn><mi>z</mi><mo>+</mo><mn>3</mn></mrow></mfenced></math>
+      then prove that <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced
+      open="|" close="|"><mi>z</mi></mfenced><mo>=</mo><mn>3</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>a</mi><mo>-</mo><mi>i</mi><mi>b</mi></msqrt><mo>=</mo><mi>x</mi><mo>-</mo><mi>i</mi><mi>y</mi></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></msqrt><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi></math>.
+    </d:listitem>
+    <d:listitem>
+      Show that the equation
+      <d:informalequation>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><msup><mi>A</mi><mn>2</mn></msup><mrow><mi>x</mi><mo>-</mo><mi>a</mi></mrow></mfrac><mo>+</mo><mfrac><msup><mi>B</mi><mn>2</mn></msup><mrow><mi>x</mi><mo>-</mo><mi>b</mi></mrow></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><msup><mi>H</mi><mn>2</mn></msup><mrow><mi>x</mi><mo>-</mo><mi>h</mi></mrow></mfrac><mo>=</mo><mi>x</mi><mo>+</mo><mi>l</mi></math>,
+      </d:informalequation>
+      where,
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>,</mo><mi>B</mi><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mi>H</mi><mo>;</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mi>h</mi><mtext>&#xA0;and&#xA0;</mtext><mi>l</mi></math>
+      are real; cannot have imaginary roots.
+    </d:listitem>
+    <d:listitem>
+      Show that a unimodular complex number, not purely real can always be
+      expressed as <math xmlns="http://www.w3.org/1998/Math/MathML"
+      mathsize="1.1em"><mfrac><mrow><mi>c</mi><mo>+</mo><mi>i</mi></mrow><mrow><mi>c</mi><mo>-</mo><mi>i</mi></mrow></mfrac></math>
+      for some real <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>.
+    </d:listitem>
+    <d:listitem>
+      If the expression
+      <d:informalequation>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.1em"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>-</mo><mi>i</mi><mi>t</mi><mi>a</mi><mi>n</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfrac></math>
+      </d:informalequation>
+      is real, then find all the possible set of values for <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>.
+    </d:listitem>
+    <d:listitem>
+      Find the conjugate, modulus and argument of <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>2</mn><mi>i</mi></math>.
+    </d:listitem>
+    <d:listitem>
+      Put <math xmlns="http://www.w3.org/1998/Math/MathML"
+      mathsize="1.1em"><mfrac><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mrow><mi>x</mi><mo>-</mo><mi>i</mi><mi>y</mi></mrow></mfrac></math>
+      in polar form.
+    </d:listitem>
+  </d:orderedlist>
+  <d:para>
+    For any two complex numbers <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+    and <math
+    xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+    prove that
+  </d:para>
+  <d:orderedlist continuation="continues">
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mfenced open="|" close="|"><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced open="|" close="|"><mrow><msub><mi>z</mi><mn>2</mn></msub><mo>-</mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>(</mo><msup><mfenced open="|" close="|"><msub><mi>z</mi><mn>1</mn></msub></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced open="|" close="|"><msub><mi>z</mi><mn>2</mn></msub></mfenced><mn>2</mn></msup><mo>)</mo></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>R</mi><mi>e</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#xAF;</mo></mover><mo>)</mo><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>R</mi><mi>e</mi><mo>(</mo><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover><msub><mi>z</mi><mn>2</mn></msub><mo>)</mo></math>
+    </d:listitem>
+    <d:listitem>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn></math>
+      and <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+          close="|"><msub><mi>z</mi><mn>2</mn></msub></mfenced><mo>=</mo><mn>1</mn></math>
+      then prove that
+      <d:informalequation>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+                                                                close="|"><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfenced><mo>=</mo><mfenced
+            open="|" close="|"><mrow><mfrac><mn
+            mathsize="1.1em">1</mn><msub><mi mathsize="1.1em">z</mi><mn
+            mathsize="1.1em">1</mn></msub></mfrac><mo>+</mo><mfrac><mn
+            mathsize="1.1em">1</mn><msub><mi mathsize="1.1em">z</mi><mn
+            mathsize="1.1em">2</mn></msub></mfrac></mrow></mfenced></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><mrow><mi>z</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>=</mo><mn>2</mn><mfenced
+      open="|"
+      close="|"><mrow><mi>z</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math>
+      then show that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mfenced open="|"
+      close="|"><mi>z</mi></mfenced><mn>2</mn></msup><mo>=</mo><mfrac><mn
+      mathsize="1.1em">4</mn><mn
+      mathsize="1.1em">3</mn></mfrac><mi>R</mi><mi>e</mi><mo>(</mo><mi>z</mi><mo>)</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mroot><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mn>3</mn></mroot><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi mathsize="1.1em">a</mi><mi mathsize="1.1em">x</mi></mfrac><mo>+</mo><mfrac><mi mathsize="1.1em">b</mi><mi mathsize="1.1em">y</mi></mfrac><mo>=</mo><mn>4</mn><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><msup><mi>y</mi><mn>2</mn></msup><mo>)</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>=</mo><msqrt><mfrac><mrow><mi
+      mathsize="1.1em">a</mi><mo mathsize="1.1em">+</mo><mi
+      mathsize="1.1em">i</mi><mi mathsize="1.1em">b</mi></mrow><mrow><mi
+      mathsize="1.1em">c</mi><mo mathsize="1.1em">+</mo><mi
+      mathsize="1.1em">i</mi><mi
+      mathsize="1.1em">d</mi></mrow></mfrac></msqrt></math> then prove that
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mrow><msup><mi
+          mathsize="1.1em">a</mi><mn mathsize="1.1em">2</mn></msup><mo
+          mathsize="1.1em">+</mo><msup><mi mathsize="1.1em">b</mi><mn
+          mathsize="1.1em">2</mn></msup></mrow><mrow><msup><mi
+          mathsize="1.1em">c</mi><mn mathsize="1.1em">2</mn></msup><mo
+          mathsize="1.1em">+</mo><msup><mi mathsize="1.1em">d</mi><mn
+          mathsize="1.1em">2</mn></msup></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn
+      mathsize="1.1em">3</mn><mrow><mn mathsize="1.1em">2</mn><mo
+      mathsize="1.1em">+</mo><mi mathsize="1.1em">c</mi><mi
+      mathsize="1.1em">o</mi><mi mathsize="1.1em">s</mi><mi
+      mathsize="1.1em">&#x3B8;</mi><mo mathsize="1.1em">+</mo><mi
+      mathsize="1.1em">i</mi><mi mathsize="1.1em">s</mi><mi
+      mathsize="1.1em">i</mi><mi mathsize="1.1em">n</mi><mi
+      mathsize="1.1em">&#x3B8;</mi></mrow></mfrac><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>a</mi><mo>-</mo><mn>3</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><mrow><mn>2</mn><mi>z</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mfenced
+      open="|"
+      close="|"><mrow><mi>z</mi><mo>-</mo><mn>2</mn></mrow></mfenced></math>
+      then prove that <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced
+      open="|" close="|"><mi>z</mi></mfenced><mo>=</mo><mn>1</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> is
+      real and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn
+      mathsize="1.1em">1</mn><mo mathsize="1.1em">-</mo><mi
+      mathsize="1.1em">i</mi><mi mathsize="1.1em">x</mi></mrow><mrow><mn
+      mathsize="1.1em">1</mn><mo mathsize="1.1em">+</mo><mi
+      mathsize="1.1em">i</mi><mi
+      mathsize="1.1em">x</mi></mrow></mfrac><mo>=</mo><mi>m</mi><mo>+</mo><mi>i</mi><mi>n</mi></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>
+    </d:listitem>
+    <d:listitem>
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mo>+</mo><mi>i</mi><mi>n</mi><mo>=</mo><mfrac><mrow><mi
+          mathsize="1.1em">x</mi><mo mathsize="1.1em">+</mo><mi
+          mathsize="1.1em">i</mi><mi mathsize="1.1em">y</mi></mrow><mrow><mi
+          mathsize="1.1em">x</mi><mo mathsize="1.1em">-</mo><mi
+          mathsize="1.1em">i</mi><mi
+          mathsize="1.1em">y</mi></mrow></mfrac><mo>,</mo><mtext>where</mtext><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>m</mi><mo>,</mo><mi>n</mi></math>
+      are real and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>&#x2260;</mo><mn>0</mn></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mo>+</mo><mi>i</mi><mi>n</mi><mo>&#x2260;</mo><mn>0</mn></math>
+      then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi mathsize="1.1em">x</mi><mi mathsize="1.1em">a</mi></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi
+      mathsize="1.1em">x</mi><mi
+      mathsize="1.1em">b</mi></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi
+      mathsize="1.1em">x</mi><mi
+      mathsize="1.1em">c</mi></mfrac></mrow></mfenced><mo>.</mo><mo>.</mo><mo>.</mo><mo>=</mo><mi>A</mi><mo>+</mo><mi>i</mi><mi>B</mi></math>
+      then prove that <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><msup><mi mathsize="1.1em">x</mi><mn mathsize="1.1em">2</mn></msup><msup><mi mathsize="1.1em">a</mi><mn>2</mn></msup></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><msup><mi mathsize="1.1em">x</mi><mn mathsize="1.1em">2</mn></msup><msup><mi mathsize="1.1em">b</mi><mn>2</mn></msup></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><msup><mi mathsize="1.1em">x</mi><mn mathsize="1.1em">2</mn></msup><msup><mi mathsize="1.1em">c</mi><mn mathsize="1.1em">2</mn></msup></mfrac></mrow></mfenced><mo>.</mo><mo>.</mo><mo>.</mo><mo>=</mo><msup><mi>A</mi><mn>2</mn></msup><mo>+</mo><msup><mi>B</mi><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      Let <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      be complex numbers such that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2260;</mo><msub><mi>z</mi><mn>2</mn></msub></math>
+      and <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|"
+      close="|"><msub><mi>z</mi><mn>1</mn></msub></mfenced><mo>=</mo><mfenced
+      open="|"
+      close="|"><msub><mi>z</mi><mn>2</mn></msub></mfenced><mo>.</mo></math>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      has positive real part and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      has negative imaginary part then prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"
+      mathsize="1.1em"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub></mrow><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>-</mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfrac></math>
+      is either zero or purely imaginary.
+    </d:listitem>
+    <d:listitem>
+      For complex numbers <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>2</mn></msub></math>
+      the notation of <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2229;</mo><msub><mi>z</mi><mn>2</mn></msub></math>
+      is valid if <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>x</mi><mn>1</mn></msub><mo>&#x2264;</mo><msub><mi>x</mi><mn>2</mn></msub></math>
+      and <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>y</mi><mn>1</mn></msub><mo>&#x2264;</mo><msub><mi>y</mi><mn>2</mn></msub></math>.
+      Show that for all complex numbers <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math> with <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>&#x2229;</mo><mi>z</mi></math>
+      we have <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn
+      mathsize="1.1em">1</mn><mo mathsize="1.1em">-</mo><mi
+      mathsize="1.1em">z</mi></mrow><mrow><mn mathsize="1.1em">1</mn><mo
+      mathsize="1.1em">+</mo><mi
+      mathsize="1.1em">z</mi></mrow></mfrac><mo>&#x2229;</mo><mn>0</mn><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi>z</mi><mo>|</mo><mi>z</mi><mo>|</mo><mo>+</mo><mi>a</mi><mi>z</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>,</mo></math>
+      show that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math> is a
+      negative real number.
+    </d:listitem>
+    <d:listitem>
+      Find the range of real number <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> for
+      which the equation <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>+</mo><mi>&#x3B1;</mi><mo>|</mo><mi>z</mi><mo>-</mo><mn>1</mn><mo>|</mo><mo>+</mo><mn>2</mn><mi>i</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>z</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi></math>
+      has a solution. Also, find the solution.
+    </d:listitem>
+    <d:listitem>
+      For every real number <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&#x2265;</mo><mn>0</mn><mo>,</mo></math>
+      find all the complex numbers satisfying the equation <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mfenced open="|"
+      close="|"><mi>z</mi></mfenced><mo>-</mo><mn>4</mn><mi>a</mi><mi>z</mi><mo>+</mo><mn>1</mn><mo>+</mo><mi>i</mi><mi>a</mi><mo>=</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      Show that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><msup><mo>)</mo><mn>5</mn></msup><mo>=</mo><mo>(</mo><msup><mi>x</mi><mn>5</mn></msup><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mi>y</mi><mn>4</mn></msup><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mi>y</mi><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>y</mi><mn>5</mn></msup><msup><mo>)</mo><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      Express <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>a</mi><mn>2</mn></msup><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mo>)</mo></math>
+      as sum of two square.
+    </d:listitem>
+    <d:listitem>
+      If <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>1</mn><mo>+</mo><mi>x</mi><msup><mo>)</mo><mi>n</mi></msup><mo>=</mo><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mi>x</mi><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub><msup><mi>x</mi><mi>n</mi></msup><mo>,</mo></math>
+      prove that <math
+      xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>2</mn><mi>n</mi></msup><mo>=</mo><mo>(</mo><msub><mi>a</mi><mn>0</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><msub><mi>a</mi><mn>4</mn></msub><mo>-</mo><mo>.</mo><mo>.</mo><mo>.</mo><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>+</mo><msub><mi>a</mi><mn>5</mn></msub><mo>-</mo><mo>.</mo><mo>.</mo><mo>.</mo><msup><mo>)</mo><mn>2</mn></msup></math>
     </d:listitem>
   </d:orderedlist>
 </d:chapter>
