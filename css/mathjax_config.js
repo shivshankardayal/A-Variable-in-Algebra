@@ -3,17 +3,17 @@
         "HTML-CSS": {
             preferredFont: "STIX",
             scale: 100,
-            minScaleAdjust: 140
+            minScaleAdjust: 120
         },
         CommonHTML: {
             preferredFont: "STIX",
             scale: 100,
-            minScaleAdjust: 140
+            minScaleAdjust: 120
         },
         MathML: {
             preferredFont: "STIX",
             scale: 100,
-            minScaleAdjust: 150
+            minScaleAdjust: 120
         }
     };
 </script>

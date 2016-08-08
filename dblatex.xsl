@@ -45,7 +45,7 @@
 
   <xsl:param name="page.margin.top">.5in</xsl:param>
   <xsl:param name="page.margin.bottom">.5in</xsl:param>
-  <xsl:param name="body.master.font">9pt</xsl:param>
+  <xsl:param name="body.master.font">10pt</xsl:param>
   
   <!-- Font's available at: -->
   <!-- http://iweb.dl.sourceforge.net/project/sourcesans.adobe/SourceSansPro_FontsOnly-1.050.zip -->

@@ -3,6 +3,17 @@
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
   <?dbhtml filename="preface/index.html" ?>
+  <d:author>
+    <d:honorific>Dr.</d:honorific>
+    <d:firstname>Lois</d:firstname>
+    <d:surname>Common-Demoninator</d:surname>
+    <d:affiliation>
+      <d:shortaffil>Director, M. Behn School of Coop. Eng.</d:shortaffil>
+      <d:jobtitle>Director of Cooperative Efforts</d:jobtitle>
+      <d:orgname>The Marguerite Behn International School of
+               Cooperative Engineering</d:orgname>
+    </d:affiliation>
+  </d:author>
   <d:title>Preface</d:title>
   <d:para>
     This is a book on algebra, which, covers basics of algebra till high school
@@ -108,7 +119,9 @@
       There are a lot of diagrams in this text and those have been drawn using
       Tikz. Thanks for its developers Till Tantau and Christian Feuersaenger
       along with all the contributors for creating such a wonderful piece of
-      vector graphics library for TeX.
+      vector graphics library for TeX. I also use Asymptote a lot for drawing
+      pictures, which, has been developed by Andy Hammerlindl, John C. Bowman
+      and Tom Prince. Many thanks to these gentleman.
     </d:para>
     <d:para>
       I must say thanks to my family particularly to my parents, wife and my
@@ -151,6 +164,9 @@
       problems and solution in many parts becasue at the time of writing that
       MathJaX was so slow that it took 2 min to typeset math on an i3
       computer. Now, MathJaX has a fast HTML mode which is much faster.
+      However, the pdf generated from Docbook will need customization before
+      it will look beautiful and I have not done that as for me HTML output is
+      primary. This book is meant for web.
     </d:para>
   </d:simplesect>
 </d:preface>
