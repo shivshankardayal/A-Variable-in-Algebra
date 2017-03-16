@@ -28,16 +28,16 @@
         Now we can rewrite this as
         <math
             xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mo>&#xB1;</mo><msqrt><mn>113</mn></msqrt><mo>&#x21D2;</mo><mi>a</mi><mo>=</mo><mo>&#xB1;</mo><msqrt><mfrac><mrow><mn
-            mathsize="1.1em">7</mn><mo mathsize="1.1em">&#xB1;</mo><msqrt><mn
-            mathsize="1.1em">113</mn></msqrt></mrow><mn
-            mathsize="1.1em">2</mn></mfrac></msqrt></math>
+            >7</mn><mo>&#xB1;</mo><msqrt><mn
+            >113</mn></msqrt></mrow><mn
+            >2</mn></mfrac></msqrt></math>
       </d:para>
       <d:para>
         Problem no. 2, 3, 4, and 5 can be solved similarly.
       </d:para>
     </d:listitem>
     <d:listitem override="6">
-      Given complex number can be rewritten as 
+      Given complex number can be rewritten as
       <d:sbr></d:sbr>
       <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mo>&#xB1;</mo><msqrt><mn>113</mn></msqrt><mo>&#x21D2;</mo><mi>a</mi><mo>=</mo><mo>&#xB1;</mo><msqrt><mfrac><mrow><mn
@@ -46,22 +46,22 @@
       <d:sbr></d:sbr>
       On simplification <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><msup><mfenced><mrow><mfrac><mi
-      mathsize="1.2em">x</mi><mi
-      mathsize="1.2em">y</mi></mfrac><mo>+</mo><mfrac><mi
-      mathsize="1.2em">y</mi><mi
-      mathsize="1.2em">x</mi></mfrac><mo>-</mo><mfrac><mi
-      mathsize="1.2em">i</mi><mn
-      mathsize="1.2em">4</mn></mfrac></mrow></mfenced><mn
-      mathsize="1.2em">2</mn></msup></math>
+      >x</mi><mi
+      >y</mi></mfrac><mo>+</mo><mfrac><mi
+      >y</mi><mi
+      >x</mi></mfrac><mo>-</mo><mfrac><mi
+      >i</mi><mn
+      >4</mn></mfrac></mrow></mfenced><mn
+      >2</mn></msup></math>
       <d:para>
         Therefore, square root is <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#xB1;</mo><mfenced><mrow><mfrac><mi
-        mathsize="1.2em">x</mi><mi
-        mathsize="1.2em">y</mi></mfrac><mo>+</mo><mfrac><mi
-        mathsize="1.2em">y</mi><mi
-        mathsize="1.2em">x</mi></mfrac><mo>-</mo><mfrac><mi
-        mathsize="1.2em">i</mi><mn
-        mathsize="1.2em">4</mn></mfrac></mrow></mfenced></math>
+        >x</mi><mi
+        >y</mi></mfrac><mo>+</mo><mfrac><mi
+        >y</mi><mi
+        >x</mi></mfrac><mo>-</mo><mfrac><mi
+        >i</mi><mn
+        >4</mn></mfrac></mrow></mfenced></math>
       </d:para>
       <d:para>
         Problem no. 7, 8, 9 and 10 can be solved similarly.
@@ -70,16 +70,16 @@
     <d:listitem override="11">
       Given expression can be rewritten as <math
       xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>i</mi><mi
-      mathsize="1.1em">n</mi></msup><mo>(</mo><msup><mi>i</mi><mn
-      mathsize="1.1em">80</mn></msup><mo>+</mo><msup><mi>i</mi><mn
-      mathsize="1.1em">50</mn></msup><mo>)</mo><mo>=</mo><msup><mi>i</mi><mi
-      mathsize="1.1em">n</mi></msup><mo>(</mo><msup><mi>i</mi><mrow><mn
-      mathsize="1.1em">20</mn><mo mathsize="1.1em">*</mo><mn
-      mathsize="1.1em">4</mn></mrow></msup><mo>+</mo><msup><mi
-      mathsize="1.1em">i</mi><mrow><mn mathsize="1.1em">12</mn><mo
-      mathsize="1.1em">*</mo><mn mathsize="1.1em">4</mn><mo>+</mo><mn
-      mathsize="1.1em">2</mn></mrow></msup><mo>)</mo><mo>=</mo><msup><mi>i</mi><mi
-      mathsize="1.1em">n</mi></msup><mo
+      >n</mi></msup><mo>(</mo><msup><mi>i</mi><mn
+      >80</mn></msup><mo>+</mo><msup><mi>i</mi><mn
+      >50</mn></msup><mo>)</mo><mo>=</mo><msup><mi>i</mi><mi
+      >n</mi></msup><mo>(</mo><msup><mi>i</mi><mrow><mn
+      >20</mn><mo>*</mo><mn
+      >4</mn></mrow></msup><mo>+</mo><msup><mi
+      >i</mi><mrow><mn>12</mn><mo
+      >*</mo><mn>4</mn><mo>+</mo><mn
+      >2</mn></mrow></msup><mo>)</mo><mo>=</mo><msup><mi>i</mi><mi
+      >n</mi></msup><mo
       stretchy="false">(</mo><mn>1</mn><mo>-</mo><mn>1</mn><mo
       stretchy="false">)</mo><mo>=</mo><mn>0</mn><mo>.</mo></math>
       <d:para>
@@ -89,7 +89,7 @@
     <d:listitem override="16">
       Given <d:sbr></d:sbr>
         <math
-            xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.2em"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x3B8;</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><mo>-</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x3B8;</mi></mrow><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>&#x3B8;</mi></mrow></mfrac></math>
+            xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x3B8;</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><mo>-</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x3B8;</mi></mrow><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x3B8;</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>&#x3B8;</mi></mrow></mfrac></math>
       <d:sbr></d:sbr>Now all that remains is isolating real and imaginary parts.
     </d:listitem>
     <d:listitem>
@@ -115,7 +115,7 @@
       stretchy="false">)</mo></mrow></mfrac></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtable
       columnalign="right left" rowspacing="3pt" columnspacing="0em"
       displaystyle="true"><mtr><mtd><mo>=</mo><mfrac><mrow><mo
-      stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>y</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>y</mi><mo stretchy="false">)</mo></mrow><mfrac><mrow mathsize="1.2em"><mo  mathsize="1.2em" stretchy="false">(</mo><mi mathsize="1.2em">c</mi><mi mathsize="1.2em">o</mi><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">u</mi><mo mathsize="1.2em">+</mo><mi mathsize="1.2em">i</mi><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">i</mi><mi mathsize="1.2em">n</mi><mi mathsize="1.2em">u</mi><mo  mathsize="1.2em" stretchy="false">)</mo><mo mathsize="1.2em"  stretchy="false">(</mo><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">i</mi><mi mathsize="1.2em">n</mi><mi mathsize="1.2em">v</mi><mo mathsize="1.2em">+</mo><mi mathsize="1.2em">i</mi><mi mathsize="1.2em">c</mi><mi mathsize="1.2em">o</mi><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">v</mi><mo mathsize="1.2em"  stretchy="false">)</mo></mrow><mrow mathsize="1.2em"><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">i</mi><mi mathsize="1.2em">n</mi><mi mathsize="1.2em">u</mi><mi mathsize="1.2em">c</mi><mi mathsize="1.2em">o</mi><mi mathsize="1.2em">s</mi><mi mathsize="1.2em">v</mi></mrow></mfrac></mfrac></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mo>=</mo><mfrac><mrow mathsize="1.2em"><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>v</mi><mo stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow><mrow mathsize="1.2em"><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>y</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>x</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>y</mi><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>y</mi><mo stretchy="false">)</mo></mrow><mfrac><mrow><mo  stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>u</mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mo  stretchy="false">)</mo><mo  stretchy="false">(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>v</mi><mo>+</mo><mi>i</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>v</mi><mo  stretchy="false">)</mo></mrow><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>v</mi></mrow></mfrac></mfrac></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mo>=</mo><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>v</mi><mo stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
       <d:sbr></d:sbr>
       Now it is as simple as multiplying this with conjugate of denominator and
       expanding. However, there is a very neat way of solving this using Eulers
@@ -123,16 +123,16 @@
       fraction as<d:sbr></d:sbr>
       <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mi>s</mi><mi>i</mi><mi>n</mi><mi>u</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>v</mi><mfrac><mrow><msup><mi>e</mi><mrow><mi
-          mathsize="1.8em">i</mi><mi
-          mathsize="1.8em">x</mi></mrow></msup><msup><mi>e</mi><mrow><mi
-          mathsize="1.8em">i</mi><mi
-          mathsize="1.8em">y</mi></mrow></msup></mrow><mrow><msup><mi>e</mi><mrow><mi
-          mathsize="1.8em">i</mi><mi
-          mathsize="1.8em">u</mi></mrow></msup><msup><mi>e</mi><mrow><mi
-          mathsize="1.8em">i</mi><mfenced><mrow><mfrac><mi
-          mathsize="1.8em">&#x3C0;</mi><mn mathsize="1.1em">2</mn></mfrac><mo
-          mathsize="1.8em">-</mo><mi
-          mathsize="1.8em">v</mi></mrow></mfenced></mrow></msup></mrow></mfrac><mo>.</mo></math>
+         >i</mi><mi
+         >x</mi></mrow></msup><msup><mi>e</mi><mrow><mi
+         >i</mi><mi
+         >y</mi></mrow></msup></mrow><mrow><msup><mi>e</mi><mrow><mi
+         >i</mi><mi
+         >u</mi></mrow></msup><msup><mi>e</mi><mrow><mi
+         >i</mi><mfenced><mrow><mfrac><mi
+         >&#x3C0;</mi><mn>2</mn></mfrac><mo
+         >-</mo><mi
+         >v</mi></mrow></mfenced></mrow></msup></mrow></mfrac><mo>.</mo></math>
     </d:listitem>
     <d:listitem>
       Let <math
@@ -148,7 +148,7 @@
         then
         <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msqrt><msup><mi>y</mi><mn>2</mn></msup></msqrt><mo>=</mo><mn>0</mn></math>
         <math
-            xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mi>y</mi><mo>=</mo><mo>&#xB1;</mo><mn>1</mn></math> 
+            xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mi>y</mi><mo>=</mo><mo>&#xB1;</mo><mn>1</mn></math>
 
       If
         <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>0</mn></math>
@@ -170,7 +170,7 @@
             open="|" close="|"><mi>z</mi></mfenced></math> is a real number or is a purely imaginary number.
         <d:emphasis role="bold">Case I:</d:emphasis> When <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math> is
-        real. Let <math 
+        real. Let <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mi>x</mi></math>
         then as shown above <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>0.</mn></math>
@@ -196,9 +196,9 @@
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>0</mn></math>
     </d:listitem>
     <d:listitem>
-      <math xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.2em"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mrow><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>i</mi><mo>)</mo><mo>(</mo><mn>2</mn><mo>+</mo><mn>7</mn><mi>i</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>9</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>9</mn><mo>+</mo><mn>5</mn><mi>i</mi><mo>)</mo><mo>(</mo><mn>1</mn><mo>-</mo><mi>i</mi><mo>)</mo></mrow><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>14</mn><mo>-</mo><mn>4</mn><mi>i</mi></mrow><mn>2</mn></mfrac></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mrow><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>i</mi><mo>)</mo><mo>(</mo><mn>2</mn><mo>+</mo><mn>7</mn><mi>i</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>9</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>9</mn><mo>+</mo><mn>5</mn><mi>i</mi><mo>)</mo><mo>(</mo><mn>1</mn><mo>-</mo><mi>i</mi><mo>)</mo></mrow><mn>2</mn></mfrac><mo>=</mo><mfrac><mrow><mn>14</mn><mo>-</mo><mn>4</mn><mi>i</mi></mrow><mn>2</mn></mfrac></math>
       <d:sbr></d:sbr>
-      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>I</mi><mi>m</mi><mfenced><mfrac><mrow><msub><mi mathsize="1.2em">z</mi><mn mathsize="1.2em">1</mn></msub><msub><mi mathsize="1.2em">z</mi><mn mathsize="1.2em">2</mn></msub></mrow><mover><msub><mi mathsize="1.2em">z</mi><mn mathsize="1.2em">1</mn></msub><mo>&#xAF;</mo></mover></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>2</mn></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>I</mi><mi>m</mi><mfenced><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mrow><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>2</mn></math>
     </d:listitem>
     <d:listitem>
       Given <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mi>x</mi><mo>+</mo><mn>5</mn><mi>i</mi><mo>)</mo><mo>-</mo><mo>(</mo><mn>3</mn><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>=</mo><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi><mo>&#x21D2;</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>5</mn><mo>-</mo><mi>y</mi><mo>)</mo><mi>i</mi><mo>=</mo><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi><mo>.</mo></math>
@@ -216,12 +216,12 @@
       close="|"><mi>z</mi></mfenced><mo>=</mo><mn>1</mn><mo>&#x21D2;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>. Now
       we need to evaluate <d:sbr></d:sbr>
       <math
-          xmlns="http://www.w3.org/1998/Math/MathML" mathsize="1.2em"><mfrac><mrow><mi>z</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>z</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>&#x21D2;</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi></mrow></mfrac></math>
+          xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>z</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>z</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>&#x21D2;</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi></mrow></mfrac></math>
       <d:sbr></d:sbr>
       Multiplying and dividing by conjugate of denominator we
       have<d:sbr></d:sbr>
       <d:inlineequation><math xmlns="http://www.w3.org/1998/Math/MathML"
-                              mathsize="1.2em"><mfrac><mrow><mo>(</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow></mfrac><mo>&#x21D2;</mo><mfrac><mrow><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mo>(</mo><mi>x</mi><mi>y</mi><mo>+</mo><mi>y</mi><mo>-</mo><mi>x</mi><mi>y</mi><mo>+</mo><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></math>
+                             ><mfrac><mrow><mo>(</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow></mfrac><mo>&#x21D2;</mo><mfrac><mrow><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>i</mi><mo>(</mo><mi>x</mi><mi>y</mi><mo>+</mo><mi>y</mi><mo>-</mo><mi>x</mi><mi>y</mi><mo>+</mo><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></math>
       </d:inlineequation>
       <d:sbr></d:sbr>
       Now we know that from given equality real part of previous expression is
