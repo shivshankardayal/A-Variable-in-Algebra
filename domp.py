@@ -77,8 +77,8 @@ def process(filepath):
                    j.contents[0].contents[1].insert(0, link)
                    j.contents[1].contents[1].clear()
                    j.contents[1].contents[1].insert(0, link)
-                # Now mathjax is part of html
-            p = BeautifulSoup("<h3><a href='/'>Site Home</a></h3>", "lxml")#<p class='alert alert-info'>Please see <a href=\"http://caniuse.com/#feat=mathml\">http://caniuse.com/#feat=mathml</a> if your browser supports MathML because certain sections of this book rely on MathML. If your browser does not support MathML please install Firefox from <a href=\"https://www.mozilla.org\">Mozilla</a> because AFAIK Firefox supports MathML.</p>", "lxml")
+                # Now mathjax removed
+            p = BeautifulSoup("<h3><a href='/'>Site Home</a></h3><p class='alert alert-danger'>Please see <a href=\"http://caniuse.com/#feat=mathml\">http://caniuse.com/#feat=mathml</a> if your browser supports MathML because certain sections of this book rely on MathML. If your browser does not support MathML please install Firefox from <a href=\"https://www.mozilla.org\">Mozilla</a> because AFAIK Firefox supports MathML.</p>", "lxml")
             soup.body.insert(0, p)
             soup = BeautifulSoup(soup.renderContents(), "lxml")
 #                                for i in soup.find_all("pre", "CommonLispLexer"):
