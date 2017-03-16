@@ -29,7 +29,7 @@ fop:
 	cd src && fop c.fo c.pdf 
 
 epub: src/*.xml epub.xsl Makefile
-	xsltproc --xinclude --stringparam html.stylesheet "../css/bootstrap.min.css ../css/bootstrap-responsive.min.css ../css/styled.min.css" --path "src css" epub.xsl c.xml
+	xsltproc --xinclude --stringparam html.stylesheet "../css/bootstrap.min.css ../css/bootstrap-responsive.min.css ../css/styled.min.css" --path "src css" epub.xsl algebra.xml
 	cp -r images OEBPS
 	./epub.py
-	zip -r c.epub mimetype css META-INF/ OEBPS/
+	zip -r algebra.epub mimetype css META-INF/ OEBPS/

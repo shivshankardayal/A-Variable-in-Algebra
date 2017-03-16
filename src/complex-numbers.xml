@@ -3,7 +3,7 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="complex_numbers/index.html" ?>
+  <?dbhtml filename="complex-numbers/index.html" ?>
   <d:title>Complex Numbers</d:title>
   <d:para>
     Certain portions of these chapter require facts from other parts like
@@ -700,7 +700,7 @@
                                                                                            class="MJX-TeXAtom-ORD"><mo
                                                                                            stretchy="false">|</mo></mrow><mo>=</mo><mrow
                                                                                            class="MJX-TeXAtom-ORD"><mo
-                                                                                           stretchy="false">|</mo></mrow><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msub><mi>y</mi><mn>1</mn></msub><mo stretchy="false">)</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>          
+                                                                                           stretchy="false">|</mo></mrow><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msub><mi>y</mi><mn>1</mn></msub><mo stretchy="false">)</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
           i.e. <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mo
           stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msub><mi>y</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup></msqrt></math>
           i.e. <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mo
@@ -797,7 +797,7 @@
                                                                                            class="MJX-TeXAtom-ORD"><mo
                                                                                            stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow
                                                                                            class="MJX-TeXAtom-ORD"><mo
-                                                                                           stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo stretchy="false">(</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo stretchy="false">)</mo></math>          
+                                                                                           stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo stretchy="false">(</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo stretchy="false">)</mo></math>
         </d:listitem>
         <d:listitem>
           If <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math>
@@ -1219,7 +1219,7 @@
     <d:para>
       Let
       <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub>        
+        <msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub>
       </math>
       and
       <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1744,7 +1744,7 @@
         then <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>y</mi><mn>1</mn></msub><mo>)</mo></math>
         and <math
-        xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>y</mi><mn>2</mn></msub><mo>)</mo></math>        
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>y</mi><mn>2</mn></msub><mo>)</mo></math>
       </d:para>
       <d:para>
         Let <math
@@ -1844,7 +1844,7 @@
         </d:informalequation>
         <d:informalequation>
           <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mfenced open="|"
-                                                                    close="|"><mtable><mtr><mtd><mi>z</mi></mtd><mtd><mover><mi>z</mi><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><msub><mi>z</mi><mn>1</mn></msub></mtd><mtd><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><msub><mi>z</mi><mn>2</mn></msub></mtd><mtd><mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math> 
+                                                                    close="|"><mtable><mtr><mtd><mi>z</mi></mtd><mtd><mover><mi>z</mi><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><msub><mi>z</mi><mn>1</mn></msub></mtd><mtd><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><msub><mi>z</mi><mn>2</mn></msub></mtd><mtd><mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#xAF;</mo></mover></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced><mo>=</mo><mn>0</mn></math>
         </d:informalequation>
         <d:informalequation>
           <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mfenced open="|"
@@ -2164,7 +2164,7 @@
         <math xmlns="http://www.w3.org/1998/Math/MathML">
           <mrow class="MJX-TeXAtom-ORD"><mo
                                             stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>3</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>4</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>.</mo>
-        </math> 
+        </math>
       </d:para>
     </d:sect2>
     <d:sect2>
@@ -2525,7 +2525,7 @@
         <d:informalequation>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <mtable columnalign="right left"
-                    rowspacing="3pt" columnspacing="0em" 
+                    rowspacing="3pt" columnspacing="0em"
                     displaystyle="true"><mtr><mtd><mo
                                                       stretchy="false">(</mo><mi>z</mi><mo>&#x2212;<!-- −
                                                       --></mo><msub><mi>z</mi><mn>1</mn></msub><mo
@@ -2647,7 +2647,7 @@
                 <mi>a</mi><mi>r</mi><mi>g</mi><mo
                 stretchy="false">(</mo><mi>z</mi><mo>&#x2212;<!-- −
                 --></mo><msub><mi>z</mi><mn>0</mn></msub><mo
-                stretchy="false">)</mo><mo>=</mo><mi>&#x03B1;<!-- α --></mi>                
+                stretchy="false">)</mo><mo>=</mo><mi>&#x03B1;<!-- α --></mi>
               </math>
               represents a vector starting at
               <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2899,7 +2899,7 @@
                 If <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi><mo>=</mo><mi>&#x3C0;</mi><mo>/</mo><mn>2</mn></math>
                 then it represents a circle with diameter as the line segment
-                joining <math 
+                joining <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mo>)</mo></math>
                 and <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>(</mo><msub><mi>z</mi><mn>2</mn></msub><mo>)</mo></math>.
@@ -2917,7 +2917,7 @@
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi><mo>=</mo><mi>&#x3C0;</mi></math>
                 then it represents a circle with diameter as the line segment
                 joining
-                <math 
+                <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mo>)</mo></math>
                 and <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>(</mo><msub><mi>z</mi><mn>2</mn></msub><mo>)</mo></math>
@@ -2935,7 +2935,7 @@
               <d:listitem>
                 If <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi><mo>=</mo><mi>0</mi></math>
-                then it represents the line segment joining <math 
+                then it represents the line segment joining <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mo>)</mo></math>
                 and <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>(</mo><msub><mi>z</mi><mn>2</mn></msub><mo>)</mo></math>.

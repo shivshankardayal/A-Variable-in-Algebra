@@ -35,14 +35,14 @@ the section entitled &#8220;GNU Free Documentation License&#8221;.
   <xi:include href="preface.xml"/>
   <xi:include href="ns.xml"/>
   <xi:include href="ratio.xml"/>
-  <xi:include href="ratio_sol.xml"/>
+  <xi:include href="ratio-solutions.xml"/>
   <xi:include href="proportions.xml"/>
-  <xi:include href="prop_sol.xml"/>
+  <xi:include href="proportions-solutions.xml"/>
   <xi:include href="variations.xml"/>
-  <xi:include href="variations_solutions.xml"/>
-  <xi:include href="complex_numbers.xml"/>
-  <xi:include href="complex_numbers_problems_1.xml"/>
-  <xi:include href="complex_numbers_solutions_1.xml"/>
+  <xi:include href="variations-solutions.xml"/>
+  <xi:include href="complex-numbers.xml"/>
+  <xi:include href="complex-numbers-problems.xml"/>
+  <xi:include href="complex-numbers-solutions.xml"/>
   <d:index>
     <d:title>Index</d:title>
   </d:index>

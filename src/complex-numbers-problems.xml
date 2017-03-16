@@ -3,8 +3,8 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="complex_numbers_problems_1/index.html" ?>
-  <d:title>Complex Numbers Problems Part 1</d:title>
+  <?dbhtml filename="complex-numbers-problems/index.html" ?>
+  <d:title>Complex Numbers Problems</d:title>
   <d:para>
     This is split into parts because MathJaX takes a lot of time to render if
     there is lots of Math on the same page.

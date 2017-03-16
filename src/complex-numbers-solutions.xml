@@ -3,8 +3,8 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="complex_numbers_solutions_1/index.html" ?>
-  <d:title>Complex Numbers Solutions Part 1</d:title>
+  <?dbhtml filename="complex-numbers-solutions/index.html" ?>
+  <d:title>Complex Numbers Solutions</d:title>
   <d:orderedlist>
     <d:listitem>
       Let <math

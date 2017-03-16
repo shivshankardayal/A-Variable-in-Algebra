@@ -3,7 +3,7 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="ratio_sol/index.html" ?>
+  <?dbhtml filename="ratio-solutions/index.html" ?>
   <d:title>Solutions for Problems on Ratios</d:title>
   <d:orderedlist>
     <d:listitem>

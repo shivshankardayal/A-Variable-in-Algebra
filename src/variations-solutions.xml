@@ -3,7 +3,7 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="variations_solutions/index.html" ?>
+  <?dbhtml filename="variations-solutions/index.html" ?>
   <d:title>Variations Solutions</d:title>
   <d:orderedlist>
     <d:listitem>
@@ -38,7 +38,7 @@
       xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>7</mn></math>. Clearly,
       when <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>7</mn></math>;
-      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>. 
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mn>3</mn></math>.
     </d:listitem>
     <d:listitem>
       Given, <math

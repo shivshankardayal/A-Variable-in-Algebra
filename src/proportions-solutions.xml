@@ -3,7 +3,7 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="prop_sol/index.html" ?>
+  <?dbhtml filename="proportions-solutions/index.html" ?>
   <d:title>Solutions for Proportions</d:title>
   <d:orderedlist>
     <d:listitem>
@@ -119,7 +119,7 @@
         <d:listitem>
           Since <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></mrow></math>
-          and <math 
+          and <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>d</mi></mrow></math>
           are in continued proportion we can write them as
           <d:informalequation>
@@ -146,7 +146,7 @@
       </d:orderedlist>
     </d:listitem>
     <d:listitem>
-      Since <math 
+      Since <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>b</mi></mrow></math>
       is mean proportional between <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math>
@@ -192,7 +192,7 @@
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi><mo>=</mo><mi>b</mi><mi>k</mi></mrow></math>
       and <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi><mo>=</mo><mi>d</mi><mi>k</mi></mrow></math>. Now
-      substituting for <math 
+      substituting for <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>a</mi></mrow></math> and <math
       xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow></math>
       we get L.H.S. as
