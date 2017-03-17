@@ -401,676 +401,98 @@
     </d:listitem>
     <d:listitem>
       If
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mo>=</mo>
-        <mi>a</mi>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mi>b</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></math>
       and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <mo>=</mo>
-        <mi>c</mi>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mi>d</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><mi>c</mi><mo>+</mo><mi>i</mi><mi>d</mi></math>
       are complex numbers such that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>=</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>=</mo>
-        <mn>1</mn>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1</mn></math>
       and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>R</mi>
-        <mi>e</mi>
-        <mo stretchy="false">(</mo>
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mover>
-          <msub>
-            <mi>z</mi>
-            <mn>2</mn>
-          </msub>
-          <mo accent="false">&#x00AF;<!-- ¯ --></mo>
-        </mover>
-        <mo stretchy="false">)</mo>
-        <mo>=</mo>
-        <mn>0</mn>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mi>e</mi><mo stretchy="false">(</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>2</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></math>
       then show that the pair of complex numbers
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>&#x03C9;<!-- ω --></mi>
-          <mn>1</mn>
-        </msub>
-        <mo>=</mo>
-        <mi>a</mi>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mi>c</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>&#x03C9;<!-- ω --></mi><mn>1</mn></msub><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>c</mi></math>
       and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>&#x03C9;<!-- ω --></mi>
-          <mn>2</mn>
-        </msub>
-        <mo>=</mo>
-        <mi>b</mi>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mi>d</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>&#x03C9;<!-- ω --></mi><mn>2</mn></msub><mo>=</mo><mi>b</mi><mo>+</mo><mi>i</mi><mi>d</mi></math>
       satisfy
       <d:orderedlist>
         <d:listitem>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <msub>
-              <mi>&#x03C9;<!-- ω --></mi>
-              <mn>1</mn>
-            </msub>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mo>=</mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <msub>
-              <mi>&#x03C9;<!-- ω --></mi>
-              <mn>2</mn>
-            </msub>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mo>=</mo>
-            <mn>1</mn>
-          </math>
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>&#x03C9;<!-- ω --></mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>&#x03C9;<!-- ω --></mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1</mn></math>
         </d:listitem>
         <d:listitem>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <mi>R</mi>
-            <mi>e</mi>
-            <mo stretchy="false">(</mo>
-            <msub>
-              <mi>&#x03C9;<!-- ω --></mi>
-              <mn>1</mn>
-            </msub>
-            <mover>
-              <msub>
-                <mi>&#x03C9;<!-- ω --></mi>
-                <mn>2</mn>
-              </msub>
-              <mo accent="false">&#x00AF;<!-- ¯ --></mo>
-            </mover>
-            <mo stretchy="false">)</mo>
-            <mo>=</mo>
-            <mn>0</mn>
-          </math>
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mi>e</mi><mo stretchy="false">(</mo><msub><mi>&#x03C9;<!-- ω --></mi><mn>1</mn></msub><mover><msub><mi>&#x03C9;<!-- ω --></mi><mn>2</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></math>
         </d:listitem>
       </d:orderedlist>
     </d:listitem>
     <d:listitem>
       Prove that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow>
-          <mo>|</mo>
-          <mfrac>
-            <mrow>
-              <msub>
-                <mi>z</mi>
-                <mn>1</mn>
-              </msub>
-              <mo>&#x2212;<!-- − --></mo>
-              <msub>
-                <mi>z</mi>
-                <mn>2</mn>
-              </msub>
-            </mrow>
-            <mrow>
-              <mn>1</mn>
-              <mo>&#x2212;<!-- − --></mo>
-              <mover>
-                <mrow>
-                  <msub>
-                    <mi>z</mi>
-                    <mn>1</mn>
-                  </msub>
-                  <msub>
-                    <mi>z</mi>
-                    <mn>2</mn>
-                  </msub>
-                </mrow>
-                <mo accent="false">&#x00AF;<!-- ¯ --></mo>
-              </mover>
-            </mrow>
-          </mfrac>
-          <mo>|</mo>
-        </mrow>
-        <mo>&lt;</mo>
-        <mn>1</mn>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>|</mo><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub></mrow><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><mover><mrow><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mrow><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover></mrow></mfrac><mo>|</mo></mrow><mo>&lt;</mo><mn>1</mn></math>
       if
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>&lt;</mo>
-        <mn>1</mn>
-        <mo>,</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>&lt;</mo>
-        <mn>1</mn>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mn>1</mn><mo>,</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mn>1</mn></math>
     </d:listitem>
     <d:listitem>
       Let
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mo>=</mo>
-        <mn>10</mn>
-        <mo>+</mo>
-        <mn>6</mn>
-        <mi>i</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mn>10</mn><mo>+</mo><mn>6</mn><mi>i</mi></math>
       and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <mo>=</mo>
-        <mn>4</mn>
-        <mo>+</mo>
-        <mn>6</mn>
-        <mi>i</mi>
-        <mo>.</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><mn>4</mn><mo>+</mo><mn>6</mn><mi>i</mi><mo>.</mo></math>
       If
       <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
       is any complex number such that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mfrac>
-          <mrow>
-            <mi>z</mi>
-            <mo>&#x2212;<!-- − --></mo>
-            <msub>
-              <mi>z</mi>
-              <mn>1</mn>
-            </msub>
-          </mrow>
-          <mrow>
-            <mi>z</mi>
-            <mo>&#x2212;<!-- − --></mo>
-            <msub>
-              <mi>z</mi>
-              <mn>2</mn>
-            </msub>
-          </mrow>
-        </mfrac>
-        <mo>=</mo>
-        <mfrac>
-          <mi>&#x03C0;<!-- π --></mi>
-          <mn>4</mn>
-        </mfrac>
-        <mo>,</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>1</mn></msub></mrow><mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfrac><mo>=</mo><mfrac><mi>&#x03C0;<!-- π --></mi><mn>4</mn></mfrac><mo>,</mo></math>
       then prove that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>z</mi>
-        <mo>&#x2212;<!-- − --></mo>
-        <mn>7</mn>
-        <mo>&#x2212;<!-- − --></mo>
-        <mn>9</mn>
-        <mi>i</mi>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>=</mo>
-        <mn>3</mn>
-        <msqrt>
-          <mn>2</mn>
-        </msqrt>
-        <mo>.</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>7</mn><mo>&#x2212;<!-- − --></mo><mn>9</mn><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>3</mn><msqrt><mn>2</mn></msqrt><mo>.</mo></math>
     </d:listitem>
     <d:listitem>
       Find all complex numbers
       <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
       for which
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>a</mi>
-        <mi>r</mi>
-        <mi>g</mi>
-        <mrow>
-          <mo>(</mo>
-          <mfrac>
-            <mrow>
-              <mn>3</mn>
-              <mi>z</mi>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>6</mn>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>3</mn>
-              <mi>i</mi>
-            </mrow>
-            <mrow>
-              <mn>2</mn>
-              <mi>z</mi>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>8</mn>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>6</mn>
-              <mi>i</mi>
-            </mrow>
-          </mfrac>
-          <mo>)</mo>
-        </mrow>
-        <mo>=</mo>
-        <mfrac>
-          <mi>&#x03C0;<!-- π --></mi>
-          <mn>4</mn>
-        </mfrac>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>r</mi><mi>g</mi><mrow><mo>(</mo><mfrac><mrow><mn>3</mn><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>6</mn><mo>&#x2212;<!-- − --></mo><mn>3</mn><mi>i</mi></mrow><mrow><mn>2</mn><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>8</mn><mo>&#x2212;<!-- − --></mo><mn>6</mn><mi>i</mi></mrow></mfrac><mo>)</mo></mrow><mo>=</mo><mfrac><mi>&#x03C0;<!-- π --></mi><mn>4</mn></mfrac></math>
       and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>z</mi>
-        <mo>&#x2212;<!-- − --></mo>
-        <mn>3</mn>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mo>=</mo>
-        <mn>3</mn>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>3</mn><mo>+</mo><mi>i</mi><mo>=</mo><mn>3</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow>
       </math>
     </d:listitem>
     <d:listitem>
       If
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>z</mi>
-        <mo>&#x2264;<!-- ≤ --></mo>
-        <mn>1</mn>
-        <mo>,</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>w</mi>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>&#x2264;<!-- ≤ --></mo>
-        <mn>1</mn>
-        <mo>,</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>&#x2264;<!-- ≤ --></mo><mn>1</mn><mo>,</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>w</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2264;<!-- ≤ --></mo><mn>1</mn><mo>,</mo></math>
       show that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>z</mi>
-        <mo>&#x2212;<!-- − --></mo>
-        <mi>w</mi>
-        <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">|</mo>
-          </mrow>
-          <mn>2</mn>
-        </msup>
-        <mo>&#x2264;<!-- ≤ --></mo>
-        <mo stretchy="false">(</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>z</mi>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>&#x2212;<!-- − --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>w</mi>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msup>
-          <mo stretchy="false">)</mo>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <mo stretchy="false">(</mo>
-        <mi>A</mi>
-        <mi>r</mi>
-        <mi>g</mi>
-        <mo stretchy="false">(</mo>
-        <mi>z</mi>
-        <mo stretchy="false">)</mo>
-        <mo>&#x2212;<!-- − --></mo>
-        <mi>A</mi>
-        <mi>r</mi>
-        <mi>g</mi>
-        <mo stretchy="false">(</mo>
-        <mi>w</mi>
-        <mo stretchy="false">)</mo>
-        <msup>
-          <mo stretchy="false">)</mo>
-          <mn>2</mn>
-        </msup>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>w</mi><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>&#x2264;<!-- ≤ --></mo><mo stretchy="false">(</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2212;<!-- − --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>w</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><mi>A</mi><mi>r</mi><mi>g</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>&#x2212;<!-- − --></mo><mi>A</mi><mi>r</mi><mi>g</mi><mo stretchy="false">(</mo><mi>w</mi><mo stretchy="false">)</mo><msup><mo stretchy="false">)</mo><mn>2</mn></msup></math>
     </d:listitem>
     <d:listitem>
       If
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>z</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
       is any non-zero complex number, show that
       <d:orderedlist>
         <d:listitem>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <mrow>
-              <mo>|</mo>
-              <mrow>
-                <mfrac>
-                  <mi>z</mi>
-                  <mrow>
-                    <mrow class="MJX-TeXAtom-ORD">
-                      <mo stretchy="false">|</mo>
-                    </mrow>
-                    <mi>z</mi>
-                    <mrow class="MJX-TeXAtom-ORD">
-                      <mo stretchy="false">|</mo>
-                    </mrow>
-                  </mrow>
-                </mfrac>
-                <mo>&#x2212;<!-- − --></mo>
-                <mn>1</mn>
-              </mrow>
-              <mo>|</mo>
-            </mrow>
-            <mo>&#x2264;<!-- ≤ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mi>a</mi>
-            <mi>r</mi>
-            <mi>g</mi>
-            <mi>z</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-          </math>
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>|</mo><mrow><mfrac><mi>z</mi><mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></mrow></mfrac><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow><mo>|</mo></mrow><mo>&#x2264;<!-- ≤ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>a</mi><mi>r</mi><mi>g</mi><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
         </d:listitem>
         <d:listitem>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mi>z</mi>
-            <mo>&#x2212;<!-- − --></mo>
-            <mn>1</mn>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mo>&#x2264;<!-- ≤ --></mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mi>z</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mo>&#x2212;<!-- − --></mo>
-            <mn>1</mn>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mo>+</mo>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mi>z</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-            <mi>a</mi>
-            <mi>r</mi>
-            <mi>g</mi>
-            <mi>z</mi>
-            <mrow class="MJX-TeXAtom-ORD">
-              <mo stretchy="false">|</mo>
-            </mrow>
-          </math>
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2264;<!-- ≤ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>a</mi><mi>r</mi><mi>g</mi><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
         </d:listitem>
       </d:orderedlist>
     </d:listitem>
     <d:listitem>
       If
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow>
-          <mo>|</mo>
-          <mrow>
-            <mi>z</mi>
-            <mo>+</mo>
-            <mfrac>
-              <mn>1</mn>
-              <mi>z</mi>
-            </mfrac>
-          </mrow>
-          <mo>|</mo>
-        </mrow>
-        <mo>=</mo>
-        <mi>a</mi>
-        <mo>,</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>|</mo><mrow><mi>z</mi><mo>+</mo><mfrac><mn>1</mn><mi>z</mi></mfrac></mrow><mo>|</mo></mrow><mo>=</mo><mi>a</mi><mo>,</mo></math>
       where
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>z</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
       is a complex number and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>a</mi>
-        <mo>&gt;</mo>
-        <mn>0</mn>
-        <mo>,</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&gt;</mo><mn>0</mn><mo>,</mo></math>
       find the greatest and least value of
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mi>z</mi>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <mo>.</mo>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>.</mo></math>
     </d:listitem>
     <d:listitem>
       If
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mo>,</mo>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub></math>
       are complex numbers and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>c</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>
       is a positive number prove that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mo>+</mo>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">|</mo>
-          </mrow>
-          <mn>2</mn>
-        </msup>
-        <mo>&lt;</mo>
-        <mo stretchy="false">(</mo>
-        <mn>1</mn>
-        <mo>+</mo>
-        <mi>c</mi>
-        <mo stretchy="false">)</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">|</mo>
-          </mrow>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <mrow>
-          <mo>(</mo>
-          <mrow>
-            <mn>1</mn>
-            <mo>+</mo>
-            <mfrac>
-              <mn>1</mn>
-              <mi>c</mi>
-            </mfrac>
-          </mrow>
-          <mo>)</mo>
-        </mrow>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mo stretchy="false">|</mo>
-        </mrow>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-        <msup>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">|</mo>
-          </mrow>
-          <mn>2</mn>
-        </msup>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>&lt;</mo><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><mi>c</mi><mo stretchy="false">)</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mi>c</mi></mfrac></mrow><mo>)</mo></mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup></math>
     </d:listitem>
     <d:listitem>
       Let
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msub>
-          <mi>z</mi>
-          <mn>1</mn>
-        </msub>
-        <mo>,</mo>
-        <msub>
-          <mi>z</mi>
-          <mn>2</mn>
-        </msub>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub></math>
       be any two complex numbers and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>a</mi>
-        <mo>,</mo>
-        <mi>b</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi></math>
       be two real numbers such that
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msup>
-          <mi>a</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <msup>
-          <mi>b</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>&#x2260;<!-- ≠ --></mo>
-        <mn>0.</mn>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>&#x2260;<!-- ≠ --></mo><mn>0.</mn></math>
       Prove that
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2264;<!-- ≤ --></mo><mn>2</mn><mfrac><mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>a</mi><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><mi>b</mi><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup></mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac><mo>&#x2264;<!-- ≤ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
     </d:listitem>
@@ -1084,10 +506,7 @@
       where
       <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></math>
       are real numbers and
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <mi>z</mi>
-      </math>
-      is a complex number.
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>is a complex number.
     </d:listitem>
     <d:listitem>
       If
