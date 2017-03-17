@@ -620,5 +620,135 @@
       <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">&#x25B3;<!-- △ --></mi><mi>D</mi><mi>O</mi><mi>E</mi></math>
       are similar.
     </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>0</mn></msub></math>
+      are two complex numbers and the numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>,</mo><msub><mi>z</mi><mn>0</mn></msub><mo>,</mo><mi>z</mi><mover><msub><mi>z</mi><mn>0</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo>,</mo><mn>1</mn></math>
+      are represented by points
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mo>,</mo><msub><mi>P</mi><mn>0</mn></msub><mo>,</mo><mi>Q</mi><mo>,</mo><mi>A</mi></math>
+      respectively. If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1</mn><mo>,</mo></math>
+      show that the triangles
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>O</mi><msub><mi>P</mi><mn>0</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>O</mi><mi>Q</mi></math>
+      are congruent or
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>0</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mover><msub><mi>z</mi><mn>0</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>O</mi></math>
+      represents origin.
+    </d:listitem>
+    <d:listitem>
+      If the line segment joining
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      is divided by
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi></math>
+      in the ratio
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>:</mo><mi>b</mi></math>
+      internally and externally then find
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi><msup><mi>P</mi><mn>2</mn></msup><mo>+</mo><mi>O</mi><msup><mi>Q</mi><mn>2</mn></msup></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi></math>
+      is the origin.
+    </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      be three complex numbers and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></math>
+      be real numbers not all zero such that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><mi>b</mi><msub><mi>z</mi><mn>2</mn></msub><mo>+</mo><mi>c</mi><msub><mi>z</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn><mo>,</mo></math>
+      then show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      are collinear.
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>z</mi><mi>n</mi></msub><mo>=</mo><mn>0</mn><mo>,</mo></math>
+      prove that if a line passes through origin then all these do not lie on
+      the same side of line provided the points do not lie on the line.
+    </d:listitem>
+    <d:listitem>
+      Suppose the points
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo
+          stretchy="false">(</mo><msub><mi>z</mi><mi>i</mi></msub><mo>&#x2260;<!-- ≠ --></mo><mn>0</mn><mo stretchy="false">)</mo></math>
+      all lie on one side of a line drawn through origin of the complex
+      plane. Prove that the same if true of the points
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><msub><mi>z</mi><mn>1</mn></msub></mfrac><mo>,</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>2</mn></msub></mfrac><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mfrac><mn>1</mn><msub><mi>z</mi><mi>n</mi></msub></mfrac><mo>.</mo></math>
+      Moreover, show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>z</mi><mi>n</mi></msub><mo>&#x2260;<!-- ≠ --></mo><mn>0</mn><mtext>&#xA0;and&#xA0;</mtext><mfrac><mn>1</mn><msub><mi>z</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>2</mn></msub></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>2</mn></msub></mfrac><mo>&#x2260;<!-- ≠ --></mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      The points
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn><mo>+</mo><mn>12</mn><mi>i</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><mn>6</mn><mo>&#x2212;<!-- − --></mo><mn>8</mn><mi>i</mi></math>
+      are given on a complex plane. Find the equation of the bisector of the
+      angle formed by the vector representing
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+    </d:listitem>
+    <d:listitem>
+      If the vertices of a triangle
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      are
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub><mo>,</mo></math>
+      then show that the orthocenter of the
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi
+                                                           mathvariant="normal">&#x25B3;<!-- △ --></mi><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      is
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>a</mi><mi>sec</mi><mi>A</mi><msub><mi>z</mi><mn>2</mn></msub><mo>+</mo><mi>b</mi><mi>sec</mi><mi>B</mi><msub><mi>z</mi><mn>2</mn></msub><mo>+</mo><mi>c</mi><mi>sec</mi><mi>C</mi><msub><mi>z</mi><mn>3</mn></msub></mrow><mrow><mi>a</mi><mi>sec</mi><mi>A</mi><mo>+</mo><mi>b</mi><mi>sec</mi><mi>B</mi><mo>+</mo><mi>c</mi><mi>sec</mi><mi>C</mi></mrow></mfrac></math>
+      or
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mi>tan</mi><mi>A</mi><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><mi>tan</mi><mi>B</mi><mo>+</mo><msub><mi>z</mi><mn>3</mn></msub><mi>tan</mi><mi>C</mi></mrow><mrow><mi>tan</mi><mi>A</mi><mo>+</mo><mi>tan</mi><mi>B</mi><mo>+</mo><mi>tan</mi><mi>C</mi></mrow></mfrac></math>
+      or
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mfrac><mrow><mo>&#x2211;</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>(</mo><mover><msub><mi>z</mi><mn>2</mn></msub><mo accent="false">&#xAF;</mo></mover><mo>&#x2212;</mo><mover><msub><mi>z</mi><mn>3</mn></msub><mo accent="false">&#xAF;</mo></mover><mo>)</mo><mo>+</mo><mo>&#x2211;</mo><mrow class="MJX-TeXAtom-ORD"><mo>|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo>|</mo></mrow><mn>2</mn></msup><mo>(</mo><mi>z</mi><mn>2</mn><mo>&#x2212;</mo><msub><mi>z</mi><mn>3</mn></msub><mo>)</mo></mrow><mrow><mo>&#x2211;</mo><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>2</mn></msub><mo accent="false">&#xAF;</mo></mover><mo>&#x2212;</mo><msub><mi>z</mi><mn>2</mn></msub><mover><msub><mi>z</mi><mn>1</mn></msub><mo accent="false">&#xAF;</mo></mover><mo>)</mo></mrow></mfrac></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      is the orthocenter and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></math>
+      are sides.
+    </d:listitem>
+    <d:listitem>
+      If the vertices of a triangle
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      are
+      <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub><mo>,</mo></math>
+      then show that the circumcenter of the
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi
+                                                           mathvariant="normal">&#x25B3;<!-- △ --></mi><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      is
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>A</mi><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>B</mi><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>C</mi></mrow><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>A</mi><mo>+</mo><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>B</mi><mo>+</mo><mi>s</mi><mi>i</mi><mi>n</mi><mn>2</mn><mi>C</mi></mrow></mfrac><mtext>&#xA0;or&#xA0;</mtext><mi>z</mi><mo>=</mo><mfrac><mrow><mo>&#x2211;<!-- ∑ --></mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>1</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>3</mn></msub></mrow><mrow><mo>&#x2211;<!-- ∑ --></mo><mover><msub><mi>z</mi><mn>1</mn></msub><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo stretchy="false">(</mo><msub><mi>z</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>3</mn></msub><mo stretchy="false">)</mo></mrow></mfrac></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      is the circumcenter.
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>B</mi><mi>C</mi><mi>D</mi></math>
+      is a rhombus described in clockwise direction, vertices are given by
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub><mo>,</mo><msub><mi>z</mi><mn>4</mn></msub></math>
+      respectively and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">&#x2220;<!-- ∠ --></mi><mi>C</mi><mi>B</mi><mi>A</mi><mo>=</mo><mn>2</mn><mi>&#x03C0;<!-- π --></mi><mrow class="MJX-TeXAtom-ORD"><mo>/</mo></mrow><mn>3.</mn></math>
+      Show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msqrt><mn>3</mn></msqrt><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msqrt><mn>3</mn></msqrt><msub><mi>z</mi><mn>4</mn></msub><mo>=</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>3</mn></msub><mo>+</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>1</mn></msub></math>
+    </d:listitem>
   </d:orderedlist>
 </d:chapter>
