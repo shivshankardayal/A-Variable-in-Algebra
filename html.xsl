@@ -24,7 +24,7 @@
   <!-- The location of the highlighting configuration -->
   <!--<xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/highlighting/common.xsl" />
       <xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/html/highlight.xsl" />-->
-  
+
   <xsl:template name="user.head.content">
     <xsl:copy-of select="document('analytics.js', /)"/>
     <!--xsl:copy-of select="document('mathjax_config.js', /)"/-->
@@ -206,7 +206,7 @@
 
   <xsl:variable name="row1" select="$navig.showtitles != 0"/>
   <xsl:variable name="row2" select="count($prev) &gt; 0
-                                    or (count($up) &gt; 0 
+                                    or (count($up) &gt; 0
                                         and generate-id($up) != generate-id($home)
                                         and $navig.showtitles != 0)
                                     or count($next) &gt; 0"/>
@@ -289,4 +289,3 @@
  set       toc
 </xsl:param>
 </xsl:stylesheet>
-
