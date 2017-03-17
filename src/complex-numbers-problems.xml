@@ -1847,5 +1847,235 @@
       prove that the triangle formed by origin and these two points is
       equilateral.
     </d:listitem>
+    <d:listitem>
+      Prove that the area of triangle formed by three complex numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>z</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>z</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>z</mi>
+          <mn>3</mn>
+        </msub>
+      </math>
+      is
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <mo>&#x2211;<!-- ∑ --></mo>
+            <mfrac>
+              <mrow>
+                <mo stretchy="false">(</mo>
+                <msub>
+                  <mi>z</mi>
+                  <mn>2</mn>
+                </msub>
+                <mo>&#x2212;<!-- − --></mo>
+                <msub>
+                  <mi>z</mi>
+                  <mn>3</mn>
+                </msub>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">|</mo>
+                </mrow>
+                <msub>
+                  <mi>z</mi>
+                  <mn>1</mn>
+                </msub>
+                <msup>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo stretchy="false">|</mo>
+                  </mrow>
+                  <mn>2</mn>
+                </msup>
+              </mrow>
+              <mrow>
+                <mn>4</mn>
+                <mi>i</mi>
+                <msub>
+                  <mi>z</mi>
+                  <mn>1</mn>
+                </msub>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+      </math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>n</mi>
+        <mo>&gt;</mo>
+        <mn>1</mn>
+      </math>
+      then show that the roots of the equation
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msup>
+          <mi>z</mi>
+          <mi>n</mi>
+        </msup>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mi>n</mi>
+        </msup>
+      </math>
+      are collinear.
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>A</mi>
+        <mo>,</mo>
+        <mi>B</mi>
+        <mo>,</mo>
+        <mi>C</mi>
+        <mo>,</mo>
+      </math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>D</mi>
+      </math>
+      are four complex number then show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>A</mi>
+        <mi>D</mi>
+        <mo>.</mo>
+        <mi>B</mi>
+        <mi>C</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>B</mi>
+        <mi>D</mi>
+        <mo>.</mo>
+        <mi>C</mi>
+        <mi>A</mi>
+        <mo>+</mo>
+        <mi>C</mi>
+        <mi>D</mi>
+        <mo>.</mo>
+        <mi>A</mi>
+        <mi>B</mi>
+      </math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>R</mi>
+      </math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mtext>&#xA0;and&#xA0;</mtext>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mn>0</mn>
+      </math>
+      then show that the equation of line joining
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>a</mi>
+      </math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>bi</mi>
+      </math>
+      is
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mo>&#x2212;<!--−--></mo><mfrac><mi>i</mi><mrow><mn>2</mn><mi>b</mi></mrow></mfrac></mrow><mo>)</mo></mrow><mi>z</mi><mo>+</mo><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mo>+</mo><mfrac><mi>i</mi><mrow><mn>2</mn><mi>b</mi></mrow></mfrac></mrow><mo>)</mo></mrow><mover><mi>z</mi><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo>=</mo><mn>1.</mn></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      are two complex number such that
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>z</mi>
+          <mn>1</mn>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>z</mi>
+          <mn>2</mn>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>z</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>z</mi>
+          <mn>2</mn>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </math>
+      then show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>a</mi>
+        <mi>r</mi>
+        <mi>g</mi>
+        <mtext>&#xA0;</mtext>
+        <msub>
+          <mi>z</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>a</mi>
+        <mi>r</mi>
+        <mi>g</mi>
+        <mtext>&#xA0;</mtext>
+        <msub>
+          <mi>z</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>=</mo>
+        <mn>2</mn>
+        <mi>n</mi>
+        <mi>&#x03C0;<!-- π --></mi>
+      </math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>n</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>I</mi>
+      </math>
+    </d:listitem>
   </d:orderedlist>
 </d:chapter>

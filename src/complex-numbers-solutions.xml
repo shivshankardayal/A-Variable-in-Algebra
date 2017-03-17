@@ -7,8 +7,40 @@
   <d:title>Complex Numbers Solutions</d:title>
   <d:orderedlist>
     <d:listitem>
-      Let <math
-      xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi></msqrt><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo>&#x2234;</mo><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>i</mi><mi>a</mi><mi>b</mi></math>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msqrt>
+          <mn>7</mn>
+          <mo>+</mo>
+          <mn>8</mn>
+          <mi>i</mi>
+        </msqrt>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>+</mo>
+        <mi>i</mi>
+        <mi>b</mi>
+        <mo>&#x2234;<!-- ∴ --></mo>
+        <mn>7</mn>
+        <mo>+</mo>
+        <mn>8</mn>
+        <mi>i</mi>
+        <mo>=</mo>
+        <msup>
+          <mi>a</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>b</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <mn>2</mn>
+        <mi>i</mi>
+        <mi>a</mi>
+        <mi>b</mi>
+      </math>
       <d:para>
         Comparing real and imaginary parts we have,
       </d:para>
