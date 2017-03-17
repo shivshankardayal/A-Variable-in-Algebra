@@ -33,7 +33,7 @@
   </xsl:template>
   <xsl:template name="user.footer.navigation">
     <br/>
-    <p style="text-align: center;">&#xa9; 2010, 2016 Shiv S. Dayal. <a href="http://10hash.com">10hash.com</a>.
+    <p style="text-align: center;">&#xa9; 2010-2017 Shiv S. Dayal. <a href="http://10hash.com">10hash.com</a>.
     GNU FDL license v1.3 or later is applicable where not stated.</p>
   </xsl:template>
 
