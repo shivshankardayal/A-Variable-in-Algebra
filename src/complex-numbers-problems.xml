@@ -750,5 +750,168 @@
       and
       <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msqrt><mn>3</mn></msqrt><msub><mi>z</mi><mn>4</mn></msub><mo>=</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>3</mn></msub><mo>+</mo><mo stretchy="false">(</mo><msqrt><mn>3</mn></msqrt><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo><msub><mi>z</mi><mn>1</mn></msub></math>
     </d:listitem>
+    <d:listitem>
+      The points
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>,</mo><mi>B</mi><mo>,</mo><mi>C</mi></math>
+      represent the complex numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      respectively and the angles of the triangle
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      at
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi></math>
+      are both
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mi>&#x03C0;<!-- π --></mi><mo>&#x2212;<!-- − --></mo><mi>&#x03B1;<!-- α --></mi><mo stretchy="false">)</mo></math>
+      then prove that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><msub><mi>z</mi><mn>3</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mn>4</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><msub><mi>z</mi><mn>3</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>1</mn></msub><mo stretchy="false">)</mo><mo stretchy="false">(</mo><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mrow><mo>(</mo><mfrac><mi>&#x03B1;<!-- α --></mi><mn>2</mn></mfrac><mo>)</mo></mrow></math>
+    </d:listitem>
+    <d:listitem>
+      Points
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      are adjacent points of a regular polygon with
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
+      sides. If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>3</mn></msub></math>
+      is adjacent vertex to
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>&#x2260;<!-- ≠ --></mo><msub><mi>z</mi><mn>1</mn></msub></math>
+      then find
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>3</mn></msub><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>3</mn></msub></math>
+      are sides of an equilateral triangle and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>0</mn></msub></math>
+      is the centroid then prove that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>3</mn><mn>2</mn></msubsup><mo>=</mo><mn>3</mn><msubsup><mi>z</mi><mn>0</mn><mn>2</mn></msubsup><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>A</mi><mn>1</mn></msub><mo>,</mo><msub><mi>A</mi><mn>2</mn></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><msub><mi>A</mi><mi>n</mi></msub></math>
+      are vertices of an
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
+      sided polygon such that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>3</mn></msub></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>A</mi><mn>2</mn></msub><msub><mi>A</mi><mn>4</mn></msub></mrow></mfrac><mo>,</mo></math>
+      find the value of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>A</mi><mn>1</mn></msub><mo>,</mo><msub><mi>A</mi><mn>2</mn></msub><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><msub><mi>A</mi><mi>n</mi></msub></math>
+      be the vertices of a regular polygon of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
+      sides in a circle of radius unity. Find the values of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>3</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mi>n</mi></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mn>3</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>.</mo><mo>.</mo><mo>.</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>A</mi><mn>1</mn></msub><msub><mi>A</mi><mi>n</mi></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>2</mn></math>
+      then show that points representing the complex numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mn>1</mn><mo>+</mo><mn>5</mn><mi>z</mi></math>
+      lie on a circle.
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>-</mo><mn>6</mn><mo>-</mo><mn>8</mn><mi>i</mi><mo>&#x2264;<!-- ≤ --></mo><mn>4</mn></math>
+      then find the greatest and least value of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>25</mn><mi>i</mi><mo>&#x2264;<!-- ≤ --></mo><mn>15</mn></math>
+      then find the least positive value of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>r</mi><mi>g</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Show that the equation
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mi>k</mi><mo>,</mo></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>&#x2208;<!-- ∈ --></mo><mi>R</mi></math>
+      will represent a circle if
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mo>&#x2265;<!-- ≥ --></mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1</mn><mo>,</mo></math>
+      prove that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn></mrow><mi>z</mi></mfrac><mo>=</mo><mi>i</mi><mi>t</mi><mi>a</mi><mi>n</mi><mo stretchy="false">(</mo><mi>a</mi><mi>r</mi><mi>g</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo stretchy="false">)</mo><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Find the locus of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      if
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>r</mi><mi>g</mi><mrow><mo>(</mo><mfrac><mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow><mrow><mi>z</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>)</mo></mrow><mo>=</mo><mfrac><mi>&#x03C0;<!-- π --></mi><mn>4</mn></mfrac><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x03B1;<!-- α --></mi></math>
+      is real and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      is a complex number and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>u</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math>
+      are real and imaginary parts of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B1;<!-- α --></mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B1;<!-- α --></mi><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><msup><mo stretchy="false">)</mo><mrow class="MJX-TeXAtom-ORD"><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow></msup><mo stretchy="false">(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B1;<!-- α --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B1;<!-- α --></mi><mo stretchy="false">)</mo><mo>.</mo></math>
+      Prove that the locus of the points representing the complex numbers such
+      that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mo>=</mo><mn>0</mn></math>
+      is a circle of unit radius with center at point (1,0) and a straight line
+      through the center of the circle.
+    </d:listitem>
+    <d:listitem>
+      If
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>a</mi><mi>n</mi></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mn>2</mn></math>
+      for
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mi>z</mi><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>a</mi><mi>n</mi></msub><msup><mi>z</mi><mi>n</mi></msup><mo>=</mo><mn>0</mn></math>
+      show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      does not lies in the interior of the circle
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Show that the roots of the equation
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>z</mi><mi>n</mi></msup><mi>c</mi><mi>o</mi><mi>s</mi><msub><mi>&#x03B8;<!-- θ --></mi><mn>0</mn></msub><mo>+</mo><msup><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mi>n</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow></msup><mi>c</mi><mi>o</mi><mi>s</mi><msub><mi>&#x03B8;<!-- θ --></mi><mn>1</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><msub><mi>&#x03B8;<!-- θ --></mi><mi>n</mi></msub><mo>=</mo><mn>2</mn></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>&#x03B8;<!-- θ --></mi><mn>0</mn></msub><mo>+</mo><msub><mi>&#x03B8;<!-- θ --></mi><mn>1</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><msub><mi>&#x03B8;<!-- θ --></mi><mi>n</mi></msub><mo>&#x2208;<!-- ∈ --></mo><mi>R</mi></math>
+      lies outside the circle
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      are non-zero, non-collinear complex numbers such that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>2</mn><msub><mi>z</mi><mn>1</mn></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>3</mn></msub></mfrac></math>
+      show that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      lie on a circle passing through the origin.
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>,</mo><mi>B</mi><mo>,</mo><mi>C</mi></math>
+      are the points representing the complex numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>3</mn></msub></math>
+      respectively on the complex plane and the circumcenter of the triangle
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mi>B</mi><mi>C</mi></math>
+      lies on the origin. If the altitude of the triangle through the vertex
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math>
+      meets the circle again at
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>,</mi></math>
+      prove that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>,</mi></math>
+      represents the complex number
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msub><mi>z</mi><mn>2</mn></msub><msub><mi>z</mi><mn>3</mn></msub></mrow><msub><mi>z</mi><mn>1</mn></msub></mfrac><mo>.</mo></math>
+    </d:listitem>
   </d:orderedlist>
 </d:chapter>
