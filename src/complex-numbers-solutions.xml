@@ -8,39 +8,7 @@
   <d:orderedlist>
     <d:listitem>
       Let
-      <math xmlns="http://www.w3.org/1998/Math/MathML">
-        <msqrt>
-          <mn>7</mn>
-          <mo>+</mo>
-          <mn>8</mn>
-          <mi>i</mi>
-        </msqrt>
-        <mo>=</mo>
-        <mi>a</mi>
-        <mo>+</mo>
-        <mi>i</mi>
-        <mi>b</mi>
-        <mo>&#x2234;<!-- ∴ --></mo>
-        <mn>7</mn>
-        <mo>+</mo>
-        <mn>8</mn>
-        <mi>i</mi>
-        <mo>=</mo>
-        <msup>
-          <mi>a</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>&#x2212;<!-- − --></mo>
-        <msup>
-          <mi>b</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>+</mo>
-        <mn>2</mn>
-        <mi>i</mi>
-        <mi>a</mi>
-        <mi>b</mi>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi></msqrt><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo>&#x2234;<!-- ∴ --></mo><mn>7</mn><mo>+</mo><mn>8</mn><mi>i</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>i</mi><mi>a</mi><mi>b</mi></math>
       <d:para>
         Comparing real and imaginary parts we have,
       </d:para>
@@ -59,10 +27,7 @@
         <d:sbr></d:sbr>
         Now we can rewrite this as
         <math
-            xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mo>&#xB1;</mo><msqrt><mn>113</mn></msqrt><mo>&#x21D2;</mo><mi>a</mi><mo>=</mo><mo>&#xB1;</mo><msqrt><mfrac><mrow><mn
-            >7</mn><mo>&#xB1;</mo><msqrt><mn
-            >113</mn></msqrt></mrow><mn
-            >2</mn></mfrac></msqrt></math>
+            xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mo>&#xB1;</mo><msqrt><mn>113</mn></msqrt><mo>&#x21D2;</mo><mi>a</mi><mo>=</mo><mo>&#xB1;</mo><msqrt><mfrac><mrow><mn>7</mn><mo>&#xB1;</mo><msqrt><mn>113</mn></msqrt></mrow><mn>2</mn></mfrac></msqrt></math>
       </d:para>
       <d:para>
         Problem no. 2, 3, 4, and 5 can be solved similarly.
@@ -77,23 +42,10 @@
       </math>
       <d:sbr></d:sbr>
       On simplification <math
-      xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><msup><mfenced><mrow><mfrac><mi
-      >x</mi><mi
-      >y</mi></mfrac><mo>+</mo><mfrac><mi
-      >y</mi><mi
-      >x</mi></mfrac><mo>-</mo><mfrac><mi
-      >i</mi><mn
-      >4</mn></mfrac></mrow></mfenced><mn
-      >2</mn></msup></math>
+      xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><msup><mfenced><mrow><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>+</mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>-</mo><mfrac><mi>i</mi><mn>4</mn></mfrac></mrow></mfenced><mn>2</mn></msup></math>
       <d:para>
         Therefore, square root is <math
-        xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#xB1;</mo><mfenced><mrow><mfrac><mi
-        >x</mi><mi
-        >y</mi></mfrac><mo>+</mo><mfrac><mi
-        >y</mi><mi
-        >x</mi></mfrac><mo>-</mo><mfrac><mi
-        >i</mi><mn
-        >4</mn></mfrac></mrow></mfenced></math>
+        xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#xB1;</mo><mfenced><mrow><mfrac><mi>x</mi><mi>y</mi></mfrac><mo>+</mo><mfrac><mi>y</mi><mi>x</mi></mfrac><mo>-</mo><mfrac><mi>i</mi><mn>4</mn></mfrac></mrow></mfenced></math>
       </d:para>
       <d:para>
         Problem no. 7, 8, 9 and 10 can be solved similarly.
@@ -258,6 +210,364 @@
       <d:sbr></d:sbr>
       Now we know that from given equality real part of previous expression is
       zero therefore it is purely imaginary.
+    </d:listitem>
+    <d:listitem>
+      Given
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mn>1</mn></math>
+      we have following
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>+</mo><mn>12</mn><mo>&#x2212;<!-- − --></mo><mn>6</mn><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo stretchy="false">(</mo><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>12</mn><mo>&#x2212;<!-- − --></mo><mn>5</mn><mi>i</mi><mo stretchy="false">)</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&#x2264;<!-- ≤ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>12</mn><mo>&#x2212;<!-- − --></mo><mn>5</mn><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>+</mo><mn>12</mn><mo>&#x2212;<!-- − --></mo><mn>6</mn><mi>i</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mn>1</mn><mo>+</mo><mn>13</mn><mo>=</mo><mn>14</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>+</mo><mn>6</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn><mi>z</mi><mo>+</mo><mn>3</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>36</mn><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>27</mn></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>3</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      Given,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mi>a</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>b</mi></msqrt><mo>=</mo><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>y</mi><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>a</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>b</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mi>i</mi><mn>2</mn><mi>x</mi><mi>y</mi><mo>.</mo></math>
+      Equating real and imaginary parts we have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup><mtext>and</mtext><mi>b</mi><mo>=</mo><mn>2</mn><mi>x</mi><mi>y</mi></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;<!-- ∴ --></mo><msqrt><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></msqrt><mo>=</mo><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>i</mi><mn>2</mn><mi>x</mi><mi>y</mi></msqrt><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi></math>
+    </d:listitem>
+    <d:listitem>
+      We will solve this problem by method of negation. Let us say there is a
+      complex number
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi></math>
+      which is root of this equation. Therefore, this root will satisfy this
+      equation. Hence,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><msup><mi>A</mi><mn>2</mn></msup><mrow><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi></mrow></mfrac><mo>+</mo><mfrac><msup><mi>B</mi><mn>2</mn></msup><mrow><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi></mrow></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><msup><mi>H</mi><mn>2</mn></msup><mrow><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi><mo>&#x2212;<!-- − --></mo><mi>h</mi></mrow></mfrac><mo>=</mo><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi><mo>+</mo><mi>l</mi></math>
+      Multiplying and dividing each term with conjugate of denominator we get
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mrow><msup><mi>A</mi><mn>2</mn></msup><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>z</mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>B</mi><mn>2</mn></msup><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>z</mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>C</mi><mn>2</mn></msup><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>z</mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><mrow><msup><mi>H</mi><mn>2</mn></msup><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>h</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>z</mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>h</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mi>y</mi><mo>+</mo><mi>i</mi><mi>z</mi><mo>+</mo><mi>l</mi></math>
+      Considering imaginary parts only, we have
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>z</mi><mrow><mo>[</mo><mrow><mfrac><msup><mi>A</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><msup><mi>B</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><msup><mi>C</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><msup><mi>H</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>h</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac></mrow><mo>]</mo></mrow><mo>=</mo><mi>i</mi><mi>z</mi></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>i</mi><mi>z</mi><mrow><mo>[</mo><mrow><mn>1</mn><mo>+</mo><mfrac><msup><mi>A</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>a</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><msup><mi>B</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><msup><mi>C</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>c</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>+</mo><mfrac><msup><mi>H</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mi>y</mi><mo>&#x2212;<!-- − --></mo><mi>h</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac></mrow><mo>]</mo></mrow><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      since the expression has one within bracket it is greater than 1.
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;<!-- ∴ --></mo><mi>i</mi><mi>z</mi><mo>=</mo><mn>0</mn><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>z</mi><mo>=</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      Since our complex number is unimodular
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1</mn><mo>.</mo></math>
+      Let,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi></math>
+      Equating it to given equivalent ratio we have
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mfrac><mrow><mi>c</mi><mo>+</mo><mi>i</mi></mrow><mrow><mi>c</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>c</mi><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mi>c</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>c</mi><mo>+</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mfrac><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo>+</mo><mn>2</mn><mi>c</mi><mi>i</mi></mrow><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      Equating real and imaginary parts,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mfrac><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mi>c</mi><mi>o</mi><msup><mi>t</mi><mn>2</mn></msup><mfrac><mi>&#x03B8;<!-- θ --></mi><mn>2</mn></mfrac><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>c</mi><mo>=</mo><mo>&#x00B1;<!-- ± --></mo><mi>c</mi><mi>o</mi><mi>t</mi><mfrac><mi>&#x03B8;<!-- θ --></mi><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mtext>And </mtext><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>c</mi></mrow><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>c</mi><mo>=</mo><mi>c</mi><mi>o</mi><mi>t</mi><mfrac><mi>&#x03B8;<!-- θ --></mi><mn>2</mn></mfrac><mo>,</mo><mi>t</mi><mi>a</mi><mi>n</mi><mfrac><mrow><mi>t</mi><mi>h</mi><mi>e</mi><mi>t</mi><mi>a</mi></mrow><mn>2</mn></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      From these two common values of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math>
+      is
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>cot</mi><mfrac><mi>&#x3B8;</mi><mn>2</mn></mfrac></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x03B8;<!-- θ --></mi><mo>&#x2260;<!-- ≠ --></mo><mn>2</mn><mi>n</mi><mi>&#x03C0;<!-- π --></mi></math>
+      [<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2235;<!-- ∵ --></mo><mi>z</mi></math>
+      is purely real.]
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;<!-- ∴ --></mo><mi>z</mi><mo>=</mo><mfrac><mrow><mi>c</mi><mo>+</mo><mi>i</mi></mrow><mrow><mi>c</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi></mrow></mfrac></math>
+    </d:listitem>
+    <d:listitem>
+      Let us name the given number as
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>.</mo></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>z</mi><mo>=</mo><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>t</mi><mi>a</mi><mi>n</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>z</mi><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>t</mi><mi>a</mi><mi>n</mi><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      Since
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi></math>
+      is real
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>I</mi><mi>m</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></math>
+      hence equating imaginary part of above to zero we get following since
+      denominator is real:
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mo>&#x2212;<!-- − --></mo><mi>t</mi><mi>a</mi><mi>n</mi><mi>x</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mfrac><mrow><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>x</mi><mo>=</mo><mn>2</mn><mi>n</mi><mi>&#x03C0;<!-- π --></mi><mtext>where</mtext><mi>n</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mtd></mtr><mtr><mtd><mtext>or</mtext><mrow><mo>(</mo><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>x</mi><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>2</mn><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>3</mn></msup><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>3</mn></msup><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>t</mi><mi>a</mi><msup><mi>n</mi><mn>3</mn></msup><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mi>t</mi><mi>a</mi><mi>n</mi><mfrac><mi>x</mi><mn>2</mn></mfrac><mo>&#x2212;<!-- − --></mo><mn>2</mn><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x03B1;<!-- α --></mi></math>
+      be a root which satisfies this equation. Hence,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mn>2</mn><mi>n</mi><mi>&#x03C0;<!-- π --></mi><mo>+</mo><mi>&#x03B1;<!-- α --></mi><mo>,</mo><mi>n</mi><mo>&#x2208;<!-- ∈ --></mo><mi>I</mi></math>
+    </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>2</mn><mi>i</mi></math>
+      then
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>z</mi><mo accent="false">&#x00AF;<!-- ¯ --></mo></mover><mo>=</mo><msqrt><mn>3</mn></msqrt><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>i</mi><mo>,</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><msqrt><mn>3</mn><mo>+</mo><mn>4</mn></msqrt><mo>=</mo><msqrt><mn>7</mn></msqrt></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>r</mi><mi>g</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mi>t</mi><mi>a</mi><msup><mi>n</mi><mrow class="MJX-TeXAtom-ORD"><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow></msup><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      Given complex number is
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>z</mi><mo>=</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mrow><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>y</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo stretchy="false">)</mo></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>a</mi><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>y</mi><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><mi>a</mi><mi>y</mi><mo>+</mo><mi>b</mi><mi>x</mi><mo stretchy="false">)</mo></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>r</mi><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>a</mi><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>y</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><mi>a</mi><mi>y</mi><mo>+</mo><mi>b</mi><mi>x</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mrow><mo stretchy="false">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>a</mi><mi>r</mi><mi>g</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mi>t</mi><mi>a</mi><msup><mi>n</mi><mrow class="MJX-TeXAtom-ORD"><mo>&#x2212;<!-- − --></mo><mn>1</mn></mrow></msup><mfrac><mrow><mi>a</mi><mi>x</mi><mo>&#x2212;<!-- − --></mo><mi>b</mi><mi>y</mi></mrow><mrow><mi>a</mi><mi>y</mi><mo>+</mo><mi>b</mi><mi>x</mi></mrow></mfrac></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>2</mn></msub><mo>.</mo></math>
+      Given,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>x</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>2</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">(</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>1</mn><mn>2</mn></msubsup><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>2</mn><mn>2</mn></msubsup><mo stretchy="false">)</mo></mrow><mo>=</mo><mn>2</mn><mo stretchy="false">(</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>+</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo stretchy="false">)</mo><mo>.</mo></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      Given,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><msup><mo>)</mo><mn>2</mn></msup></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msubsup><mi>y</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msub><mi>y</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>R</mi><mi>e</mi><mo>(</mo><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub><mo>)</mo><mo>(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><mi>i</mi><msub><mi>y</mi><mn>2</mn></msub><mo>)</mo><mo>)</mo></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>R</mi><mi>e</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#xAF;</mo></mover><mo>)</mo></math>
+      Also,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><msup><mo>)</mo><mn>2</mn></msup></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>R</mi><mi>e</mi><mo>(</mo><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover><msub><mi>z</mi><mn>2</mn></msub><mo>)</mo></math>
+    </d:listitem>
+    <d:listitem>
+      R. H. S. =
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|" close="|"><mrow><mfrac><mn>1</mn><msub><mi>z</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>z</mi><mn>2</mn></msub></mfrac></mrow></mfenced></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="|" close="|"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub></mrow><mrow><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mrow></mfrac></mfenced></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2235;</mo><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>|</mo><mo>=</mo><mn>1</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2235;</mo><mo>|</mo><msub><mi>z</mi><mn>2</mn></msub><mo>|</mo><mo>=</mo><mn>1</mn></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;</mo><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub><mo>|</mo><mo>=</mo><mn>1</mn></math>
+      Now it is trivial to prove it.
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>2</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>x</mi><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>R</mi><mi>e</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>.</mo></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mroot><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mn>3</mn></mroot><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>&#x2212;<!-- − --></mo><mn>3</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>3</mn></msup><mo stretchy="false">)</mo></math>
+      Equating real and imaginary parts
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>a</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>&#x2212;<!-- − --></mo><mn>3</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mtext>and&#xA0;</mtext><mi>b</mi><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>3</mn></msup></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mfrac><mi>a</mi><mi>x</mi></mfrac><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mtext>and&#xA0;</mtext><mfrac><mi>b</mi><mi>y</mi></mfrac><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup></mtd></mtr></mtable></mtd></mtr></mtable></math>
+      Adding both
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mi>a</mi><mi>x</mi></mfrac><mo>+</mo><mfrac><mi>b</mi><mi>y</mi></mfrac><mo>=</mo><mn>4</mn><mo stretchy="false">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><msup><mi>y</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo>.</mo></math>
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>=</mo><msqrt><mfrac><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow></mfrac></msqrt><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>i</mi><mi>d</mi></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>i</mi><mi>d</mi></mrow></mfrac><mo>|</mo></mrow><mo>=</mo><mfrac><mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></mrow><mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>c</mi><mo>+</mo><mi>i</mi><mi>d</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></mrow></mfrac></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mo stretchy="false">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mn>3</mn><mrow><mn>2</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi></mrow></mfrac><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mfrac><mrow><mn>3</mn><mo stretchy="false">(</mo><mn>2</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>2</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mi>a</mi><mo>+</mo><mi>i</mi><mi>b</mi></math>
+      Taking 3 to denominator and equating real and imaginary parts we have
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>a</mi><mo>=</mo><mn>2</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mtext>and&#xA0;</mtext><mi>b</mi><mo>=</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>&#x03B8;<!-- θ --></mi></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mo>+</mo><mn>4</mn><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>2</mn></msup><mi>&#x03B8;<!-- θ --></mi><mo>+</mo><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>&#x03B8;<!-- θ --></mi></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>5</mn><mo>+</mo><mn>4</mn><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>=</mo><mn>8</mn><mo>+</mo><mn>4</mn><mi>c</mi><mi>o</mi><mi>s</mi><mi>&#x03B8;<!-- θ --></mi><mo>&#x2212;<!-- − --></mo><mn>3</mn><mo>=</mo><mn>4</mn><mi>a</mi><mo>&#x2212;<!-- − --></mo><mn>3.</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mn>2</mn><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mo>&#x2212;<!-- − --></mo><mn>2</mn><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>,</mo><mtext>let&#xA0;</mtext><mi>z</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mtd></mtr><mtr><mtd><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mn>1.</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      Given,
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>m</mi><mo>+</mo><mi>i</mi><mi>n</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><mi>i</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>i</mi><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></math>
+      Equating real and imaginary parts, we get
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true"><mtr><mtd><mi>m</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mtext>and&#xA0;</mtext><mi>n</mi><mo>=</mo><mo>&#x2212;<!-- − --></mo><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac></mtd></mtr><mtr><mtd><mo>&#x2234;<!-- ∴ --></mo><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>&#x2212;<!-- − --></mo><msup><mi>x</mi><mn>2</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mn>1.</mn></mtd></mtr></mtable></mtd></mtr></mtable></math>
+    </d:listitem>
+    <d:listitem>
+      This is similar to problem 40 and hence left as an exercise to reader.
+    </d:listitem>
+    <d:listitem>
+      We have,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi>x</mi><mi>a</mi></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi>x</mi><mi>b</mi></mfrac></mrow></mfenced><mfenced><mrow><mn>1</mn><mo>+</mo><mi>i</mi><mfrac><mi>x</mi><mi>c</mi></mfrac></mrow></mfenced><mo>=</mo><mi>A</mi><mo>&#xA0;</mo><mo>+</mo><mi>i</mi><mi>B</mi></math>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi><mo>.</mo><mi>H</mi><mo>.</mo><mi>S</mi><mo>.</mo><mo>=</mo><msub><mi>z</mi><mn>1</mn></msub><mo>&amp;</mo><mi>R</mi><mo>.</mo><mi>H</mi><mo>.</mo><mi>S</mi><mo>.</mo><mo>=</mo><msub><mi>z</mi><mn>2</mn></msub></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2235;</mo><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>z</mi><mn>2</mn></msub><mo>&#x2234;</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>1</mn></msub><mo>&#xAF;</mo></mover><mo>=</mo><msub><mi>z</mi><mn>2</mn></msub><mover><mrow><mi>z</mi><mn>2</mn></mrow><mo>&#xAF;</mo></mover></math>
+      Now it is trivial to evaluate and prove.
+    </d:listitem>
+    <d:listitem>
+      Let
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>1</mn></msub></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub><mo>=</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><mi>i</mi><msub><mi>y</mi><mn>2</mn></msub><mo>.</mo></math>
+      Then, we have
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub></mrow><mrow><msub><mi>z</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>z</mi><mn>2</mn></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>+</mo><msub><mi>y</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>x</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>x</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo>&#x2212;<!-- − --></mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>x</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>y</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></mfrac></math>
+      Neglecting the denominator
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mtext>Numerator&#xA0;</mtext><mo>=</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>&#x2212;<!-- − --></mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>1</mn><mn>2</mn></msubsup><mo>&#x2212;<!-- − --></mo><msubsup><mi>y</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><mi>i</mi><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><msub><mi>y</mi><mn>2</mn></msub><mo>&#x2212;<!-- − --></mo><msub><mi>x</mi><mn>2</mn></msub><msub><mi>y</mi><mn>1</mn></msub><mo stretchy="false">)</mo></math>
+      Now it is given that
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>1</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>=</mo><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><msub><mi>z</mi><mn>2</mn></msub><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow></math>
+      Hence result is either 0 or purely imaginary based on the fact if
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math>
+      is purely real and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      is purely imaginary or not.
+    </d:listitem>
+    <d:listitem>
+      Let,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>.</mo></math>
+      Now, we have
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>&#x2229;</mo><mi>z</mi><mo>=</mo><mo>&#xA0;</mo><mn>1</mn><mo>&#xA0;</mo><mo>+</mo><mo>&#xA0;</mo><mn>0</mn><mi>i</mi><mo>&#x2229;</mo><mi>x</mi><mo>&#xA0;</mo><mo>+</mo><mo>&#xA0;</mo><mi>i</mi><mi>y</mi></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mn>1</mn><mo>&#x2264;</mo><mi>x</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>&#x2264;</mo><mi>y</mi></math>
+      Let,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi>z</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>z</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mn>1</mn><mo>+</mo><mi>x</mi><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>)</mo><mo>(</mo><mn>1</mn><mo>+</mo><mi>x</mi><mo>-</mo><mi>i</mi><mi>y</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mi>i</mi><mn>2</mn><mi>y</mi></mrow><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;</mo><mi>R</mi><mi>e</mi><mo>(</mo><mi>p</mi><mo>)</mo><mo>&#x2264;</mo><mn>0</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2234;</mo><mi>I</mi><mi>m</mi><mo>(</mo><mi>p</mi><mo>)</mo><mo>&#x2264;</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      From the given equation we can deduce that
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>z</mi><mo>=</mo><mo>&#x2212;<!-- − --></mo><mfrac><mn>1</mn><mrow><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>+</mo><mi>a</mi></mrow></mfrac></math>
+      Since
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mo>&gt;</mo><mn>0</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mi>z</mi><mrow class="MJX-TeXAtom-ORD"><mo stretchy="false">|</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi>z</mi></math>
+      is a negative real number from previous equation.
+    </d:listitem>
+    <d:listitem>
+      Given
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><mo>+</mo><mi>&#x03B1;<!-- α --></mi><msqrt><mo stretchy="false">(</mo><mi>x</mi><mo>&#x2212;<!-- − --></mo><mn>1</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></msqrt><mo>+</mo><mn>2</mn><mi>i</mi><mo>=</mo><mn>0</mn></math>
+    </d:listitem>
+    <d:listitem>
+      Equating real and imaginary parts
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>+</mo><mi>&#x3B1;</mi><msqrt><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></msqrt><mo>=</mo><mn>0</mn></math>
+      Substituting value of
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math>
+      in second equation
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>&#x03B1;<!-- α --></mi><msqrt><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></msqrt><mo>=</mo><mo>&#x2212;<!-- − --></mo><mi>x</mi><mo stretchy="false">&#x21D2;<!-- ⇒ --></mo><mo stretchy="false">(</mo><msup><mi>&#x03B1;<!-- α --></mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>1</mn><mo stretchy="false">)</mo><msup><mi>x</mi><mn>2</mn></msup><mo>&#x2212;<!-- − --></mo><mn>2</mn><msup><mi>&#x03B1;<!-- α --></mi><mn>2</mn></msup><mi>x</mi><mo>+</mo><mn>5</mn><msup><mi>&#x03B1;<!-- α --></mi><mn>2</mn></msup><mo>=</mo><mn>0</mn></math>
+      This is similar to problem no. 47 and is left as an exercise. Reader is
+      implored to study chapter on quadratic equations for this.
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>y</mi><msup><mo>)</mo><mn>5</mn></msup><mo>=</mo><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><mi>i</mi><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mi>y</mi><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mi>i</mi><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mi>y</mi><mn>4</mn></msup><mo>+</mo><mi>i</mi><msup><mi>y</mi><mn>5</mn></msup></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mo>(</mo><msup><mi>x</mi><mn>5</mn></msup><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mi>y</mi><mn>4</mn></msup><mo>)</mo><mo>+</mo><mi>i</mi><mo>(</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mi>y</mi><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>y</mi><mn>5</mn></msup><mo>)</mo></math>
+      <d:para>
+        Taking modulus and squaring
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><msup><mo>)</mo><mn>5</mn></msup><mo>=</mo><mo>(</mo><msup><mi>x</mi><mn>5</mn></msup><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mi>y</mi><mn>4</mn></msup><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mi>y</mi><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>y</mi><mn>5</mn></msup><msup><mo>)</mo><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>a</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>b</mi><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>c</mi><mo>)</mo><mo>=</mo><mo>[</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>a</mi><mi>b</mi><mo>+</mo><mi>i</mi><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><mi>x</mi><mo>]</mo><mo>(</mo><mi>x</mi><mo>+</mo><mi>i</mi><mi>c</mi><mo>)</mo></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mi>a</mi><mi>b</mi><mi>x</mi><mo>-</mo><mi>a</mi><mi>c</mi><mi>x</mi><mo>-</mo><mi>b</mi><mi>c</mi><mi>x</mi><mo>)</mo><mo>+</mo><mi>i</mi><mo>(</mo><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>a</mi><mi>b</mi><mi>c</mi><mo>+</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><msup><mi>x</mi><mn>2</mn></msup><mo>)</mo></math>
+      <d:para>
+      Taking modulus and squaring
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>a</mi><mn>2</mn></msup><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>c</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mi>a</mi><mi>b</mi><mi>x</mi><mo>-</mo><mi>a</mi><mi>c</mi><mi>x</mi><mo>-</mo><mi>b</mi><mi>c</mi><mi>x</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>c</mi><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>a</mi><mi>b</mi><mi>c</mi><mo>+</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><msup><mi>x</mi><mn>2</mn></msup><msup><mo>)</mo><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><mi>x</mi><msup><mo stretchy="false">)</mo><mi>n</mi></msup><mo>=</mo><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mi>x</mi><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msub><mi>a</mi><mn>3</mn></msub><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msub><mi>a</mi><mn>4</mn></msub><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>
+      <d:para>Substituting</d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>=</mo><mi>i</mi></math>
+      <d:para>
+        we get
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>(</mo><mn>1</mn><mo>+</mo><mi>i</mi><msup><mo>)</mo><mi>n</mi></msup><mo>=</mo><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><mi>i</mi><msub><mi>a</mi><mn>1</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>-</mo><mi>i</mi><msub><mi>a</mi><mn>3</mn></msub><mo>+</mo><msub><mi>a</mi><mn>4</mn></msub><mo>+</mo><mo>.</mo><mo>.</mo><mo>.</mo></math>
+      <d:para>
+        Taking modulus and squaring
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>2</mn><mi>n</mi></msup><mo>=</mo><mo>(</mo><msub><mi>a</mi><mn>0</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><msub><mi>a</mi><mn>4</mn></msub><mo>-</mo><mo>.</mo><mo>.</mo><mo>.</mo><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>+</mo><msub><mi>a</mi><mn>5</mn></msub><mo>-</mo><mo>.</mo><mo>.</mo><mo>.</mo><msup><mo>)</mo><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <d:para>
+        Let <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math> be
+        a real root then we have
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>&#x3B1;</mi><mi>x</mi><mo>+</mo><mi>&#x3B2;</mi><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>&#x3B1;</mi><mi>x</mi><mo>=</mo><mo>-</mo><mi>&#x3B2;</mi></math>
+      <d:para>
+              Taking conjugate we have
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>-</mo><mover><mi>&#x3B2;</mi><mo>&#xAF;</mo></mover><mo>=</mo><mover><msup><mi>x</mi><mn>2</mn></msup><mo>&#xAF;</mo></mover><mo>+</mo><mover><mrow><mi>&#x3B1;</mi><mi>x</mi></mrow><mo>&#xAF;</mo></mover><mo>-</mo><mover><mi>&#x3B2;</mi><mo>&#xAF;</mo></mover><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mover><mi>&#x3B1;</mi><mo>&#xAF;</mo></mover><mi>x</mi></math>
+      <d:para>[because x ir real]. Subtracting, we get</d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B2;</mi><mo>-</mo><mover><mi>&#x3B2;</mi><mo>&#xAF;</mo></mover><mo>=</mo><mo>(</mo><mover><mi>&#x3B1;</mi><mo>&#xAF;</mo></mover><mo>-</mo><mi>&#x3B1;</mi><mo>)</mo><mi>x</mi><mo>.</mo></math>
+        Multiplying first equation with
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>&#x3B1;</mi><mo>&#xAF;</mo></mover></math>
+      and second with
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math>
+      and subtracting we get
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi><mover><mi>&#x3B2;</mi><mo>&#xAF;</mo></mover><mo>-</mo><mover><mi>&#x3B1;</mi><mo>&#xAF;</mo></mover><mi>&#x3B2;</mi><mo>=</mo><mo>(</mo><mover><mi>&#x3B1;</mi><mo>&#xAF;</mo></mover><mo>-</mo><mi>&#x3B1;</mi><mo>)</mo><msup><mi>x</mi><mn>2</mn></msup></math>
+    </d:listitem>
+    <d:listitem>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo>=</mo><mi>m</mi><mo>(</mo><mi>z</mi><mo>-</mo><mi>i</mi><mo>)</mo><mo>+</mo><mi>i</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo>=</mo><mi>n</mi><mo>(</mo><mi>z</mi><mo>+</mo><mi>i</mi><mo>)</mo><mo>+</mo><mn>1</mn><mo>+</mo><mi>i</mi></math>
+      where
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
+      are quotients upon division. Substituting
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mi>i</mi></math>
+      in the first equation and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mo>&#x2212;<!-- − --></mo><mi>i</mi></math>
+      in the second we get.
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>i</mi><mo>)</mo><mo>=</mo><mi>i</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mo>-</mo><mi>i</mi><mo>)</mo><mo>=</mo><mn>1</mn><mo>+</mo><mi>i</mi><mo>.</mo></math>
+      <d:para>
+        Let
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mo>(</mo><mi>z</mi><mo>)</mo></math>
+        be the quotient and
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>z</mi><mo>+</mo><mi>b</mi></math>
+        be the remainder upon division of
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>z</mi><mo>)</mo></math>
+        by
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></math>
+        Hence, we have
+      </d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo>=</mo><mi>g</mi><mo>(</mo><mi>z</mi><mo>)</mo><mo>(</mo><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>a</mi><mi>z</mi><mo>+</mo><mi>b</mi></math>
+      Substituting
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mi>i</mi></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>=</mo><mo>-</mo><mi>i</mi></math>
+      we have
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo>(</mo><mi>i</mi><mo>)</mo><mo>=</mo><mi>i</mi><mo>=</mo><mi>a</mi><mi>i</mi><mo>+</mo><mi>b</mi><mo>[</mo><mo>&#x2235;</mo><msup><mi>i</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>]</mo><mi>f</mi><mo>(</mo><mo>-</mo><mi>i</mi><mo>)</mo><mo>=</mo><mn>1</mn><mo>+</mo><mi>i</mi><mo>=</mo><mo>-</mo><mi>a</mi><mi>i</mi><mo>+</mo><mi>b</mi><mo>[</mo><mo>&#x2235;</mo><mo>(</mo><mo>-</mo><mi>i</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>]</mo></math>
+        Adding
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mi>b</mi><mo>=</mo><mn>1</mn><mo>+</mo><mn>2</mn><mi>i</mi><mo>&#x21D2;</mo><mi>b</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi>i</mi></mrow><mn>2</mn></mfrac></math>
+        <d:para>
+          Now <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math>
+          can be calculated and
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>z</mi><mo>+</mo><mi>b</mi></math>
+          evaluated.
+        </d:para>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      Given,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi><msup><mi>z</mi><mn>3</mn></msup><mo>+</mo><msup><mi>z</mi><mn>2</mn></msup><mo>-</mo><mi>z</mi><mo>+</mo><mi>i</mi><mo>=</mo><mn>0</mn></math>
+      <d:informalequation>
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mi>i</mi><msup><mi>z</mi><mn>2</mn></msup><mo>(</mo><mi>z</mi><mo>-</mo><mi>i</mi><mo>)</mo><mo>-</mo><mn>1</mn><mo>(</mo><mi>z</mi><mo>-</mo><mi>i</mi><mo>)</mo></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mo>(</mo><mi>i</mi><msup><mi>z</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>z</mi><mo>-</mo><mi>i</mi><mo>)</mo></math>
+      </d:informalequation>
+      Either
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi><msup><mi>z</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><msup><mi>z</mi><mn>2</mn></msup><mo>=</mo><mo>-</mo><mi>i</mi><mo>&#x21D2;</mo><mo>|</mo><mi>z</mi><msup><mo>|</mo><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>&#x21D2;</mo><mo>|</mo><mi>z</mi><mo>|</mo><mo>=</mo><mn>1</mn></math>
+      <d:para>or</d:para>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>z</mi><mo>-</mo><mi>i</mi><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><mo>|</mo><mi>z</mi><mo>|</mo><mo>=</mo><mn>1</mn></math>
+    </d:listitem>
+    <d:listitem>
+      We know that for two complex numbers
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub></math> and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>2</mn></msub></math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>+</mo><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>-</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>|</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup></math>
+      <d:para>
+        Let
+      </d:para>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mi>&#x3B1;</mi><mo>+</mo><msqrt><msup><mi>&#x3B1;</mi><mn>2</mn></msup><mo>-</mo><msup><mi>&#x3B2;</mi><mn>2</mn></msup></msqrt></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>z</mi><mn>1</mn></msub><mo>=</mo><mi>&#x3B1;</mi><mo>-</mo><msqrt><msup><mi>&#x3B1;</mi><mn>2</mn></msup><mo>-</mo><msup><mi>&#x3B2;</mi><mn>2</mn></msup></msqrt></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mfenced><mrow><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><msup><mo>|</mo><mo>2</mo></msup><mo>+</mo><mo>|</mo><msub><mi>z</mi><mn>2</mn></msub><mo>|</mo></mrow></mfenced><mn>2</mn></msup><mo>=</mo><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>+</mo><mo>|</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>|</mo><mo>|</mo><msub><mi>z</mi><mn>2</mn></msub><mo>|</mo></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced open="[" close="]"><mrow><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>+</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup><mo>+</mo><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><mo>-</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo>|</mo><mn>2</mn></msup></mrow></mfenced><mo>+</mo><mn>2</mn><mo>|</mo><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub><mo>|</mo></math>
+      </d:informalequation>
+      <d:para>
+        Solving this gives us our desired results.
+      </d:para>
+    </d:listitem>
+    <d:listitem>
+      Given
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>|</mo><mi>z</mi><mn>1</mn><mo>|</mo><mo>=</mo><mo>|</mo><mi>z</mi><mn>2</mn><mo>|</mo><mo>=</mo><mn>1</mn><mo>&#x2234;</mo><mo>&#xA0;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>
+      and
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>
+      <d:para>
+        Also given that
+      </d:para>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mi>e</mi><mo>(</mo><msub><mi>z</mi><mn>1</mn></msub><mover><msub><mi>z</mi><mn>2</mn></msub><mo>&#xAF;</mo></mover><mo>)</mo><mo>=</mo><mn>0</mn><mo>&#x21D2;</mo><mi>a</mi><mi>c</mi><mo>+</mo><mi>b</mi><mi>d</mi><mo>=</mo><mn>0</mn></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>a</mi><mi>d</mi></mfrac><mo>=</mo><mo>-</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mi>p</mi></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x2235;</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>&#x21D2;</mo><msup><mi>p</mi><mn>2</mn></msup><mo>(</mo><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><msup><mi>d</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mn>1</mn></math>
+      </d:informalequation>
+      Now it is trivial to prove the orioginal equalities.
+    </d:listitem>
+    <d:listitem>
+
     </d:listitem>
   </d:orderedlist>
 </d:chapter>
