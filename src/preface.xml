@@ -3,17 +3,6 @@
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
   <?dbhtml filename="preface/index.html" ?>
-  <d:author>
-    <d:honorific>Dr.</d:honorific>
-    <d:firstname>Lois</d:firstname>
-    <d:surname>Common-Demoninator</d:surname>
-    <d:affiliation>
-      <d:shortaffil>Director, M. Behn School of Coop. Eng.</d:shortaffil>
-      <d:jobtitle>Director of Cooperative Efforts</d:jobtitle>
-      <d:orgname>The Marguerite Behn International School of
-               Cooperative Engineering</d:orgname>
-    </d:affiliation>
-  </d:author>
   <d:title>Preface</d:title>
   <d:para>
     This is a book on algebra, which, covers basics of algebra till high school
