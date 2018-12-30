@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
 import sys, os, fnmatch
-from pygments import highlight
-from pygments.lexers import *
-from pygments.formatters import HtmlFormatter
+#from pygments import highlight
+#from pygments.lexers import *
+#from pygments.formatters import HtmlFormatter
 from string import *
 import multiprocessing
 
@@ -30,7 +30,7 @@ def setup(files):
 def process(filepath):
     #print "in process"
     print(filepath)
-    with open(filepath) as f:
+    with open(filepath, 'rb') as f:
             # print "opened " + filepath
             l = filepath.split('/')
             name = ''
@@ -38,9 +38,9 @@ def process(filepath):
                 name = l[len(l) - 1]
             s = f.read()
             #s = s.replace(find, replace)
-            s = s.replace("index.html", "")
-            s = s.replace("<html>", "<!DOCTYPE html>")
-            s = s.replace('<meta', "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta")
+            s = s.replace(b"index.html", b"")
+            s = s.replace(b"<html>", b"<!DOCTYPE html>")
+            s = s.replace(b'<meta', b"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta")
             soup = BeautifulSoup(s, "lxml")
 
             for i in soup.find_all("table", attrs={"summary": "Navigation header"}):
@@ -86,7 +86,7 @@ def process(filepath):
 #                                for i in soup.find_all("pre", "CommonLispLexer"):
 #                                        code = BeautifulSoup(highlight(i.string, CommonLispLexer(), HtmlFormatter()))
 #                                        i.string.replace_with(code)
-            soup = BeautifulSoup(soup.renderContents(), "lxml")
+#            soup = BeautifulSoup(soup.renderContents(), "lxml")
 #syntax highlighting is not needed for algebra
 #            for i in soup.find_all("pre", "CLexer"):
 #                   #print i.string
@@ -102,7 +102,7 @@ def process(filepath):
 #                   i.string.replace_with(code)
             with open(filepath, "w") as f:
                    #print "Hello"
-                   f.write(soup.encode(formatter='html'))
+                   f.write(soup.decode(formatter='html'))
 
 findReplace("build/", "mml:", "", "index.html")
 findReplace("build/", "mml:", "", "ix01.html")

@@ -26,14 +26,14 @@
       <xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/html/highlight.xsl" />-->
 
   <xsl:template name="user.head.content">
-    <xsl:copy-of select="document('analytics.js', /)"/>
-    <!--xsl:copy-of select="document('mathjax_config.js', /)"/-->
-    <!--xsl:copy-of select="document('mathjax.js', /)"/-->
+    <!--xsl:copy-of select="document('analytics.js', /)"/>
+    <xsl:copy-of select="document('mathjax_config.js', /)"/>
+    <xsl:copy-of select="document('mathjax.js', /)"/-->
 
   </xsl:template>
   <xsl:template name="user.footer.navigation">
     <br/>
-    <p style="text-align: center;">&#xa9; 2010-2017 Shiv S. Dayal. <a href="http://10hash.com">10hash.com</a>.
+    <p style="text-align: center;">&#xa9; 2010-2018 Shiv S. Dayal. <a href="http://10hash.com">10hash.com</a>.
     GNU FDL license v1.3 or later is applicable where not stated.</p>
   </xsl:template>
 
