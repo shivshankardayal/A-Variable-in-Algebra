@@ -6,7 +6,7 @@ html: src/*.xml html.xsl Makefile
 #	find . -name "*.html" | xargs perl -pi -e "s/<meta/<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta/g;"
 	cp -r images build/
 	./domp.py
-	cp -r build/* /var/www/algebra/
+	cp -r build/* /usr/share/nginx/html
 
 
 pdf: src/*.xml dblatex.xsl Makefile

@@ -24,7 +24,6 @@ def setup(files):
     for i in range(len(files)):
         p = multiprocessing.Process(target=process, args=(files[i],))
         jobs.append(p)
-
         p.start()
 
 def process(filepath):
@@ -104,7 +103,10 @@ def process(filepath):
                    #print "Hello"
                    f.write(soup.decode(formatter='html'))
 
-findReplace("build/", "mml:", "", "index.html")
-findReplace("build/", "mml:", "", "ix01.html")
-#print files_list
-setup(files_list)
+
+if __name__ == "__main__":
+    #findReplace("build/", "mml:", "", "index.html")
+    #findReplace("build/", "mml:", "", "ix01.html")
+    #print files_list
+    multiprocessing.freeze_support()
+    setup(files_list)
