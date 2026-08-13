@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"cheerio": "^1.2.0",
+		"jsdom": "^29.1.1",
+		"mathjax-full": "3.2.2",
+		"mathjax-node": "^2.1.1"
+	}
+}

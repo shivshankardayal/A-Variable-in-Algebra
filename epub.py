@@ -11,7 +11,7 @@ def findReplace(directory, find, replace, filePattern):
         for path, dirs, files in os.walk(os.path.abspath(directory)):
                 for filename in fnmatch.filter(files, filePattern):
                         filepath = os.path.join(path, filename)
-                        print filepath
+                        #print filepath
                         with open(filepath) as f:
                                 l = filepath.split('/')
                                 name = ''
@@ -79,7 +79,7 @@ def findReplace(directory, find, replace, filePattern):
                                         code = BeautifulSoup(highlight(i.string, MakefileLexer(), HtmlFormatter()), "lxml")
                                         i.string.replace_with(code)
                         with open(filepath, "w") as f:
-                                f.write(soup.encode(formatter='html'))
+                                f.write(soup.decode(formatter='html'))
 
 findReplace("OEBPS/", "mml:", "", "index.html")
 findReplace("OEBPS/", "mml:", "", "ix01.html")

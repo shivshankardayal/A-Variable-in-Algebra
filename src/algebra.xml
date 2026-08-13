@@ -14,7 +14,7 @@
     </d:author>
     <d:copyright>
       <d:year>2014</d:year>
-      <d:year>2016</d:year>
+      <d:year>2026</d:year>
       <d:holder>Shiv S. Dayal</d:holder>
     </d:copyright>
     <d:legalnotice>
@@ -33,16 +33,6 @@ the section entitled &#8220;GNU Free Documentation License&#8221;.
     </d:para>
   </d:dedication>
   <xi:include href="preface.xml"/>
-  <xi:include href="ns.xml"/>
-  <xi:include href="ratio.xml"/>
-  <xi:include href="ratio-solutions.xml"/>
-  <xi:include href="proportions.xml"/>
-  <xi:include href="proportions-solutions.xml"/>
-  <xi:include href="variations.xml"/>
-  <xi:include href="variations-solutions.xml"/>
-  <xi:include href="complex-numbers.xml"/>
-  <xi:include href="complex-numbers-problems.xml"/>
-  <xi:include href="complex-numbers-solutions.xml"/>
   <d:index>
     <d:title>Index</d:title>
   </d:index>

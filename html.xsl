@@ -1,7 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:d="http://docbook.org/ns/docbook"
 		xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-		xmlns:exsl="http://exslt.org/common">
+		xmlns:exsl="http://exslt.org/common"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML">
 
   <!--
       * IMPORTANT!
@@ -18,22 +19,30 @@
   -->
 
   <!-- Use the official stylesheet distro -->
-  <xsl:import href="/usr/share/xml/docbook/xsl-stylesheets/html/chunk.xsl" />
+  <xsl:import href="/usr/share/xml/docbook/xsl-ns-stylesheets-1.79.2/html/chunk.xsl" />
   <!--xsl:import href="/opt/local//share/xsl/docbook-xsl-ns/html/chunk.xsl" /-->
 
   <!-- The location of the highlighting configuration -->
   <!--<xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/highlighting/common.xsl" />
       <xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/html/highlight.xsl" />-->
 
+  <xsl:template match="d:cover" priority="10">
+    <xsl:message>FOUND COVER</xsl:message>
+    <div class="cover">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
   <xsl:template name="user.head.content">
-    <!--xsl:copy-of select="document('analytics.js', /)"/>
-    <xsl:copy-of select="document('mathjax_config.js', /)"/>
+    <xsl:copy-of select="document('analytics1.js', /)"/>
+    <xsl:copy-of select="document('analytics.js', /)"/>
+    <xsl:copy-of select="document('adsense.js', /)"/>
+    <!--xsl:copy-of select="document('mathjax_config.js', /)"/>
     <xsl:copy-of select="document('mathjax.js', /)"/-->
 
   </xsl:template>
   <xsl:template name="user.footer.navigation">
     <br/>
-    <p style="text-align: center;">&#xa9; 2010-2018 Shiv S. Dayal. <a href="http://10hash.com">10hash.com</a>.
+    <p style="text-align: center;">&#xa9; 2026-present Shiv S. Dayal. <a href="https://ashtavakra.org">ashtavakra.org</a>.
     GNU FDL license v1.3 or later is applicable where not stated.</p>
   </xsl:template>
 
@@ -58,6 +67,8 @@
   <xsl:template match="d:programlisting[@role]" mode="class.value">
     <xsl:value-of select="@role"/>
   </xsl:template>
+
+  <xsl:template match="mml:math[@condition='pdf']"/>
   <xsl:template name="footer.navigation">
     <xsl:param name="prev" select="/d:foo"/>
     <xsl:param name="next" select="/d:foo"/>
@@ -288,4 +299,7 @@
  section   nop
  set       toc
 </xsl:param>
+  <xsl:template match="m">
+    <xsl:value-of select="."/>
+  </xsl:template>
 </xsl:stylesheet>

@@ -26,6 +26,7 @@ def setup(files):
         jobs.append(p)
         p.start()
 
+
 def process(filepath):
     #print "in process"
     print(filepath)
@@ -74,12 +75,14 @@ def process(filepath):
                    elif name == "ix01.html":
                            link = BeautifulSoup("<a href=\"index.html\">Table of Contents</a>", "lxml")
                    else:
-                           link = BeautifulSoup("<a href=\"../\">Table of Contents</a>", "lxml")
-                   j.contents[0].contents[1].insert(0, link)
+                           link = BeautifulSoup("<a href=\"../\">Table of Contents</a><br/>", "lxml")
+                   #j.contents[0].contents[1].insert(0, link)
+                   #print(j)
                    j.contents[1].contents[1].clear()
                    j.contents[1].contents[1].insert(0, link)
                 # Now mathjax removed
-            p = BeautifulSoup("<h3><a href='/'>Site Home</a></h3><p class='alert alert-danger'>Please see <a href=\"http://caniuse.com/#feat=mathml\">http://caniuse.com/#feat=mathml</a> if your browser supports MathML because certain sections of this book rely on MathML. If your browser does not support MathML please install Firefox from <a href=\"https://www.mozilla.org\">Mozilla</a> because AFAIK Firefox supports MathML.</p>", "lxml")
+            p = BeautifulSoup('<h3><a href="/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16"><path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/></svg></i> Home</a></h3>', "lxml")
+            # print(f)
             soup.body.insert(0, p)
             soup = BeautifulSoup(soup.renderContents(), "lxml")
 #                                for i in soup.find_all("pre", "CommonLispLexer"):
@@ -105,8 +108,10 @@ def process(filepath):
 
 
 if __name__ == "__main__":
-    #findReplace("build/", "mml:", "", "index.html")
-    #findReplace("build/", "mml:", "", "ix01.html")
+    findReplace("build/", "mml:", "", "index.html")
+    findReplace("build/", "mml:", "", "ix01.html")
+    findReplace("build/", "mml:", "", "pt01.html")
+    findReplace("build/", "mml:", "", "pt02.html")
     #print files_list
     multiprocessing.freeze_support()
     setup(files_list)
